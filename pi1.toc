@@ -1,0 +1,100 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{15}{chapter.1}
+\contentsline {section}{\numberline {1.1}Contextualiza\c {c}\~ao}{15}{section.1.1}
+\contentsline {section}{\numberline {1.2}Descri\c {c}\~ao do problema}{17}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Problemas encontrados}{17}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Ilumina\c {c}\~ao}{17}{subsubsection.1.2.1.1}
+\contentsline {subsubsection}{\numberline {1.2.1.2}Falta de Monitoramento do Parque}{17}{subsubsection.1.2.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1.3}Danos na cerca do parque}{17}{subsubsection.1.2.1.3}
+\contentsline {subsubsection}{\numberline {1.2.1.4}Falta de manuten\c {c}\~ao da infraestrutura}{18}{subsubsection.1.2.1.4}
+\contentsline {subsubsection}{\numberline {1.2.1.5}Fonte n\~ao sustent\'avel de energia}{18}{subsubsection.1.2.1.5}
+\contentsline {subsubsection}{\numberline {1.2.1.6}Lixo produzido nos banheiros por usu\'arios e pela administra\c {c}\~ao}{18}{subsubsection.1.2.1.6}
+\contentsline {subsubsection}{\numberline {1.2.1.7}A falta de atratividade do parque}{19}{subsubsection.1.2.1.7}
+\contentsline {subsection}{\numberline {1.2.2}Quem \'e afetado pelos problemas encontrados}{19}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Impactos}{19}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Justificativa}{20}{section.1.3}
+\contentsline {section}{\numberline {1.4}5W2H}{20}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}What? (O que ser\'a entregue?)}{20}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Why? (Por qu\^e est\'a sendo feito?)}{20}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Where? (Onde ser\'a feito/ entregue/ utilizado?)}{20}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}When? (Quando ser\'a feito/ entregue?)}{20}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Who? (Quem o far\'a?)}{21}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}How? (Como ser\'a realizado?)}{21}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}How much? (Quanto custar\'a?)}{21}{subsection.1.4.7}
+\contentsline {section}{\numberline {1.5}Objetivos}{21}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Objetivo Geral}{21}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Objetivos Espec\'{\i }ficos}{21}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}Metodologia}{22}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Estrutura Organizacional}{22}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Gerenciamento dos Recursos Humanos}{23}{subsection.1.6.2}
+\contentsline {subsubsection}{\numberline {1.6.2.1}Pap\'eis e Responsabilidades}{23}{subsubsection.1.6.2.1}
+\contentsline {subsection}{\numberline {1.6.3}Plano de Comunica\c {c}\~ao}{23}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Gerenciamento do Tempo}{25}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Desenvolvimento de Projeto/ Metodologia}{25}{subsection.1.6.5}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Desenvolvimento}}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}Solu\c {c}\~oes Propostas}{27}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Planejamento de ilumina\c {c}\~ao}{27}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Planejamento ou projeto de monitoramento}{27}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Postes com placa solar para abastecimento pr\'oprio}{28}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Turbinas de vento para gera\c {c}\~ao de energia el\'etrica.}{28}{subsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.4.1}Impactos de uso}{29}{subsubsection.2.1.4.1}
+\contentsline {subsubsection}{\numberline {2.1.4.2}Viabilidade econ\^omica}{30}{subsubsection.2.1.4.2}
+\contentsline {subsubsection}{\numberline {2.1.4.3}Viabilidade da Energia E\'olica no parque do Gama}{30}{subsubsection.2.1.4.3}
+\contentsline {subsection}{\numberline {2.1.5}Sistema de capta\c {c}\~ao e reutiliza\c {c}\~ao da \'agua da chuva.}{31}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Placas solares em cima de edifica\c {c}\~oes.}{31}{subsection.2.1.6}
+\contentsline {subsubsection}{\numberline {2.1.6.1}An\'alise de viabilidade}{32}{subsubsection.2.1.6.1}
+\contentsline {subsection}{\numberline {2.1.7}Coleta Seletiva}{33}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}L\^ampadas de LED}{33}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Solu\c {c}\~ao de servi\c {c}os}{33}{subsection.2.1.9}
+\contentsline {subsection}{\numberline {2.1.10}Esportes}{33}{subsection.2.1.10}
+\contentsline {subsubsection}{\numberline {2.1.10.1}Estudo da viabilidade}{34}{subsubsection.2.1.10.1}
+\contentsline {subsection}{\numberline {2.1.11}Infraestrutura}{34}{subsection.2.1.11}
+\contentsline {section}{\numberline {2.2}Solu\c {c}\~oes Adotadas}{34}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Capta\c {c}\~ao de \'aguas pluviais}{34}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Plano de Cercamento}{40}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Relat\'orio de Pain\'eis Solares}{42}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Objetivos}{42}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Comparativos das tecnologias dos sistemas fotovoltaicos}{43}{subsubsection.2.2.3.2}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Sistemas isolados}{44}{subsubsection.2.2.3.3}
+\contentsline {subsubsection}{\numberline {2.2.3.4}Sistemas conectados a rede}{44}{subsubsection.2.2.3.4}
+\contentsline {subsubsection}{\numberline {2.2.3.5}An\'alise do Projeto}{45}{subsubsection.2.2.3.5}
+\contentsline {subsection}{\numberline {2.2.4}Projeto de ilumina\c {c}\~ao}{47}{subsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.4.1}Defini\c {c}\~oes de Termos Luminot\'ecnicos}{47}{subsubsection.2.2.4.1}
+\contentsline {subsubsection}{\numberline {2.2.4.2}Projeto de Ilumina\c {c}\~ao P\'ublica de \'Areas para Pedestres}{50}{subsubsection.2.2.4.2}
+\contentsline {subsubsection}{\numberline {2.2.4.3}Ilumina\c {c}\~ao de Pra\c {c}as e Parques}{50}{subsubsection.2.2.4.3}
+\contentsline {subsubsection}{\numberline {2.2.4.4}N\'iveis de iilumin\^ancia e uniformidade}{51}{subsubsection.2.2.4.4}
+\contentsline {subsubsection}{\numberline {2.2.4.5}Ciclovia e ciclofaixa}{51}{subsubsection.2.2.4.5}
+\contentsline {subsubsection}{\numberline {2.2.4.6}\'Areas de Ilumina\c {c}\~ao}{53}{subsubsection.2.2.4.6}
+\contentsline {subsection}{\numberline {2.2.5}Intera\IeC {\c c}\IeC {\~a}o social e atratividade do parque}{55}{subsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5.1}Espa\IeC {\c c}o interativo e viv\IeC {\^e}ncia}{56}{subsubsection.2.2.5.1}
+\contentsline {subsubsection}{\numberline {2.2.5.2}Locais permitidos para constru\IeC {\c c}\IeC {\~a}o no Parque Vivencial do Gama}{58}{subsubsection.2.2.5.2}
+\contentsline {subsubsection}{\numberline {2.2.5.3}Sistemas de aulas de gin\IeC {\'a}stica com bicicletas ergom\IeC {\'e}tricas sustent\IeC {\'a}vel}{60}{subsubsection.2.2.5.3}
+\contentsline {subsubsection}{\numberline {2.2.5.4}Produtos}{62}{subsubsection.2.2.5.4}
+\contentsline {subsubsection}{\numberline {2.2.5.5}Aplicativo}{67}{subsubsection.2.2.5.5}
+\contentsline {subsubsection}{\numberline {2.2.5.6}Ecoquiosques e postes com tomadas e acesso \IeC {\`a} WiFi}{70}{subsubsection.2.2.5.6}
+\contentsline {subsubsection}{\numberline {2.2.5.7}WiFi e Postes com USB no parque do Gama}{71}{subsubsection.2.2.5.7}
+\contentsline {subsection}{\numberline {2.2.6}Postes Solares}{73}{subsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.6.1}Estudo comparativo das tecnologias dos postes}{73}{subsubsection.2.2.6.1}
+\contentsline {section}{\numberline {2.3}Defini\c {c}\~ao de Escopo}{77}{section.2.3}
+\contentsline {section}{\numberline {2.4}Estrutura Anal\'itica do Projeto}{78}{section.2.4}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{81}{chapter.3}
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{83}{section*.78}
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
+\cftinsert {A}
+\contentsline {part}{\uppercase {Anexos}}{85}{section*.79}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{87}{appendix.anexochapback.1}
