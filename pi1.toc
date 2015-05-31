@@ -96,19 +96,20 @@
 \contentsline {subsubsection}{\numberline {2.3.2.6}Fonte de alimenta\IeC {\c c}\IeC {\~a}o}{105}{subsubsection.2.3.2.6}
 \contentsline {subsubsection}{\numberline {2.3.2.7}Considera\IeC {\c c}\IeC {\~o}es finais do projeto de monitoramento por c\IeC {\^a}meras}{106}{subsubsection.2.3.2.7}
 \contentsline {subsection}{\numberline {2.3.3}Planejamento de monitoramento por pessoas}{108}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Defini\IeC {\c c}\IeC {\~a}o de Escopo}{111}{section.2.4}
-\contentsline {section}{\numberline {2.5}Estrutura Anal\'itica do Projeto}{112}{section.2.5}
+\contentsline {subsection}{\numberline {2.3.4}Manuten\IeC {\c c}\IeC {\~a}o}{111}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Defini\IeC {\c c}\IeC {\~a}o de Escopo}{117}{section.2.4}
+\contentsline {section}{\numberline {2.5}Estrutura Anal\'itica do Projeto}{117}{section.2.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{115}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{119}{chapter.3}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{117}{section*.121}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{121}{section*.121}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{119}{section*.122}
+\contentsline {part}{\uppercase {Anexos}}{123}{section*.122}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{121}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{125}{appendix.anexochapback.1}

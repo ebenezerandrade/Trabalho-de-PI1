@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.30)  31 MAY 2015 16:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.30)  31 MAY 2015 17:47
 entering extended mode
 **pi1.tex
 ("C:\Users\Ebenezer Andrade\Documents\GitHub\Trabalho-de-PI1\pi1.tex"
@@ -1728,34 +1728,39 @@ Underfull \vbox (badness 1325) has occurred while \output is active []
 
  [13]
 [14]
-Overfull \hbox (1.5877pt too wide) detected at line 98
- \T1/lmss/bx/n/12 107
- []
-
-
 Overfull \hbox (1.5877pt too wide) detected at line 99
- \T1/lmss/bx/n/12 108
- []
-
-
-Overfull \hbox (1.5877pt too wide) detected at line 101
  \T1/lmss/bx/n/12 111
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 104
- \T1/lmss/bx/n/12 113
+Overfull \hbox (1.5877pt too wide) detected at line 100
+ \T1/lmss/bx/n/12 117
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 101
+ \T1/lmss/bx/n/12 118
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 103
+ \T1/lmss/bx/n/12 121
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 106
+ \T1/lmss/bx/n/12 123
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 109.
+(Font)              <14.4> on input line 111.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 109.
+(Font)              <10> on input line 111.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 109.
+(Font)              <7> on input line 111.
 
-Overfull \hbox (1.5877pt too wide) detected at line 113
- \T1/lmss/bx/n/12 117
+Overfull \hbox (1.5877pt too wide) detected at line 115
+ \T1/lmss/bx/n/12 127
  []
 
 ) [15] [16
@@ -1766,7 +1771,7 @@ ao.tex"
 
 LaTeX Warning: Citation `ResolucaoN700' on page 17 undefined on input line 7.
 
-<figuras/ParqueVivencialGama.jpg, id=518, 576.65437pt x 524.71031pt>
+<figuras/ParqueVivencialGama.jpg, id=528, 576.65437pt x 524.71031pt>
 File: figuras/ParqueVivencialGama.jpg Graphic file (type jpg)
 
 <use figuras/ParqueVivencialGama.jpg>
@@ -1779,7 +1784,7 @@ Underfull \vbox (badness 1072) has occurred while \output is active []
  [17
 
  <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/ParqueVive
-ncialGama.jpg>] <figuras/VegatacaoTipica.jpg, id=529, 401.24907pt x 496.85625pt
+ncialGama.jpg>] <figuras/VegatacaoTipica.jpg, id=539, 401.24907pt x 496.85625pt
 >
 File: figuras/VegatacaoTipica.jpg Graphic file (type jpg)
 
@@ -1787,7 +1792,7 @@ File: figuras/VegatacaoTipica.jpg Graphic file (type jpg)
 Package pdftex.def Info: figuras/VegatacaoTipica.jpg used on input line 24.
 (pdftex.def)             Requested size: 160.49678pt x 198.73897pt.
 
-<figuras/Nascentes.jpg, id=530, 529.22719pt x 484.05844pt>
+<figuras/Nascentes.jpg, id=540, 529.22719pt x 484.05844pt>
 File: figuras/Nascentes.jpg Graphic file (type jpg)
 
 <use figuras/Nascentes.jpg>
@@ -1846,7 +1851,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 [18 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Vegatac
 aoTipica.jpg> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figur
 as/Nascentes.jpg>]
-<figuras/FISHBONE_complete.png, id=540, 834.11626pt x 681.54625pt>
+<figuras/FISHBONE_complete.png, id=550, 834.11626pt x 681.54625pt>
 File: figuras/FISHBONE_complete.png Graphic file (type png)
 
 <use figuras/FISHBONE_complete.png>
@@ -1958,7 +1963,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--163
 
  []
 
-[23] <figuras/EstruturaOrganizacional.png, id=563, 437.38406pt x 224.33812pt>
+[23] <figuras/EstruturaOrganizacional.png, id=573, 437.38406pt x 224.33812pt>
 File: figuras/EstruturaOrganizacional.png Graphic file (type png)
 
 <use figuras/EstruturaOrganizacional.png>
@@ -2053,7 +2058,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--219
  []
 
 [25 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Estrutu
-raOrganizacional.png>] <figuras/comunicacao.png, id=572, 722.7pt x 487.8225pt>
+raOrganizacional.png>] <figuras/comunicacao.png, id=582, 722.7pt x 487.8225pt>
 File: figuras/comunicacao.png Graphic file (type png)
 
 <use figuras/comunicacao.png>
@@ -2141,7 +2146,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
-<figuras/CalculoPlanoInclinado.png, id=611, 506.6428pt x 277.035pt>
+<figuras/CalculoPlanoInclinado.png, id=621, 506.6428pt x 277.035pt>
 File: figuras/CalculoPlanoInclinado.png Graphic file (type png)
 
 <use figuras/CalculoPlanoInclinado.png>
@@ -2150,7 +2155,7 @@ Package pdftex.def Info: figuras/CalculoPlanoInclinado.png used on input line 8
 (pdftex.def)             Requested size: 354.64755pt x 193.92317pt.
  [34 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Calcul
 oPlanoInclinado.png>] [35] [36]
-<figuras/GradesUsadasNaCalha.png, id=631, 282.30469pt x 209.28188pt>
+<figuras/GradesUsadasNaCalha.png, id=641, 282.30469pt x 209.28188pt>
 File: figuras/GradesUsadasNaCalha.png Graphic file (type png)
 
 <use figuras/GradesUsadasNaCalha.png>
@@ -2162,7 +2167,7 @@ Package pdftex.def Info: figuras/GradesUsadasNaCalha.png used on input line 127
 LaTeX Warning: Citation `WATERFALL' on page 37 undefined on input line 129.
 
 
-<figuras/SistemaDeCalhasNaAreaDoTelhado.png, id=632, 243.91125pt x 173.89969pt>
+<figuras/SistemaDeCalhasNaAreaDoTelhado.png, id=642, 243.91125pt x 173.89969pt>
 File: figuras/SistemaDeCalhasNaAreaDoTelhado.png Graphic file (type png)
 <use figuras/SistemaDeCalhasNaAreaDoTelhado.png>
 Package pdftex.def Info: figuras/SistemaDeCalhasNaAreaDoTelhado.png used on inp
@@ -2177,7 +2182,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [37 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/GradesU
 sadasNaCalha.png>]
-<figuras/TipoDeTanques.png, id=640, 429.85594pt x 204.765pt>
+<figuras/TipoDeTanques.png, id=650, 429.85594pt x 204.765pt>
 File: figuras/TipoDeTanques.png Graphic file (type png)
 
 <use figuras/TipoDeTanques.png>
@@ -2191,7 +2196,7 @@ Overfull \hbox (60.82455pt too wide) in paragraph at lines 147--148
 
 LaTeX Warning: Citation `TERRYTHOMAS' on page 38 undefined on input line 149.
 
-<figuras/ComparativoDosTanques.png, id=641, 417.81094pt x 127.22531pt>
+<figuras/ComparativoDosTanques.png, id=651, 417.81094pt x 127.22531pt>
 File: figuras/ComparativoDosTanques.png Graphic file (type png)
 
 <use figuras/ComparativoDosTanques.png>
@@ -2220,7 +2225,7 @@ LaTeX Warning: Reference `Tipo de Tanques' on page 38 undefined on input line 1
 [38 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Sistema
 DeCalhasNaAreaDoTelhado.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabal
 ho-de-PI1/figuras/TipoDeTanques.png>]
-<figuras/SistemaDeCaptacao.png, id=649, 379.4175pt x 198.7425pt>
+<figuras/SistemaDeCaptacao.png, id=659, 379.4175pt x 198.7425pt>
 File: figuras/SistemaDeCaptacao.png Graphic file (type png)
 
 <use figuras/SistemaDeCaptacao.png>
@@ -2230,7 +2235,7 @@ Package pdftex.def Info: figuras/SistemaDeCaptacao.png used on input line 165.
 
 LaTeX Warning: Citation `WATERFALL' on page 39 undefined on input line 167.
 
-<figuras/ConsumoAguaRega.png, id=650, 430.60875pt x 90.3375pt>
+<figuras/ConsumoAguaRega.png, id=660, 430.60875pt x 90.3375pt>
 File: figuras/ConsumoAguaRega.png Graphic file (type png)
 
 <use figuras/ConsumoAguaRega.png>
@@ -2239,7 +2244,7 @@ Package pdftex.def Info: figuras/ConsumoAguaRega.png used on input line 175.
  [39 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Compar
 ativoDosTanques.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI
 1/figuras/SistemaDeCaptacao.png>]
-<figuras/SistemaDeFiltroUtilizado.png, id=661, 430.60875pt x 307.1475pt>
+<figuras/SistemaDeFiltroUtilizado.png, id=671, 430.60875pt x 307.1475pt>
 File: figuras/SistemaDeFiltroUtilizado.png Graphic file (type png)
 
 <use figuras/SistemaDeFiltroUtilizado.png>
@@ -2250,7 +2255,7 @@ e 185.
 
 LaTeX Warning: Citation `TECHINIK' on page 40 undefined on input line 187.
 
-<figuras/TipoAguaPropriedadesExigidas.png, id=662, 546.04pt x 416.55624pt>
+<figuras/TipoAguaPropriedadesExigidas.png, id=672, 546.04pt x 416.55624pt>
 File: figuras/TipoAguaPropriedadesExigidas.png Graphic file (type png)
 
 <use figuras/TipoAguaPropriedadesExigidas.png>
@@ -2276,7 +2281,7 @@ uaPropriedadesExigidas.png>]
 LaTeX Warning: Citation `CatalogoCercamento' on page 42 undefined on input line
  203.
 
-<figuras/EspecificacoesTecnicasCerca.png, id=674, 490.83376pt x 442.65375pt>
+<figuras/EspecificacoesTecnicasCerca.png, id=684, 490.83376pt x 442.65375pt>
 File: figuras/EspecificacoesTecnicasCerca.png Graphic file (type png)
 
 <use figuras/EspecificacoesTecnicasCerca.png>
@@ -2291,7 +2296,7 @@ LaTeX Warning: Citation `CatalogoCercamento' on page 42 undefined on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[42] <figuras/GradilEscolhido.png, id=679, 194.7275pt x 114.4275pt>
+[42] <figuras/GradilEscolhido.png, id=689, 194.7275pt x 114.4275pt>
 File: figuras/GradilEscolhido.png Graphic file (type png)
 
 <use figuras/GradilEscolhido.png>
@@ -2305,7 +2310,7 @@ LaTeX Warning: Citation `CatalogoCercamento' on page 43 undefined on input line
 [43 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Especif
 icacoesTecnicasCerca.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-
 de-PI1/figuras/GradilEscolhido.png>]
-<figuras/MontagemPaineisPilares.png, id=686, 304.13625pt x 170.6375pt>
+<figuras/MontagemPaineisPilares.png, id=696, 304.13625pt x 170.6375pt>
 File: figuras/MontagemPaineisPilares.png Graphic file (type png)
 
 <use figuras/MontagemPaineisPilares.png>
@@ -2317,7 +2322,7 @@ Package pdftex.def Info: figuras/MontagemPaineisPilares.png used on input line
 LaTeX Warning: Citation `CatalogoCercamento' on page 44 undefined on input line
  232.
 
-<figuras/MontagemSequencialPaineis.png, id=687, 305.14pt x 165.61874pt>
+<figuras/MontagemSequencialPaineis.png, id=697, 305.14pt x 165.61874pt>
 File: figuras/MontagemSequencialPaineis.png Graphic file (type png)
 
 <use figuras/MontagemSequencialPaineis.png>
@@ -2329,7 +2334,7 @@ ne 240.
 LaTeX Warning: Citation `CatalogoCercamento' on page 44 undefined on input line
  242.
 
-<figuras/ConcretagemBasesPilares.png, id=688, 269.005pt x 134.5025pt>
+<figuras/ConcretagemBasesPilares.png, id=698, 269.005pt x 134.5025pt>
 File: figuras/ConcretagemBasesPilares.png Graphic file (type png)
 
 <use figuras/ConcretagemBasesPilares.png>
@@ -2348,7 +2353,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 mPaineisPilares.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI
 1/figuras/MontagemSequencialPaineis.png>] [45 <C:/Users/Ebenezer Andrade/Docume
 nts/GitHub/Trabalho-de-PI1/figuras/ConcretagemBasesPilares.png>]
-<figuras/SistemaFotovoltaico.png, id=700, 430.60875pt x 210.7875pt>
+<figuras/SistemaFotovoltaico.png, id=710, 430.60875pt x 210.7875pt>
 File: figuras/SistemaFotovoltaico.png Graphic file (type png)
 
 <use figuras/SistemaFotovoltaico.png>
@@ -2367,7 +2372,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
-[46] <figuras/SistemaGeradorSede.png, id=705, 434.62375pt x 201.75375pt>
+[46] <figuras/SistemaGeradorSede.png, id=715, 434.62375pt x 201.75375pt>
 File: figuras/SistemaGeradorSede.png Graphic file (type png)
 
 <use figuras/SistemaGeradorSede.png>
@@ -2388,7 +2393,7 @@ LaTeX Warning: Citation `PortalSolar' on page 47 undefined on input line 334.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figuras/SistemaGeradorBanheiro.png, id=706, 440.64626pt x 198.7425pt>
+<figuras/SistemaGeradorBanheiro.png, id=716, 440.64626pt x 198.7425pt>
 File: figuras/SistemaGeradorBanheiro.png Graphic file (type png)
 
 <use figuras/SistemaGeradorBanheiro.png>
@@ -2430,7 +2435,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [47 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Sistema
 Fotovoltaico.png>]
-<figuras/SistemaGeradorQuiosque.png, id=713, 431.6125pt x 197.73875pt>
+<figuras/SistemaGeradorQuiosque.png, id=723, 431.6125pt x 197.73875pt>
 File: figuras/SistemaGeradorQuiosque.png Graphic file (type png)
 
 <use figuras/SistemaGeradorQuiosque.png>
@@ -2455,7 +2460,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 GeradorSede.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/fi
 guras/SistemaGeradorBanheiro.png>] [49 <C:/Users/Ebenezer Andrade/Documents/Git
 Hub/Trabalho-de-PI1/figuras/SistemaGeradorQuiosque.png>]
-<figuras/ComparativoDuasFontesLuminosas.png, id=725, 469.755pt x 175.65625pt>
+<figuras/ComparativoDuasFontesLuminosas.png, id=735, 469.755pt x 175.65625pt>
 File: figuras/ComparativoDuasFontesLuminosas.png Graphic file (type png)
 
 <use figuras/ComparativoDuasFontesLuminosas.png>
@@ -2467,14 +2472,14 @@ ativoDuasFontesLuminosas.png>]
 
 LaTeX Warning: Citation `CopelParana' on page 51 undefined on input line 420.
 
-<figuras/FormulaTHDI.png, id=731, 216.81pt x 57.21375pt>
+<figuras/FormulaTHDI.png, id=741, 216.81pt x 57.21375pt>
 File: figuras/FormulaTHDI.png Graphic file (type png)
 
 <use figuras/FormulaTHDI.png>
 Package pdftex.def Info: figuras/FormulaTHDI.png used on input line 426.
 (pdftex.def)             Requested size: 173.44823pt x 45.77104pt.
 
-<figuras/FormulaFP.png, id=732, 123.46124pt x 41.15375pt>
+<figuras/FormulaFP.png, id=742, 123.46124pt x 41.15375pt>
 File: figuras/FormulaFP.png Graphic file (type png)
 
 <use figuras/FormulaFP.png>
@@ -2483,14 +2488,14 @@ Package pdftex.def Info: figuras/FormulaFP.png used on input line 439.
  [51 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Formul
 aTHDI.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/
 FormulaFP.png>]
-<figuras/FormulaX.png, id=739, 73.27374pt x 47.17625pt>
+<figuras/FormulaX.png, id=749, 73.27374pt x 47.17625pt>
 File: figuras/FormulaX.png Graphic file (type png)
 
 <use figuras/FormulaX.png>
 Package pdftex.def Info: figuras/FormulaX.png used on input line 449.
 (pdftex.def)             Requested size: 58.61905pt x 37.74103pt.
 
-<figuras/FormulaFP2.png, id=740, 105.39375pt x 36.135pt>
+<figuras/FormulaFP2.png, id=750, 105.39375pt x 36.135pt>
 File: figuras/FormulaFP2.png Graphic file (type png)
 
 <use figuras/FormulaFP2.png>
@@ -2530,7 +2535,7 @@ Overfull \hbox (37.84406pt too wide) in paragraph at lines 492--504
  [] 
  []
 
-[54] <figuras/PosicionamentoPostes.png, id=757, 386.44376pt x 488.82625pt>
+[54] <figuras/PosicionamentoPostes.png, id=767, 386.44376pt x 488.82625pt>
 File: figuras/PosicionamentoPostes.png Graphic file (type png)
 
 <use figuras/PosicionamentoPostes.png>
@@ -2538,7 +2543,7 @@ Package pdftex.def Info: figuras/PosicionamentoPostes.png used on input line 51
 4.
 (pdftex.def)             Requested size: 309.15543pt x 391.06152pt.
 
-<figuras/PTS305.png, id=758, 369.38pt x 164.615pt>
+<figuras/PTS305.png, id=768, 369.38pt x 164.615pt>
 File: figuras/PTS305.png Graphic file (type png)
  <use figuras/PTS305.png>
 Package pdftex.def Info: figuras/PTS305.png used on input line 523.
@@ -2551,7 +2556,7 @@ LaTeX Warning: Citation `SUNLABPTS' on page 55 undefined on input line 525.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [55 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Posici
-onamentoPostes.png>] <figuras/PTS405.png, id=764, 383.4325pt x 191.71625pt>
+onamentoPostes.png>] <figuras/PTS405.png, id=774, 383.4325pt x 191.71625pt>
 File: figuras/PTS405.png Graphic file (type png)
 
 <use figuras/PTS405.png>
@@ -2561,7 +2566,7 @@ Package pdftex.def Info: figuras/PTS405.png used on input line 533.
 
 LaTeX Warning: Citation `SUNLABPTS' on page 56 undefined on input line 535.
 
-<figuras/TabelaModelosPoste.png, id=765, 646.415pt x 1692.3225pt>
+<figuras/TabelaModelosPoste.png, id=775, 646.415pt x 1692.3225pt>
 File: figuras/TabelaModelosPoste.png Graphic file (type png)
 
 <use figuras/TabelaModelosPoste.png>
@@ -2572,14 +2577,14 @@ Package pdftex.def Info: figuras/TabelaModelosPoste.png used on input line 543.
 .png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/PTS40
 5.png>] [57 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras
 /TabelaModelosPoste.png>] [58]
-<figuras/TendaModeloGalpao.png, id=781, 429.10312pt x 259.7203pt>
+<figuras/TendaModeloGalpao.png, id=791, 429.10312pt x 259.7203pt>
 File: figuras/TendaModeloGalpao.png Graphic file (type png)
 
 <use figuras/TendaModeloGalpao.png>
 Package pdftex.def Info: figuras/TendaModeloGalpao.png used on input line 583.
 (pdftex.def)             Requested size: 343.28296pt x 207.77652pt.
 
-<figuras/VisaoInternaTenda.png, id=782, 434.37282pt x 319.1925pt>
+<figuras/VisaoInternaTenda.png, id=792, 434.37282pt x 319.1925pt>
 File: figuras/VisaoInternaTenda.png Graphic file (type png)
 
 <use figuras/VisaoInternaTenda.png>
@@ -2590,7 +2595,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/TendaM
 odeloGalpao.png>]
-<figuras/DepositoDosEquipamentos.png, id=789, 436.63126pt x 170.88844pt>
+<figuras/DepositoDosEquipamentos.png, id=799, 436.63126pt x 170.88844pt>
 File: figuras/DepositoDosEquipamentos.png Graphic file (type png)
 
 <use figuras/DepositoDosEquipamentos.png>
@@ -2600,7 +2605,7 @@ Package pdftex.def Info: figuras/DepositoDosEquipamentos.png used on input line
  [60 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/VisaoI
 nternaTenda.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/fi
 guras/DepositoDosEquipamentos.png>]
-<figuras/RegioesDasNascentes.png, id=797, 484.81125pt x 391.4625pt>
+<figuras/RegioesDasNascentes.png, id=807, 484.81125pt x 391.4625pt>
 File: figuras/RegioesDasNascentes.png Graphic file (type png)
 
 <use figuras/RegioesDasNascentes.png>
@@ -2608,7 +2613,7 @@ Package pdftex.def Info: figuras/RegioesDasNascentes.png used on input line 617
 .
 (pdftex.def)             Requested size: 387.84952pt x 313.17041pt.
 
-<figuras/LocalEspacoEvento.png, id=798, 453.94594pt x 396.7322pt>
+<figuras/LocalEspacoEvento.png, id=808, 453.94594pt x 396.7322pt>
 File: figuras/LocalEspacoEvento.png Graphic file (type png)
 
 <use figuras/LocalEspacoEvento.png>
@@ -2616,7 +2621,7 @@ Package pdftex.def Info: figuras/LocalEspacoEvento.png used on input line 627.
 (pdftex.def)             Requested size: 363.15724pt x 317.38617pt.
  [61 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Regioe
 sDasNascentes.png>]
-<figuras/TelaoFuncionamentoEnergiaBicicleta.png, id=804, 450.18187pt x 264.2371
+<figuras/TelaoFuncionamentoEnergiaBicicleta.png, id=814, 450.18187pt x 264.2371
 8pt>
 File: figuras/TelaoFuncionamentoEnergiaBicicleta.png Graphic file (type png)
  <use figuras/TelaoFuncionamentoEnergiaBicicleta.png>
@@ -2625,7 +2630,7 @@ Package pdftex.def Info: figuras/TelaoFuncionamentoEnergiaBicicleta.png used on
 (pdftex.def)             Requested size: 360.14598pt x 211.39001pt.
  [62 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/LocalE
 spacoEvento.png>]
-<figuras/TelaoFuncionamentoEnergiaBicicleta2.png, id=810, 445.665pt x 274.77657
+<figuras/TelaoFuncionamentoEnergiaBicicleta2.png, id=820, 445.665pt x 274.77657
 pt>
 File: figuras/TelaoFuncionamentoEnergiaBicicleta2.png Graphic file (type png)
  <use figuras/TelaoFuncionamentoEnergiaBicicleta2.png>
@@ -2633,7 +2638,7 @@ Package pdftex.def Info: figuras/TelaoFuncionamentoEnergiaBicicleta2.png used o
 n input line 651.
 (pdftex.def)             Requested size: 356.53249pt x 219.82153pt.
 
-<figuras/TelaoFuncionamentoEnergiaBicicleta3.png, id=811, 435.12563pt x 257.461
+<figuras/TelaoFuncionamentoEnergiaBicicleta3.png, id=821, 435.12563pt x 257.461
 87pt>
 File: figuras/TelaoFuncionamentoEnergiaBicicleta3.png Graphic file (type png)
  <use figuras/TelaoFuncionamentoEnergiaBicicleta3.png>
@@ -2650,7 +2655,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [64 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/TelaoF
 uncionamentoEnergiaBicicleta3.png>]
-<figuras/bicycle.png, id=823, 376.40625pt x 283.0575pt>
+<figuras/bicycle.png, id=833, 376.40625pt x 283.0575pt>
 File: figuras/bicycle.png Graphic file (type png)
 
 <use figuras/bicycle.png>
@@ -2672,7 +2677,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [65 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/bicycle
-.png>] <figuras/capacitor.png, id=830, 233.37187pt x 347.04657pt>
+.png>] <figuras/capacitor.png, id=840, 233.37187pt x 347.04657pt>
 File: figuras/capacitor.png Graphic file (type png)
 
 <use figuras/capacitor.png>
@@ -2683,7 +2688,7 @@ Underfull \vbox (badness 3189) has occurred while \output is active []
 
  [66 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/capaci
 tor.png>]
-<interacao/11.png, id=836, 376.40625pt x 250.68657pt>
+<interacao/11.png, id=846, 376.40625pt x 250.68657pt>
 File: interacao/11.png Graphic file (type png)
  <use interacao/11.png>
 Package pdftex.def Info: interacao/11.png used on input line 737.
@@ -2718,25 +2723,25 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [67 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/11.pn
-g>] <interacao/12.png, id=841, 153.57375pt x 180.675pt>
+g>] <interacao/12.png, id=851, 153.57375pt x 180.675pt>
 File: interacao/12.png Graphic file (type png)
  <use interacao/12.png>
 Package pdftex.def Info: interacao/12.png used on input line 773.
 (pdftex.def)             Requested size: 122.85915pt x 144.54018pt.
 
-<interacao/13.png, id=842, 162.6075pt x 133.24782pt>
+<interacao/13.png, id=852, 162.6075pt x 133.24782pt>
 File: interacao/13.png Graphic file (type png)
  <use interacao/13.png>
 Package pdftex.def Info: interacao/13.png used on input line 780.
 (pdftex.def)             Requested size: 130.08617pt x 106.59839pt.
 
-<interacao/14.png, id=843, 91.84312pt x 91.84312pt>
+<interacao/14.png, id=853, 91.84312pt x 91.84312pt>
 File: interacao/14.png Graphic file (type png)
  <use interacao/14.png>
 Package pdftex.def Info: interacao/14.png used on input line 789.
 (pdftex.def)             Requested size: 73.47458pt x 73.47458pt.
 
-<interacao/15.png, id=844, 99.37125pt x 99.37125pt>
+<interacao/15.png, id=854, 99.37125pt x 99.37125pt>
 File: interacao/15.png Graphic file (type png)
  <use interacao/15.png>
 Package pdftex.def Info: interacao/15.png used on input line 796.
@@ -2746,32 +2751,32 @@ Package pdftex.def Info: interacao/15.png used on input line 796.
 g> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/13.png
 > <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/14.png>
  <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/15.png>]
-<interacao/16.png, id=849, 204.765pt x 140.77594pt>
+<interacao/16.png, id=859, 204.765pt x 140.77594pt>
 File: interacao/16.png Graphic file (type png)
  <use interacao/16.png>
 Package pdftex.def Info: interacao/16.png used on input line 814.
 (pdftex.def)             Requested size: 163.8122pt x 112.62088pt.
 
-<interacao/17.png, id=850, 127.97812pt x 225.09094pt>
+<interacao/17.png, id=860, 127.97812pt x 225.09094pt>
 File: interacao/17.png Graphic file (type png)
  <use interacao/17.png>
 Package pdftex.def Info: interacao/17.png used on input line 834.
 (pdftex.def)             Requested size: 102.38261pt x 180.07298pt.
 
 [69 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/16.pn
-g>] <interacao/18.png, id=855, 127.97812pt x 226.59656pt>
+g>] <interacao/18.png, id=865, 127.97812pt x 226.59656pt>
 File: interacao/18.png Graphic file (type png)
 
 <use interacao/18.png>
 Package pdftex.def Info: interacao/18.png used on input line 841.
 (pdftex.def)             Requested size: 102.38261pt x 181.27748pt.
- <interacao/19.png, id=856, 127.97812pt x 226.59656pt>
+ <interacao/19.png, id=866, 127.97812pt x 226.59656pt>
 File: interacao/19.png Graphic file (type png)
 
 <use interacao/19.png>
 Package pdftex.def Info: interacao/19.png used on input line 848.
 (pdftex.def)             Requested size: 102.38261pt x 181.27748pt.
- <interacao/20.png, id=857, 127.97812pt x 226.59656pt>
+ <interacao/20.png, id=867, 127.97812pt x 226.59656pt>
 File: interacao/20.png Graphic file (type png)
 
 <use interacao/20.png>
@@ -2780,19 +2785,19 @@ Package pdftex.def Info: interacao/20.png used on input line 855.
  [70 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/17.p
 ng> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/18.pn
 g> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/19.png
->] <interacao/21.png, id=862, 130.98938pt x 226.59656pt>
+>] <interacao/21.png, id=872, 130.98938pt x 226.59656pt>
 File: interacao/21.png Graphic file (type png)
 
 <use interacao/21.png>
 Package pdftex.def Info: interacao/21.png used on input line 862.
 (pdftex.def)             Requested size: 104.79163pt x 181.27748pt.
- <interacao/22.png, id=863, 131.74219pt x 228.10219pt>
+ <interacao/22.png, id=873, 131.74219pt x 228.10219pt>
 File: interacao/22.png Graphic file (type png)
 
 <use interacao/22.png>
 Package pdftex.def Info: interacao/22.png used on input line 868.
 (pdftex.def)             Requested size: 105.39388pt x 182.48198pt.
- <interacao/23.png, id=864, 131.74219pt x 231.86626pt>
+ <interacao/23.png, id=874, 131.74219pt x 231.86626pt>
 File: interacao/23.png Graphic file (type png)
 
 <use interacao/23.png>
@@ -2801,7 +2806,7 @@ Package pdftex.def Info: interacao/23.png used on input line 874.
  [71 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/20.p
 ng> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/21.pn
 g> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/22.png
->] <interacao/24.png, id=870, 429.85594pt x 257.46187pt>
+>] <interacao/24.png, id=880, 429.85594pt x 257.46187pt>
 File: interacao/24.png Graphic file (type png)
 
 <use interacao/24.png>
@@ -2813,19 +2818,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [72 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/23.p
 ng>]
 [73 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/24.pn
-g>] <interacao/25.png, id=879, 405.01312pt x 205.5178pt>
+g>] <interacao/25.png, id=889, 405.01312pt x 205.5178pt>
 File: interacao/25.png Graphic file (type png)
 
 <use interacao/25.png>
 Package pdftex.def Info: interacao/25.png used on input line 907.
 (pdftex.def)             Requested size: 324.01093pt x 164.41446pt.
- <interacao/26.png, id=880, 417.81094pt x 248.42813pt>
+ <interacao/26.png, id=890, 417.81094pt x 248.42813pt>
 File: interacao/26.png Graphic file (type png)
 
 <use interacao/26.png>
 Package pdftex.def Info: interacao/26.png used on input line 915.
 (pdftex.def)             Requested size: 334.2492pt x 198.74277pt.
- <interacao/27.png, id=881, 354.57469pt x 188.20313pt>
+ <interacao/27.png, id=891, 354.57469pt x 188.20313pt>
 File: interacao/27.png Graphic file (type png)
 
 <use interacao/27.png>
@@ -2837,7 +2842,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [74 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/25.p
 ng> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/26.pn
 g>]
-<postes/1.png, id=886, 207.02344pt x 274.02374pt>
+<postes/1.png, id=896, 207.02344pt x 274.02374pt>
 File: postes/1.png Graphic file (type png)
  <use postes/1.png>
 Package pdftex.def Info: postes/1.png used on input line 943.
@@ -2847,14 +2852,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [75 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/interacao/27.p
 ng>]
-<postes/2.png, id=891, 157.33781pt x 234.8775pt>
+<postes/2.png, id=901, 157.33781pt x 234.8775pt>
 File: postes/2.png Graphic file (type png)
  <use postes/2.png>
 Package pdftex.def Info: postes/2.png used on input line 958.
 (pdftex.def)             Requested size: 125.8704pt x 187.90225pt.
  [76 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/1.png> 
 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/2.png>]
-<postes/3.png, id=896, 158.09062pt x 225.84375pt>
+<postes/3.png, id=906, 158.09062pt x 225.84375pt>
 File: postes/3.png Graphic file (type png)
  <use postes/3.png>
 Package pdftex.def Info: postes/3.png used on input line 997.
@@ -2863,13 +2868,13 @@ Package pdftex.def Info: postes/3.png used on input line 997.
 Underfull \vbox (badness 3088) has occurred while \output is active []
 
  [77]
-<postes/4.png, id=903, 177.66376pt x 225.84375pt>
+<postes/4.png, id=913, 177.66376pt x 225.84375pt>
 File: postes/4.png Graphic file (type png)
  <use postes/4.png>
 Package pdftex.def Info: postes/4.png used on input line 1005.
 (pdftex.def)             Requested size: 142.13118pt x 180.67523pt.
 
-<postes/tabelaLZP.png, id=904, 382.42876pt x 95.6072pt>
+<postes/tabelaLZP.png, id=914, 382.42876pt x 95.6072pt>
 File: postes/tabelaLZP.png Graphic file (type png)
 
 <use postes/tabelaLZP.png>
@@ -2884,7 +2889,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 1028.
  [79 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/tabelaL
 ZP.png>]
-<postes/tabelaLY.png, id=916, 382.42876pt x 127.97812pt>
+<postes/tabelaLY.png, id=926, 382.42876pt x 127.97812pt>
 File: postes/tabelaLY.png Graphic file (type png)
 
 <use postes/tabelaLY.png>
@@ -2901,14 +2906,14 @@ Overfull \hbox (1.97426pt too wide) in paragraph at lines 1150--1151
  do acu-mu-la-dor.Trocas
  []
 
-[82] [83] <postes/5.png, id=935, 273.27094pt x 201.75375pt>
+[82] [83] <postes/5.png, id=945, 273.27094pt x 201.75375pt>
 File: postes/5.png Graphic file (type png)
  <use postes/5.png>
 Package pdftex.def Info: postes/5.png used on input line 1185.
 (pdftex.def)             Requested size: 218.61702pt x 161.40321pt.
 
 [84 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/5.png>]
-<postes/6.png, id=940, 319.94531pt x 464.4853pt>
+<postes/6.png, id=950, 319.94531pt x 464.4853pt>
 File: postes/6.png Graphic file (type png)
  <use postes/6.png>
 Package pdftex.def Info: postes/6.png used on input line 1218.
@@ -2973,7 +2978,7 @@ My plan is to forget the whole thing and hope for the best.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<postes/9.png, id=951, 182.93344pt x 137.01187pt>
+<postes/9.png, id=961, 182.93344pt x 137.01187pt>
 File: postes/9.png Graphic file (type png)
  <use postes/9.png>
 Package pdftex.def Info: postes/9.png used on input line 1258.
@@ -2984,7 +2989,7 @@ Overfull \hbox (0.63062pt too wide) in paragraph at lines 1269--1270
 dri-cos de di-â-me-tros desde 2,5até
  []
 
-<postes/10.png, id=957, 324.46219pt x 343.2825pt>
+<postes/10.png, id=967, 324.46219pt x 343.2825pt>
 File: postes/10.png Graphic file (type png)
  <use postes/10.png>
 Package pdftex.def Info: postes/10.png used on input line 1274.
@@ -2994,14 +2999,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [87 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/9.png>]
 
-<postes/11.png, id=964, 315.42844pt x 343.2825pt>
+<postes/11.png, id=974, 315.42844pt x 343.2825pt>
 File: postes/11.png Graphic file (type png)
  <use postes/11.png>
 Package pdftex.def Info: postes/11.png used on input line 1282.
 (pdftex.def)             Requested size: 252.34308pt x 274.62636pt.
  [88 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/10.png>
  <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/postes/11.png>]
-<postes/12.png, id=969, 427.5975pt x 343.2825pt>
+<postes/12.png, id=979, 427.5975pt x 343.2825pt>
 File: postes/12.png Graphic file (type png)
  <use postes/12.png>
 Package pdftex.def Info: postes/12.png used on input line 1296.
@@ -3021,7 +3026,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<postes/13.png, id=978, 301.8778pt x 190.46156pt>
+<postes/13.png, id=988, 301.8778pt x 190.46156pt>
 File: postes/13.png Graphic file (type png)
  <use postes/13.png>
 Package pdftex.def Info: postes/13.png used on input line 1349.
@@ -3060,21 +3065,21 @@ Underfull \vbox (badness 6125) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [93]
-<monitoramento/1.png, id=996, 150.5625pt x 112.92188pt>
+<monitoramento/1.png, id=1006, 150.5625pt x 112.92188pt>
 File: monitoramento/1.png Graphic file (type png)
 
 <use monitoramento/1.png>
 Package pdftex.def Info: monitoramento/1.png used on input line 1448.
 (pdftex.def)             Requested size: 120.45015pt x 90.3376pt.
 
-<monitoramento/2.png, id=997, 100.87688pt x 210.7875pt>
+<monitoramento/2.png, id=1007, 100.87688pt x 210.7875pt>
 File: monitoramento/2.png Graphic file (type png)
 
 <use monitoramento/2.png>
 Package pdftex.def Info: monitoramento/2.png used on input line 1458.
 (pdftex.def)             Requested size: 80.7016pt x 168.63022pt.
 
-<monitoramento/3.png, id=998, 88.07906pt x 55.70813pt>
+<monitoramento/3.png, id=1008, 88.07906pt x 55.70813pt>
 File: monitoramento/3.png Graphic file (type png)
 
 <use monitoramento/3.png>
@@ -3083,21 +3088,21 @@ Package pdftex.def Info: monitoramento/3.png used on input line 1467.
  [94 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento/
 1.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorament
 o/2.png>]
-<monitoramento/4.png, id=1003, 88.07906pt x 82.80937pt>
+<monitoramento/4.png, id=1013, 88.07906pt x 82.80937pt>
 File: monitoramento/4.png Graphic file (type png)
 
 <use monitoramento/4.png>
 Package pdftex.def Info: monitoramento/4.png used on input line 1476.
 (pdftex.def)             Requested size: 70.46332pt x 66.24757pt.
 
-<monitoramento/5.png, id=1004, 115.93312pt x 151.3153pt>
+<monitoramento/5.png, id=1014, 115.93312pt x 151.3153pt>
 File: monitoramento/5.png Graphic file (type png)
 
 <use monitoramento/5.png>
 Package pdftex.def Info: monitoramento/5.png used on input line 1485.
 (pdftex.def)             Requested size: 92.74661pt x 121.0524pt.
 
-<monitoramento/6.png, id=1005, 290.58563pt x 317.68687pt>
+<monitoramento/6.png, id=1015, 290.58563pt x 317.68687pt>
 File: monitoramento/6.png Graphic file (type png)
 
 <use monitoramento/6.png>
@@ -3111,14 +3116,14 @@ Underfull \vbox (badness 4108) has occurred while \output is active []
 o/4.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorame
 nto/5.png>]
 [96 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento/6
-.png>] <monitoramento/7.png, id=1015, 170.13562pt x 261.22594pt>
+.png>] <monitoramento/7.png, id=1025, 170.13562pt x 261.22594pt>
 File: monitoramento/7.png Graphic file (type png)
 
 <use monitoramento/7.png>
 Package pdftex.def Info: monitoramento/7.png used on input line 1515.
 (pdftex.def)             Requested size: 136.10867pt x 208.98102pt.
 
-<monitoramento/8.png, id=1016, 216.81pt x 272.51813pt>
+<monitoramento/8.png, id=1026, 216.81pt x 272.51813pt>
 File: monitoramento/8.png Graphic file (type png)
 
 <use monitoramento/8.png>
@@ -3127,21 +3132,21 @@ Package pdftex.def Info: monitoramento/8.png used on input line 1525.
  [97 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento/
 7.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorament
 o/8.png>]
-<monitoramento/9.png, id=1021, 306.39468pt x 293.59688pt>
+<monitoramento/9.png, id=1031, 306.39468pt x 293.59688pt>
 File: monitoramento/9.png Graphic file (type png)
 
 <use monitoramento/9.png>
 Package pdftex.def Info: monitoramento/9.png used on input line 1535.
 (pdftex.def)             Requested size: 245.11607pt x 234.8778pt.
 
-<monitoramento/10.png, id=1022, 307.1475pt x 289.08pt>
+<monitoramento/10.png, id=1032, 307.1475pt x 289.08pt>
 File: monitoramento/10.png Graphic file (type png)
 
 <use monitoramento/10.png>
 Package pdftex.def Info: monitoramento/10.png used on input line 1543.
 (pdftex.def)             Requested size: 245.71832pt x 231.2643pt.
 
-<monitoramento/11.png, id=1023, 304.88907pt x 88.07906pt>
+<monitoramento/11.png, id=1033, 304.88907pt x 88.07906pt>
 File: monitoramento/11.png Graphic file (type png)
 
 <use monitoramento/11.png>
@@ -3153,14 +3158,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [98 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento/
 9.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorament
 o/10.png>]
-<monitoramento/12.png, id=1028, 305.64188pt x 308.65312pt>
+<monitoramento/12.png, id=1038, 305.64188pt x 308.65312pt>
 File: monitoramento/12.png Graphic file (type png)
 
 <use monitoramento/12.png>
 Package pdftex.def Info: monitoramento/12.png used on input line 1559.
 (pdftex.def)             Requested size: 244.51381pt x 246.92282pt.
 
-<monitoramento/13.png, id=1029, 314.67563pt x 350.05782pt>
+<monitoramento/13.png, id=1039, 314.67563pt x 350.05782pt>
 File: monitoramento/13.png Graphic file (type png)
 
 <use monitoramento/13.png>
@@ -3171,7 +3176,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [99 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento/
 11.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramen
-to/12.png>] <monitoramento/14.png, id=1034, 402.75468pt x 106.89937pt>
+to/12.png>] <monitoramento/14.png, id=1044, 402.75468pt x 106.89937pt>
 File: monitoramento/14.png Graphic file (type png)
 
 <use monitoramento/14.png>
@@ -3180,21 +3185,21 @@ Package pdftex.def Info: monitoramento/14.png used on input line 1586.
  [100 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento
 /13.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorame
 nto/14.png>]
-<monitoramento/15.png, id=1039, 322.95656pt x 313.17pt>
+<monitoramento/15.png, id=1049, 322.95656pt x 313.17pt>
 File: monitoramento/15.png Graphic file (type png)
 
 <use monitoramento/15.png>
 Package pdftex.def Info: monitoramento/15.png used on input line 1599.
 (pdftex.def)             Requested size: 258.36559pt x 250.53633pt.
 
-<monitoramento/16.png, id=1040, 315.42844pt x 325.215pt>
+<monitoramento/16.png, id=1050, 315.42844pt x 325.215pt>
 File: monitoramento/16.png Graphic file (type png)
 
 <use monitoramento/16.png>
 Package pdftex.def Info: monitoramento/16.png used on input line 1607.
 (pdftex.def)             Requested size: 252.34308pt x 260.17235pt.
 
-<monitoramento/17.png, id=1041, 313.9228pt x 44.41594pt>
+<monitoramento/17.png, id=1051, 313.9228pt x 44.41594pt>
 File: monitoramento/17.png Graphic file (type png)
 
 <use monitoramento/17.png>
@@ -3205,21 +3210,21 @@ Underfull \vbox (badness 1082) has occurred while \output is active []
 
  [101 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento
 /15.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorame
-nto/16.png>] <monitoramento/18.png, id=1047, 313.9228pt x 316.18124pt>
+nto/16.png>] <monitoramento/18.png, id=1057, 313.9228pt x 316.18124pt>
 File: monitoramento/18.png Graphic file (type png)
 
 <use monitoramento/18.png>
 Package pdftex.def Info: monitoramento/18.png used on input line 1623.
 (pdftex.def)             Requested size: 251.13857pt x 252.94533pt.
 
-<monitoramento/19.png, id=1048, 315.42844pt x 319.94531pt>
+<monitoramento/19.png, id=1058, 315.42844pt x 319.94531pt>
 File: monitoramento/19.png Graphic file (type png)
 
 <use monitoramento/19.png>
 Package pdftex.def Info: monitoramento/19.png used on input line 1631.
 (pdftex.def)             Requested size: 252.34308pt x 255.95659pt.
 
-<monitoramento/20.png, id=1049, 315.42844pt x 23.33719pt>
+<monitoramento/20.png, id=1059, 315.42844pt x 23.33719pt>
 File: monitoramento/20.png Graphic file (type png)
 
 <use monitoramento/20.png>
@@ -3230,14 +3235,14 @@ Package pdftex.def Info: monitoramento/20.png used on input line 1640.
 nto/18.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitor
 amento/19.png>] [103 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI
 1/monitoramento/20.png>]
-<monitoramento/21.png, id=1058, 525.46312pt x 318.43968pt>
+<monitoramento/21.png, id=1068, 525.46312pt x 318.43968pt>
 File: monitoramento/21.png Graphic file (type png)
 
 <use monitoramento/21.png>
 Package pdftex.def Info: monitoramento/21.png used on input line 1676.
 (pdftex.def)             Requested size: 420.37106pt x 254.75209pt.
 
-<monitoramento/22.png, id=1059, 525.46312pt x 201.00093pt>
+<monitoramento/22.png, id=1069, 525.46312pt x 201.00093pt>
 File: monitoramento/22.png Graphic file (type png)
 
 <use monitoramento/22.png>
@@ -3245,7 +3250,7 @@ Package pdftex.def Info: monitoramento/22.png used on input line 1684.
 (pdftex.def)             Requested size: 420.37106pt x 160.80095pt.
  [104 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento
 /21.png>]
-<monitoramento/23.png, id=1064, 243.15843pt x 200.24812pt>
+<monitoramento/23.png, id=1074, 243.15843pt x 200.24812pt>
 File: monitoramento/23.png Graphic file (type png)
 
 <use monitoramento/23.png>
@@ -3254,14 +3259,14 @@ Package pdftex.def Info: monitoramento/23.png used on input line 1704.
  [105 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento
 /22.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorame
 nto/23.png>]
-<monitoramento/25.png, id=1069, 437.38406pt x 130.98938pt>
+<monitoramento/25.png, id=1079, 437.38406pt x 130.98938pt>
 File: monitoramento/25.png Graphic file (type png)
 
 <use monitoramento/25.png>
 Package pdftex.def Info: monitoramento/25.png used on input line 1717.
 (pdftex.def)             Requested size: 349.90771pt x 104.79163pt.
 
-<monitoramento/26.png, id=1070, 175.40532pt x 357.58594pt>
+<monitoramento/26.png, id=1080, 175.40532pt x 357.58594pt>
 File: monitoramento/26.png Graphic file (type png)
 
 <use monitoramento/26.png>
@@ -3596,21 +3601,21 @@ Overfull \hbox (12.00006pt too wide) in paragraph at lines 1747--1758
  []
 
 [107 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento/
-26.png>] [108] <monitoramento/27.png, id=1085, 341.02406pt x 370.38374pt>
+26.png>] [108] <monitoramento/27.png, id=1094, 341.02406pt x 370.38374pt>
 File: monitoramento/27.png Graphic file (type png)
 
 <use monitoramento/27.png>
 Package pdftex.def Info: monitoramento/27.png used on input line 1791.
 (pdftex.def)             Requested size: 272.81961pt x 296.30739pt.
 
-<monitoramento/28.png, id=1086, 294.34969pt x 207.02344pt>
+<monitoramento/28.png, id=1095, 294.34969pt x 207.02344pt>
 File: monitoramento/28.png Graphic file (type png)
 
 <use monitoramento/28.png>
 Package pdftex.def Info: monitoramento/28.png used on input line 1798.
 (pdftex.def)             Requested size: 235.48006pt x 165.61896pt.
 
-<monitoramento/29.png, id=1087, 356.0803pt x 234.1247pt>
+<monitoramento/29.png, id=1096, 356.0803pt x 234.1247pt>
 File: monitoramento/29.png Graphic file (type png)
 
 <use monitoramento/29.png>
@@ -3622,15 +3627,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [109 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitoramento
 /27.png> <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/monitorame
 nto/28.png>] [110 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/m
-onitoramento/29.png>] [111] <figuras/EAP-GERAL.png, id=1135, 650.43pt x 508.148
-44pt>
+onitoramento/29.png>] [111]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [116]
+<figuras/EAP-GERAL.png, id=1164, 650.43pt x 508.14844pt>
 File: figuras/EAP-GERAL.png Graphic file (type png)
 
 <use figuras/EAP-GERAL.png>
-Package pdftex.def Info: figuras/EAP-GERAL.png used on input line 1866.
+Package pdftex.def Info: figuras/EAP-GERAL.png used on input line 1912.
 (pdftex.def)             Requested size: 585.38159pt x 457.32936pt.
 
-Overfull \hbox (2.32936pt too wide) in paragraph at lines 1866--1867
+Overfull \hbox (2.32936pt too wide) in paragraph at lines 1912--1913
  [][] 
  []
 
@@ -3639,15 +3659,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 )
 ("C:\Users\Ebenezer Andrade\Documents\GitHub\Trabalho-de-PI1\editaveis/conclusa
-o.tex" [112] [113 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/f
-iguras/EAP-GERAL.png>] [114
-
-])
+o.tex" [117] [118 <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/f
+iguras/EAP-GERAL.png>])
 ("C:\Users\Ebenezer Andrade\Documents\GitHub\Trabalho-de-PI1\pi1.bbl"
 ("C:\Users\Ebenezer Andrade\Documents\GitHub\Trabalho-de-PI1\pi1.brf")
 \tf@brf=\write5
- [115]
-[116
+ [119
+
+]
+[120
 
 ]
 
@@ -3817,7 +3837,7 @@ I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-[117]
+[121]
 Runaway argument?
  \abntrefinfo {Unicamp}{UNICAMP}{2015} {UNICAMP. \emph {MANUAL DE ILU\ETC.
 ! Paragraph ended before \BR@@lbibitem was complete.
@@ -3839,16 +3859,16 @@ m-[]um-[]grande-[]estimulo-[]para-[]as-[]energias-[]renovaveis /$
 ("C:\Users\Ebenezer Andrade\Documents\GitHub\Trabalho-de-PI1\editaveis/apendice
 s.tex")
 ("C:\Users\Ebenezer Andrade\Documents\GitHub\Trabalho-de-PI1\editaveis/anexos.t
-ex" [118]
+ex" [122]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 4.
 
-[119
+[123
 
 
-] [120]
-<figuras/CronogramaProjeto.png, id=1246, 723.70375pt x 543.02875pt>
+] [124]
+<figuras/CronogramaProjeto.png, id=1268, 723.70375pt x 543.02875pt>
 File: figuras/CronogramaProjeto.png Graphic file (type png)
 
 <use figuras/CronogramaProjeto.png>
@@ -3858,7 +3878,7 @@ Package pdftex.def Info: figuras/CronogramaProjeto.png used on input line 10.
 No file pi1.ind.
 
 AED: lastpage setting LastPage
-[121
+[125
 
  <C:/Users/Ebenezer Andrade/Documents/GitHub/Trabalho-de-PI1/figuras/Cronograma
 Projeto.png>]
@@ -3883,18 +3903,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  ) 
 Here is how much of TeX's memory you used:
- 25626 strings out of 493921
- 466237 string characters out of 3144843
- 528453 words of memory out of 3000000
- 27970 multiletter control sequences out of 15000+200000
+ 25631 strings out of 493921
+ 466239 string characters out of 3144843
+ 529028 words of memory out of 3000000
+ 27971 multiletter control sequences out of 15000+200000
  117692 words of font info for 74 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  44i,18n,39p,10413b,1055s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.118} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.caption.120} has been referenced but does no
-t exist, replaced by a fixed one
+pdfTeX warning (dest): name{section.2.6} has been referenced but does not exi
+st, replaced by a fixed one
 
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program
  Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/Mi
@@ -3914,9 +3931,9 @@ am Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri8.pfb><C:/Program Files (x8
 pe1/public/lm/lmss17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
 lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy10
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on pi1.pdf (123 pages, 13951289 bytes).
+Output written on pi1.pdf (127 pages, 13981504 bytes).
 PDF statistics:
- 1712 PDF objects out of 1728 (max. 8388607)
- 422 named destinations out of 1000 (max. 500000)
- 1369 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1737 PDF objects out of 2073 (max. 8388607)
+ 426 named destinations out of 1000 (max. 500000)
+ 1377 words of extra memory for PDF output out of 10000 (max. 10000000)
 
