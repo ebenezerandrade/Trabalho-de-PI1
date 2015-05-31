@@ -1426,36 +1426,437 @@ A seguir é apresentado no figura 1, um comparativo do rendimento da bateria Spi
 
 	Serão utilizados 113 postes do modelo Pts 315, totalizando 210,24 KW consumidos e 69,29 MW produzidos, por ano, no total, assegurando, mais uma vez, a confiabilidade do poste mesmo que venha a apresentar defeito por um tempo limitado.
 
-\section{Defini\c{c}\~ao de Escopo}
+\section{Sistema de Monitoramento}
 
-Ao final da realiza\c{c}\~ao desse trabalho, teremos os seguintes produtos: 
+\subsection{Escopo de monitoramento}
+	Pelos problemas atestados na visita ao Parque Vivencial do Gama, foi necessário a implementação e reformulação do sistema de monitomento do local, visto as condições precarias do parque. Como consequêcia, este documento objetiva resolver este problema, com um planejamento de monitomento funcional, dinâmico e prático para que atenda aos requisitos levantados,  melhorando assim a segurança do local.
+	
+	O projeto de monitoramento, como já dito, será divido em dois: Um projeto de monitoramento por câmeras e ou outro que utilizada a ajuda de estruturas  físicas e das autoridades locais,  chamada aqui neste documento de “Planejamento de Monitoramento por Pessoas”. O projeto de monitoramento  por câmeras é a parte tecnológica  do Planejamento de Segurança, ele tem como objetivo monitorar  pessoas, estruturas do parque e atividades dentro do parque, ou seja, ele visa monitorar o comportamento das pessoas tanto com o seu semelhante quanto com as estruturas físicas, evitando crimes com os pertences dos visitantes do parque, baderna, degração pública e crimes contra a pessoa física, respeitando a legislação vigente que consiste na Lei 8594/07 e seus respectivos artigos vigentes.
+	
+	O Projeto de Monitoramento por Pessoas consiste em usar estruturas físicas previstas na planta do Projeto Vencedor que está sendo implementado atualmente do parque, veículos de locomoção e a parceria com algum orgão de ordem pública que possa garantir a segurança, a rápida ação contra crimes no parque e evitar atividades ílicitas, além de complementar o monitoramento feito pelas câmeras de segurança no tempo de atividade do parque.
+
+\subsection{Projeto de monitoramento de câmeras}
+
+\subsubsection{Área de monitoramento pelas câmeras e locais para posicioná-las}
+
+	Segundo o fabricante Itelbras as câmeras possuem um alcance de até 500 metros, associado aos postes os responsáveis pela visualização das imagens terão um amplo disco de visão, visto que a câmeras rotacionam em 360º. Com o auxílio das imagens a seguir, serão mostradas as localidades de cada câmera. Nas imagens a seguir, as câmeras serão simbolizadas por pequenos círculos vermelhos, como recurso foram utilizadas novamente as imagens cedidas do Projeto Ganhador. A seguir seguem as imagens:
+	Área 1 - 2600,24 $m^{2}$ correspondente a área de convivência social e suas estruturas adjuntas. Na Área um (Figura 1) será utilizada uma câmera de acordo com a figura abaixo, a câmera está sendo representado pelo círculo vermelho. Nesse caso vamos utilizar o poste como suporte para a câmera. Figura 1.
+	
+\begin{figure}[H]
+	 \centering
+	\label{Área 1}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/1.png}
+	 \caption{Área 1.}
+\end{figure}
+
+	Área 2 - 5202 $m^{2}$ (aproximadamente) correspondente ao estacionamento oeste, como na Figura 2.Na área dois( Figura 26) vão ser utilizadas duas câmeras, simbolizadas pela figura, vão utilizados os postes como suporte de fixação.
+	
+	
+\begin{figure}[H]
+	 \centering
+	\label{Área 2}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/2.png}
+	 \caption{Área 2.}
+\end{figure}
+	
+	Área 3 - 1300 $m^{2}$(aproximadamente) correspondente a área que contém as quadras poliesportivas e de areia do lado oeste como na Figura 3. Na área três(Figura 3) sera utilizada somente uma câmera, utilizando como suporte um poste.
+	
+\begin{figure}[H]
+	 \centering
+	\label{Área 3}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/3.png}
+	 \caption{Área 3.}
+\end{figure}
+
+Área 4 - 650,25 $m^{2}$(aproximadamente) correspondente que contém a sede admistrativa, oestacionamento  leste além de estruturas adjuntas mostradas na imagem a seguir como na Figura 4. Na área quatro vai ser utilizada uma câmera, fixada na parede do centro administrativo.
+
+\begin{figure}[H]
+	 \centering
+	\label{Área 4}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/4.png}
+	 \caption{Área 4.}
+\end{figure}
+
+Área 5 - 2200 $m^{2}$ (aproximadamente) correspondente ao campo de futebol e o estacionamento de brita, além das estruturas adjuntas como mostrado  na Figura 5. Na área cinco serão utilizadas cinco câmeras fixadas em postes.
+
+\begin{figure}[H]
+	 \centering
+	\label{Área 5}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/5.png}
+	 \caption{Área 5.}
+\end{figure}
+
+OBS: as áreas das estruturas adjuntas não foram citadas neste documento visto que não há informações na planta do projeto vencedor, por isso o foco foi direcionado para as estruturas mais notáveis com as medidas fornecidas, além disso a área pode ser maior ou menor numa porcentagem de 15\% as estruturas estão sendo mostradas e sua respectiva legenda c na Figura 6.
+
+
+Área Totalaproxidamente)= 2,52\% da área do parque ou 11952.49 $m^{2}$.
+
+\begin{figure}[H]
+	 \centering
+	\label{Legenda das estruturas}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/6.png}
+	 \caption{Legenda das estruturas.}
+\end{figure}
+
+\subsubsection{Equipamento}
 
 \begin{itemize}
-        \item Planejamento de cercamento;
-	\item Planejamento de ilumina\c{c}\~ao;
-	\item Planejamento de manuten\c{c}\~ao;
-	\item Estudo de consumo energ\'etico estimado do final do projeto;
-	\item Custo dos pain\'eis fotovoltaicos com base no consumo energ\'etico;
-	\item Estudo de rotas, ve\'iculos e pontos de coleta, para a aplica\c{c}\~ao de coleta seletiva no parque;
-	\item Custo do sistema de capta\c{c}\~ao de \'agua;
-	\item Estudo da melhor distribui\c{c}\~ao geogr\'afica para capta\c{c}\~ao de \'agua;
-	\item Custo da substitui\c{c}\~ao das l\^ampadas por LED;
-	\item Estudo de \'agua utilizada no parque;
-	\item Estudo dos equipamentos necess\'arios para um poste de luz auto suficiente;
-	\item Estudo da quantidade de postes necess\'arios para iluminar as principais \'areas;
-	\item Custo da implementa\c{c}\~ao de postes de luz auto suficientes;
-	\item Planejamento do Wi-fi comunit\'ario;
-	\item Projeto do software de uma bicicleta ergom\'etrica sustent\'avel;
-	\item Projeto de um espa\c{c}o multim\'idia de entretenimento;
+	\item Câmera
+	
+	Para esta parte do projeto foram verificados diversos modelos e fabricantes do equipamento necessário para a instalação do projeto tecnológico, um dos requisitos necessários é que as câmeras tenham algoritmos de compressão de imagem integrados a sua estrutura interna, dispensando a instalação de sublocos com microprocessadores ou micro controladores para esta tarefa, tornando assim o processo mais rápido e seguro, pois como  mostrado  nas imagens e informações do item 2.1, são áreas grandes a serem monitoradas além de uma longa distância da sede administrativa onde a central de monitoramento ficará instalada(este item será explicado com mais detalhes posteriormente). Dos equipamentos analisados para fazer as filmagens foi selecionado o modelo E5520 da Itelbrás, conhecida também como “Câmera IP”. Esse modelo foi selecionado  por apresentar  vários tipos de algoritmos de condensamento de imagens, transmissão de áudio, podendo ser usado em várias aplicações, ótima resolução, ZOOM superior aos seus concorrentes e fácil instalação, além do fato do fabricante fornecer todos os softwares e “datasheets” necessários, outros detalhe a ser enfatizado é o fato dela ter filmagem em 360º permitindo assim o menor número de câmeras em um local a ser monitorado, diminuindo assim custos e possíveis problemas técnicos. De acordo com a Itelbrás  a Câmera IP:
+	“A VIP E5220 é uma câmera IP que oferece alta definição de imagens, com uma resolução full HD, para um sistema de monitoramento mais seguro e eficiente,. Graças à função WDR, a VIP E5220 oferece imagens nítidas mesmo em ambientes com alto contraste de iluminação. A câmera é capaz de compensar tanto áreas claras quando escuras ao mesmo tempo, exibindo os detalhes de toda a cena.A VIP E5220 possui função SIP, que permite a realização de videochamadas, e possibilita que a câmera avise sempre que um intruso invadir o espaço monitorado. Com áudio bidirecional, a VIP E5220 pode ser conectada à alto-falantes externos e possibilita que usuários remotos não apenas vejam visitantes ou intrusos, mas também ouçam e transmitam informações.”
+	
+	\begin{itemize}
+		\item Especificações técnicas da câmera:
+		
+	\begin{figure}[H]
+	 \centering
+	\label{Câmera IP}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/7.png}
+	 \caption{Câmera IP.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+	
+	A câmera possui  324 mm de largura e 222 mm de comprimento, e possui um peso de 5Kg, essas especificações estão também  disponíveis  na Figura 8.
+
+	\begin{figure}[H]
+	 \centering
+	\label{Dimensões da câmera}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/8.png}
+	 \caption{Dimensões da câmera.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+		
+	Outras especificações técnicas serão mostradas na imagem a seguir, segundo o datasheet da fornecido pela Itelbras como nas Figura 9,  Figura 10,  Figura 11,   Figura 12 e Figura 13:
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Específicações técnicas da câmera parte 1}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/9.png}
+	 \caption{Específicações técnicas da câmera parte 1.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Específicações técnicas da câmera parte 2}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/10.png}
+	 \caption{Específicações técnicas da câmera parte 2.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Específicações técnicas da câmera parte 3}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/11.png}
+	 \caption{Específicações técnicas da câmera parte 3.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Específicações técnicas da câmera parte 4}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/12.png}
+	 \caption{Específicações técnicas da câmera parte 4.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Específicações técnicas da câmera parte 5}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/13.png}
+	 \caption{Específicações técnicas da câmera parte 5.}
+	 \small{Fonte: Intelbras, camera IP VIP E5220}
+	\end{figure}
+	
+	\end{itemize}
+	
+	\item Gravador de vídeo
+	
+	Para este projeto foi escolhido o gravador de vídeo Full D1 ou modelo VD 16D1 480M da Itelbras mostrado na Figura 14, com capacidade de 16 canais de vídeo segundo a Itebras:
+	
+	“Os DVRs Intelbras da Linha Full D1 possuem funções com a última tecnologia em sistemas de segurança eletrônica. Com gravação de imagens em tempo real na resolução D1 (704x480) em todos os canais simultaneamente, robustez e confiabilidade no gerenciamento das imagens.
+
+	Permite visualização remota através da internet por smartphones com o aplicativo Intelbras iSIC, gerenciamento local e remoto pelo software Intelbras S.I.M e Intelbras DDNS gratuito. Possui saída de vídeo HDMI 1.3 (exceto modelo VD 4D1 120M) e entradas de áudio e alarme.
+
+
+	\begin{figure}[H]
+	 \centering
+	\label{Gravador de vídeo}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/14.png}
+	 \caption{Gravador de vídeo.}
+	 \small{Fonte: Intelbras, gravador de vídeo VD 16D1 480M}
+	\end{figure}
+	
+	\begin{itemize}
+		\item Especificações do gravador de vídeo
+		
+		As tabelas mostradas nas imagens (Figura 15, Figura 16, Figura 17, Figura 18, como na Figura 19, como na Figura 20 mostram as especificações.
+		
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do Gravador de vídeo parte 1}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/15.png}
+	 \caption{Especificações do Gravador de vídeo parte 1.}
+	 \small{Fonte: Intelbras, Manual - VD 16D1 480M}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do Gravador de vídeo parte 2}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/16.png}
+	 \caption{Especificações do Gravador de vídeo parte 2.}
+	 \small{Fonte: Intelbras, Manual - VD 16D1 480M}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do Gravador de vídeo parte 3}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/17.png}
+	 \caption{Especificações do Gravador de vídeo parte 3.}
+	 \small{Fonte: Intelbras, Manual - VD 16D1 480M}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do Gravador de vídeo parte 4}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/18.png}
+	 \caption{Especificações do Gravador de vídeo parte 4.}
+	 \small{Fonte: Intelbras, Manual - VD 16D1 480M}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do Gravador de vídeo parte 5}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/19.png}
+	 \caption{Especificações do Gravador de vídeo parte 5.}
+	 \small{Fonte: Intelbras, Manual - VD 16D1 480M}
+	\end{figure}
+	
+
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do Gravador de vídeo parte 6}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/20.png}
+	 \caption{Especificações do Gravador de vídeo parte 6.}
+	 \small{Fonte: Intelbras, Manual - VD 16D1 480M}
+	\end{figure}
+
+	\end{itemize}
 \end{itemize}
 
-O que n\~ao poder\'a ser feito:
+\subsubsection{Tipo de cabeamento}
+
+	Tendo em vista que tanto o modelo de câmera selecionado como também o receptor e gravador de vídeo possui entradas para cabo coaxial, foi escolhido esse tipo de cabo para fazer a ligação entre as câmeras e o sistema central, tendo em vista que a distância entre a central e as câmeras estão entre 10( a menor distância) e 500 metros, dois padrões foram selecionados.  O primeiro é o o padrão CATV RG 11 e o RG 59. O padrão RG 11 possui o limite de transmissão de até 600 metros sem perda de sinal, o RG 49 possui um limete inferior de 350 metros, assim é possível transmitir as imagens de forma segura para a central de monitoramento.
+	
+	O padrão CATV foi selecionado pela composição e isolamento, pois umas das prioridades do sistema de monitoramento por câmeras é a qualidade das imagens, visto que ele possui o mínimo de atenuação e distorção, devido a blindagem trançada do dielétrico. Além disso deve-se salientar que será usado o cabo coaxial de cobre nu, ou seja, o núcleo do cabo será inteiramente de cobre para oferecer uma menor resistividade ao material, permitindo o envio a longa distâncias. 
+
+	O dielétrico também é de suma importância para a aplicação desejada pois uma boa escolha influi diretamente na propagação do sinal, assim foi escolhido também cabos com dielétricos de polietileno ou FEP, esses materiais vão fornecer uma capacitância mais baixa e uma velocidade de propagação alta, para melhorar ainda mais a o envio e a recepção, será prezado também cabos com dielétricos com sua composição espumada ou celular.
+
+	Outro parâmetro necessário para um bom envio é a blindagem do cabo, mesmo o núcleo sendo adequado para a aplicação, assim como o dielétrico uma blindagem inadequada pode interferir bastante na qualidade da imagem. Assim para os padrões e para atender a necessidade, foi escolhida a blindagem malhada de cobre 95\% de cobertura do dielétrico, assim não há interferências externas no sinal transmitido, fornecendo uma imagem de boa qualidade para o monitoramento por câmeras.
+	O material a ser utilizado no revestimento será o PVC, visto que o objetivo é enterrar o cabo para evitar possíveis ataques e roubos. O PVC é o mais recomendado para o cabeamento interno devido a sua resistência e proteção dos elementos internos do cabo assim todo o processo de envio será feito de forma segura e sem perdas, além de prolongar a vida do cabo evitando possíveis trocas futuras segundo o site Datalink. 
 
 \begin{itemize}
-        \item Cercamento: Um cercamento com muro de concreto n\~ao seria adequado ao parque, pois al\'em de um alto custo devido a grande \'area que o parque ocupa esse tipo de cercamento impossibilita a visualiza\c{c}\~ao do interior do parque e daria um aspecto de um local privado e fechado para a popula\c{c}\~ao, al\'em do mais existe uma cerca no local que apresenta possibilidade de reforma e solu\c{c}\~ao deste quesito.
-	\item Ilumina\c{c}\~ao: A ilumina\c{c}\~ao com LED n\~ao ser\'a poss\'ivel, pois a utiliza\c{c}\~ao do mesmo se torna invi\'avel devido aos altos custos dessa tecnologia.
-	\item Monitoramento: Um monitoramento com c\^ameras em regi\~oes mais isoladas do parque est\'a fora de quest\~ao devido \`a extens\~ao do parque e aos altos custos que esse tipo vigil\^ancia acarreta. \\ \\ \\ \\
+	\item Cabo selecionado
+	
+	De acordo com os padrões pesquisados e sintetizados neste documento o produto usaremos os padrões usuais citados no item anterior, contudo não é possível achar um fabricante específico. Os parâmetros de cabo coaxiais são dados em razões de RG, assim neste projeto vamos usar os três padrões usuais de cabo que são o RG 59, o RG 11 e o RG9. Cada cabo possui um limitação no que se refere a distância, segundo o site Datalink o cabo  RG 59 é indicado para distâncias pequenas de até 200 metros, o RG 11 é indicados para distâncias intermediárias de até 450 metros, e o RG9 possui  a distância máxima de até 600 metros assim. Neste projeto, de acordo com a escala informada e por medidas aproximadas, podendo variar um pouco, teremos a maior aplicação do RG9 e do RG11, o RG59 será utilizado para as câmeras localizadas próximas  ao Centro Administrativo, que servirá como a base de monitoramento.
+	
 \end{itemize}
+
+\subsubsection{Disco rígido para CFTV}
+
+	Este HD, foi escolhido por ser compatível e diretamente direcionado para a aplicação, além disso eles possuem tempo de atividade de 24 horas semanais. O disco rígido escolhida será de 3 TB de memória, podendo assim aumentar o tempo de armazenamento sem a necessidade de limpar o HD por curtos períodos de tempo. Além disso o HD possui compatibilidade com o o gravador de vídeo. O produto escolhido foi o HD WD da Intelbras.
+
+\begin{itemize}
+	\item Especificações técnicas
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações técnicas parte 1}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/21.png}
+	 \caption{Especificações técnicas parte 1 .}
+	\end{figure}
+	
+
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações técnicas parte 2}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/22.png}
+	 \caption{Especificações técnicas parte 2.}
+	\end{figure}
+	
+\end{itemize}
+
+\subsubsection{Softwares utilizados}
+	
+	O software a ser utilizado será um fornecido pela própria Itelbrás, ele já foi mencionado neste documento, ele já fornece as imagens em tempo real já redireciona para a gravação nos HDs. Assm o software escolhido para complementar o tempo real a distância é o SIM. Ele está disponível para download e a sua aplicação será elucidada no ponto de controle 3.
+
+\subsubsection{Fonte de alimentação}
+
+	A fonte de alimentação usada será a fonte 2403 24V 3A P4 2,1 MM CABO AC CX PRO que apresenta as seguintes características: Entrada FULL RANGE 100 a 250 Vac; Cabo AC; Saída de 24V 3A com plug P4;  Proteção contra curto circuito na saída e sobrecarga; Proteção contra super aquecimento. Que se adequam as necessidades da câmera utilizada.
+
+A imagem a seguir apresenta algumas caracteristicas do produto:
+
+
+	\begin{figure}[H]
+	 \centering
+	\label{Dimensões da fonte de alimentação}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/23.png}
+	 \caption{Dimensões da fonte de alimentação.}
+	\end{figure}
+	
+
+\subsubsection{Considerações finais do projeto de monitoramento por câmeras}
+
+	O princípio de funcionamento do sistema de monitoramento consiste em quatro partes que são: captação, transmissão, representação e armazenamento. O processo de captação será realizado pelas câmeras, elas irão captar as imagens dos locais estratégicos, e serão transmitidas via cabo coaxial até o gravador de vídeo, do gravador as imagens serão transmitidas para um computador com o software SIM para a visualização em tempo real, e para os HDs que vão armazenar as imagens para possíveis análises. Esses equipamentos estão interligados, esse é dos motivos para a escolha do fabricante Intelbras, as partes se comunicam muito bem e de forma simples dentro de um contexto de instalação, resultando em um todo bem estruturado e com manutenção mais dinâmica, além de claro que o processo é mais simples sem a necessidade de sub blocos adjuntos. A seguir o diagrama (Figura 23) irá mostrar como esses blocos se comunicam para formar o sistema de monitoramento. O bloco recepção representa as câmeras utilizadas no projeto, contudo ele serve também para representar somente uma câmera. 
+
+
+	\begin{figure}[H]
+	 \centering
+	\label{Diagrama esquemático}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/25.png}
+	 \caption{Diagrama esquemático.}
+	\end{figure}
+
+\begin{itemize}
+	\item Estrutura de fixação das câmeras
+	
+	Além de um local estratégico para a fixação das câmeras, um bom suporte é de suma importância para o projeto. Um boa câmera pode ter a sua abrangência prejudicado se colocada em um suporte que não condizer com a geografia do local e com as estruturas (construções em geral) presentes no terreno. Assim deve-se escolher o melhor suporte que seja robusto e com a altura adequada para cada o projeto. Neste projeto será usados postes e possivelmente também parte da estrutura de algumas construções presente no local. Os postes utilizados serão o PO 113/45 da Metal Light(Figura 24), pois possui uma boa altura e são baratos se comparados os concorrentes.
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Esquemático do poste}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/26.png}
+	 \caption{Esquemático do poste.}
+	\end{figure}	
+	
+	
+	Informações técnicas do poste:
+	{\bf(Z):} Zarconado
+	{\bf(G.El):} Galvanizado Eletroliticamente
+	{\bf(G.El + P):} Galvanizado Eletroliticamente e pintado com Esmalte Sintético ou Epoxi.
+	{\bf(G.F.):} Galvanizado a Fogo.
+	{\bf(G.F.+P):} Galvanizado a Fogo e pintado com esmalte sintético ou epoxi.
+	
+	{\bf Embalagem:} Galvanizados – a granel  /  Pintados – protetor plástico
+	{\bf Especificação Técnica:} (medidas em m/m)
+	
+\begin{table}[h]
+\center
+\caption{Tabela de específicações do poste}
+\begin{tabular}{lllllllllll}
+ &  &  &  &  &  &  &  &  &  &  \\ \hline
+\multicolumn{5}{|l|}{{\bf DIMENSÕES GERAIS}} & \multicolumn{5}{l|}{{\bf FLANGEADO}} & \multicolumn{1}{l|}{{\bf ENGASTADO}} \\ \hline
+\multicolumn{1}{|l|}{{\bf TIPO}} & \multicolumn{1}{l|}{{\bf h}} & \multicolumn{1}{l|}{{\bf H}} & \multicolumn{1}{l|}{{\bf ØD1}} & \multicolumn{1}{l|}{{\bf Kg}} & \multicolumn{1}{l|}{{\bf df}} & \multicolumn{1}{l|}{{\bf dc}} & \multicolumn{1}{l|}{{\bf hc}} & \multicolumn{1}{l|}{{\bf d1}} & \multicolumn{1}{l|}{{\bf hc1}} & \multicolumn{1}{l|}{{\bf e}} \\ \hline
+\multicolumn{1}{|l|}{{\it PO-113/30}} & \multicolumn{1}{l|}{3.000} & \multicolumn{1}{l|}{3.500} & \multicolumn{1}{l|}{60,3} & \multicolumn{1}{l|}{11,3} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{500} \\ \hline
+\multicolumn{1}{|l|}{{\it PO-113B/30}} & \multicolumn{1}{l|}{3.000} & \multicolumn{1}{l|}{3.000} & \multicolumn{1}{l|}{60,3} & \multicolumn{1}{l|}{12,3} & \multicolumn{1}{l|}{200} & \multicolumn{1}{l|}{130} & \multicolumn{1}{l|}{150} & \multicolumn{1}{l|}{9,52} & \multicolumn{1}{l|}{20} & \multicolumn{1}{l|}{-} \\ \hline
+\multicolumn{1}{|l|}{{\it PO-113/40}} & \multicolumn{1}{l|}{4.000} & \multicolumn{1}{l|}{4.500} & \multicolumn{1}{l|}{60,3} & \multicolumn{1}{l|}{14,5} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{500} \\ \hline
+\multicolumn{1}{|l|}{{\it PO-113B/40}} & \multicolumn{1}{l|}{4.000} & \multicolumn{1}{l|}{4.000} & \multicolumn{1}{l|}{60,3} & \multicolumn{1}{l|}{17,1} & \multicolumn{1}{l|}{200} & \multicolumn{1}{l|}{130} & \multicolumn{1}{l|}{300} & \multicolumn{1}{l|}{12,5} & \multicolumn{1}{l|}{40} & \multicolumn{1}{l|}{-} \\ \hline
+\multicolumn{1}{|l|}{{\it PO-113/45}} & \multicolumn{1}{l|}{4.500} & \multicolumn{1}{l|}{5.000} & \multicolumn{1}{l|}{76,2} & \multicolumn{1}{l|}{21} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{-} & \multicolumn{1}{l|}{500} \\ \hline
+\multicolumn{1}{|l|}{{\it PO-113B/45}} & \multicolumn{1}{l|}{4.500} & \multicolumn{1}{l|}{4.500} & \multicolumn{1}{l|}{76,2} & \multicolumn{1}{l|}{21,1} & \multicolumn{1}{l|}{200} & \multicolumn{1}{l|}{130} & \multicolumn{1}{l|}{300} & \multicolumn{1}{l|}{12,5} & \multicolumn{1}{l|}{40} & \multicolumn{1}{l|}{-} \\ \hline
+\end{tabular}
+\end{table}
+
+\end{itemize}
+
+\begin{itemize}
+	\item Custo do projeto de monitoramento por câmeras
+	
+	A seguir serão apresentados todos os preços dos equipamentos até utilizados ou respectivas estimativas, assim como uma projeção do valor final do desse sistema de vigilância.
+\end{itemize}
+
+\subsection{Planejamento de monitoramento por pessoas}
+
+  	Esse tópico tem como objetivo complementar o monitoramento feito pelas câmeras, visto que de funcionário da rede pública e ou privada é de suma importância para o pleno funcionamento para auxiliar o sistema eletrônico, por exemplo, de nada serve uma rede de câmeras se não existe um funcionário acompanhando os dados entregues pelo sistema, também de nada adianta um sistema rápido de envio e coletas de dados, visto que não há pessoas que possam atender as ocorrências e as necessidades dos usuários do parque, então para atender essas necessidades tão fundamentais é necessária uma integração entre a parte tecnológica. Assim o Planejamento de Monitoramento por Pessoas visa atender essas necessidades, estipulando rondas periódicas, pessoas responsáveis pela visualização das câmeras utilizando veículos para permitir a rápida locomoção dos funcionários, além de claro de estruturas físicas presentes no projeto que está implementado no parque. Cabe ao comprador do projeto decidir qual empresa ou órgão público irá fornecer esse serviço.
+  	
+  	\begin{itemize}		
+  	\item As rondas serão feitas periodicamente a cada 1 hora por dois grupos compostos por quatro funcionários, utilizando bicicletas e motos, as bicicletas serão utilizadas nas rondas mais usuais nos dois sentidos da ciclovia, por exemplo, nas áreas de maior convívio social. As motos por outro lado serão utilizadas em casos urgentes, por exemplo, crimes ou algum tipo de assistência.
+  	
+ 	\item As guaritas apresentadas no item 2.0 desse documento, contará com um funcionário com equipamentos de segurança fornecido pela empresa privada ou órgão público com um rádio comunicador para saber de eventuais problemas ou informações.
+ 	
+	\item Estarão presentes na central de monitoramento, que ficará na sede administrativa do parque, dois funcionários por turno que estarão responsáveis pela visualização e controle das imagens das câmeras, além de garantir a integridade dos equipamentos.
+	
+	\item Nesse projeto a torre de vigilância não auxiliará no sistema de monitoramento eletrônico, pois caso utilizado, a distância entre as câmeras e a central de monitoramento aumentaria, gastando mais recursos e aumentando a possibilidade de perda de dados.
+  	\end{itemize}
+
+\begin{itemize}
+	\item Equipamentos
+	
+	\begin{itemize}
+	\item O radio comunicador escolhido para ser utilizado no monitoramento do parque foi o modelo Twin Waterproof da Intelbras. O preço médio desse rádio é de R\$ 450,00, esse rádio foi escolhido por causa da área de alcance, já que o parque tem uma grande área à comunicação entre as pessoas que fazem o monitoramento não seria prejudicada. Serão usados 3 rádios, até o presente momento, um para cada guarita e um para a central, fazendo assim a comunicação.  Nas tableas a seguir (Figura 30, Figura 31 e Figura 32)  seguem as especificações práticas do Rádio comunicador.
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do rádio comunicador parte 1}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/27.png}
+	 \caption{Especificações do rádio comunicador parte 1.}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do rádio comunicador parte 2}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/28.png}
+	 \caption{Especificações do rádio comunicador parte 2.}
+	\end{figure}
+	
+	\begin{figure}[H]
+	 \centering
+	\label{Especificações do rádio comunicador parte 3}
+	 \includegraphics[keepaspectratio=true,scale=0.8]{monitoramento/29.png}
+	 \caption{Especificações do rádio comunicador parte 3.}
+	\end{figure}
+	
+	\item Como dito na teriormente, será utilizado nas rondas usuais bicicletas. Para isso foi escolhido o produto da GONEW, Endorphine 6.1. Essa bicicleta é apropriada para qualquer terreno sendo possível sair dos domínios pavimentados do parque, assim o futuro funcionário que irá utilizar essa bicicleta terá uma melhor ergonometria para executar sua tarefa. A seguir as especificações técnicas fornecidas pela revendedora NetShoes.
+	
+		\begin{enumerate}
+		\item Nome:  Bicicleta GONEW Endorphine 6.1 - Aro 26 - 21 Marchas
+		\item Gênero:  Unissex
+		\item Modalidade: Mountain Bike
+		\item Aro: 26
+ 		\item Marchas: 21
+		\item Suspensão: Dianteira
+		\item Indicado para: Lazer, Locomoção, Performance
+		\item Material: Alumínio
+		\item Capacidade Máxima Suportada: 100 Kg
+		\item Tamanho de Quadro: 17 pol./ 19 pol. / 21 pol.
+		\item Material do Quadro: Alumínio Hidroformado 6061
+		\item Tipo de Suspensão: Dianteira
+		\item Modelo e Composição do Garfo: GONEW 100MM- Coroa em alumínio
+		\item Tamanho de Aro: 26
+		\item Modelo e Composição do Aro: Alumínio Parede dupla
+		\item Pneus: 26 x 1,95
+		\item Tipo de Cubo: Aço
+		\item Marca e Composição dos Cubos: OEM Gonew - Aço - Quick Release
+		\item Material do Canote: Alumínio
+		\item Marca e Composição do Selim: Gonew
+		\item N de Marchas: 21 V
+		\item Marca e Modelo do Sistema de Câmbio: Shimano Tourney
+		\item Tipo de Alavanca de Câmbio: Shimano EF-51
+		\item Marca e Composição da Corrente: KMC C50
+		\item Tipo de Pedivela: Triplo
+		\item Marca e Composição do Pedivela: OEM GONEW
+		\item Tipo de Engrenagem: Shimano
+		\item Modelo de Pedal: Plataforma
+		\item Marca e Composição do Pedal: OEM Alumínio / Plástico
+		\item Modelo e Composição do Guidão: Alumínio Oversize 31.8
+		\item Composição das Manoplas: Borracha
+		\item Tipo de Freio: Disco Mecânico
+ 		\item Modelo e Composição do Freio: OEM Gonew Disco Mecânico
+		\end{enumerate}
+	\end{itemize}
+\end{itemize}
+
+\section{Definição de Escopo}
+
+	O projeto consiste em desenvolver soluções tecnológicas para o parque do Urbano e Vivencial do Gama. Foi observado que o parque apresenta uma grande extensão, de aproximadamente 52 mil metros quadrados. No entanto, não se mostrou viável criar soluções que estejam presentes por toda a extensão do parque. A primeira restrição que foi adotada foi com relação ao processo que está em andamento por parte da Administração Regional. Através de visitas ao local foi possível obter a planta entre outras informações sobre o projeto implementado. Dessa forma, caso o projeto desenvolvido na disciplina de Projeto Integrador 1 se torne viável, seria interessante apresentá-lo para possíveis steakholders. 
+	Dentro das delimitações do projeto estipulou-se um número de visitantes em dias de alta movimentação, como os fins de semana, em torno de 1300 pessoas. Este número foi enbasado em uma comparação com o Parque de Águas Claras e uma combinação desse valor com o número de visitantes esperados devido ao espaço Lazer- Multimídia. 
+
+	Dentro dos subsistemas também foram estipuladas delimitações para o projeto: 
+
+	O espaço de interação social está sendo projetado para suportar um número de até 1000 pessoas. Dentro deste espaço terão 30 bicicletas ergométricas. A energia gerada pelas mesmas será consumida simultâneamente, sem o armazenamento de energia. 
+
+	A energia gerada pelos painéis fotovoltáicos será armazenada para alimentar os mesmos durante o período que a luz ambiente for menor, no geral no período noturno. Os outros equipamentos do parque, que não incluam a iluminação geral e nem o espaço interativo serão alimentados pela energia elétrica da rede, um consumo estimado em torno de  2054,57 kWh. A Segurança projetada para o parque tem foco na segurança das pessoas e patrimônio físico, não abrangendo a segurança ambiental. Consequentemente uma das soluções abordadas é o cercamento do parque. O perímetro estipulado para tal é de 3342,29 metros. 
+
 
 \section{Estrutura Anal\'itica do Projeto}
 
