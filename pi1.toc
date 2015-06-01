@@ -7,36 +7,36 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{17}{chapter.1}
 \contentsline {section}{\numberline {1.1}Contextualiza\c {c}\~ao}{17}{section.1.1}
-\contentsline {section}{\numberline {1.2}Descri\c {c}\~ao do problema}{19}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Problemas encontrados}{19}{subsection.1.2.1}
-\contentsline {subsubsection}{\numberline {1.2.1.1}Ilumina\c {c}\~ao}{19}{subsubsection.1.2.1.1}
-\contentsline {subsubsection}{\numberline {1.2.1.2}Falta de Monitoramento do Parque}{19}{subsubsection.1.2.1.2}
-\contentsline {subsubsection}{\numberline {1.2.1.3}Danos na cerca do parque}{19}{subsubsection.1.2.1.3}
-\contentsline {subsubsection}{\numberline {1.2.1.4}Falta de manuten\c {c}\~ao da infraestrutura}{20}{subsubsection.1.2.1.4}
-\contentsline {subsubsection}{\numberline {1.2.1.5}Fonte n\~ao sustent\'avel de energia}{20}{subsubsection.1.2.1.5}
-\contentsline {subsubsection}{\numberline {1.2.1.6}Lixo produzido nos banheiros por usu\'arios e pela administra\c {c}\~ao}{20}{subsubsection.1.2.1.6}
+\contentsline {section}{\numberline {1.2}Descri\c {c}\~ao do problema}{20}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Problemas encontrados}{20}{subsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Ilumina\c {c}\~ao}{20}{subsubsection.1.2.1.1}
+\contentsline {subsubsection}{\numberline {1.2.1.2}Falta de Monitoramento do Parque}{20}{subsubsection.1.2.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1.3}Danos na cerca do parque}{21}{subsubsection.1.2.1.3}
+\contentsline {subsubsection}{\numberline {1.2.1.4}Falta de manuten\c {c}\~ao da infraestrutura}{21}{subsubsection.1.2.1.4}
+\contentsline {subsubsection}{\numberline {1.2.1.5}Fonte n\~ao sustent\'avel de energia}{21}{subsubsection.1.2.1.5}
+\contentsline {subsubsection}{\numberline {1.2.1.6}Lixo produzido nos banheiros por usu\'arios e pela administra\c {c}\~ao}{21}{subsubsection.1.2.1.6}
 \contentsline {subsubsection}{\numberline {1.2.1.7}A falta de atratividade do parque}{21}{subsubsection.1.2.1.7}
 \contentsline {subsection}{\numberline {1.2.2}Quem \'e afetado pelos problemas encontrados}{21}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Impactos}{21}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Impactos}{22}{subsection.1.2.3}
 \contentsline {section}{\numberline {1.3}Justificativa}{22}{section.1.3}
 \contentsline {section}{\numberline {1.4}5W2H}{22}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}What? (O que ser\'a entregue?)}{22}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Why? (Por qu\^e est\'a sendo feito?)}{22}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Where? (Onde ser\'a feito/ entregue/ utilizado?)}{22}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}When? (Quando ser\'a feito/ entregue?)}{22}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.1}What? (O que ser\'a entregue?)}{23}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Why? (Por qu\^e est\'a sendo feito?)}{23}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Where? (Onde ser\'a feito/ entregue/ utilizado?)}{23}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}When? (Quando ser\'a feito/ entregue?)}{23}{subsection.1.4.4}
 \contentsline {subsection}{\numberline {1.4.5}Who? (Quem o far\'a?)}{23}{subsection.1.4.5}
 \contentsline {subsection}{\numberline {1.4.6}How? (Como ser\'a realizado?)}{23}{subsection.1.4.6}
 \contentsline {subsection}{\numberline {1.4.7}How much? (Quanto custar\'a?)}{23}{subsection.1.4.7}
-\contentsline {section}{\numberline {1.5}Objetivos}{23}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Objetivo Geral}{23}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Objetivos Espec\'{\i }ficos}{23}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.5}Objetivos}{24}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Objetivo Geral}{24}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Objetivos Espec\'{\i }ficos}{24}{subsection.1.5.2}
 \contentsline {section}{\numberline {1.6}Metodologia}{24}{section.1.6}
 \contentsline {subsection}{\numberline {1.6.1}Estrutura Organizacional}{24}{subsection.1.6.1}
 \contentsline {subsection}{\numberline {1.6.2}Gerenciamento dos Recursos Humanos}{25}{subsection.1.6.2}
 \contentsline {subsubsection}{\numberline {1.6.2.1}Pap\'eis e Responsabilidades}{25}{subsubsection.1.6.2.1}
-\contentsline {subsection}{\numberline {1.6.3}Plano de Comunica\c {c}\~ao}{25}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.3}Plano de Comunica\c {c}\~ao}{26}{subsection.1.6.3}
 \contentsline {subsection}{\numberline {1.6.4}Gerenciamento do Tempo}{27}{subsection.1.6.4}
-\contentsline {subsection}{\numberline {1.6.5}Desenvolvimento de Projeto/ Metodologia}{27}{subsection.1.6.5}
+\contentsline {subsection}{\numberline {1.6.5}Desenvolvimento de Projeto/ Metodologia}{28}{subsection.1.6.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Desenvolvimento}}{29}{chapter.2}
 \contentsline {section}{\numberline {2.1}Solu\c {c}\~oes Propostas}{29}{section.2.1}
@@ -97,19 +97,19 @@
 \contentsline {subsubsection}{\numberline {2.3.2.7}Considera\IeC {\c c}\IeC {\~o}es finais do projeto de monitoramento por c\IeC {\^a}meras}{106}{subsubsection.2.3.2.7}
 \contentsline {subsection}{\numberline {2.3.3}Planejamento de monitoramento por pessoas}{108}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Manuten\IeC {\c c}\IeC {\~a}o}{111}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}Defini\IeC {\c c}\IeC {\~a}o de Escopo}{117}{section.2.4}
-\contentsline {section}{\numberline {2.5}Estrutura Anal\'itica do Projeto}{117}{section.2.5}
+\contentsline {section}{\numberline {2.4}Defini\IeC {\c c}\IeC {\~a}o de Escopo}{119}{section.2.4}
+\contentsline {section}{\numberline {2.5}Estrutura Anal\'itica do Projeto}{120}{section.2.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{119}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{123}{chapter.3}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{121}{section*.121}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{125}{section*.122}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{123}{section*.122}
+\contentsline {part}{\uppercase {Anexos}}{127}{section*.123}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{125}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{129}{appendix.anexochapback.1}
