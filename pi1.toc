@@ -56,60 +56,59 @@
 \contentsline {subsection}{\numberline {2.1.10}Esportes}{35}{subsection.2.1.10}
 \contentsline {subsubsection}{\numberline {2.1.10.1}Estudo da viabilidade}{36}{subsubsection.2.1.10.1}
 \contentsline {subsection}{\numberline {2.1.11}Infraestrutura}{36}{subsection.2.1.11}
-\contentsline {section}{\numberline {2.2}Solu\c {c}\~oes Adotadas}{36}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Capta\c {c}\~ao de \'aguas pluviais}{36}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Plano de Cercamento}{42}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Relat\'orio de Pain\'eis Solares}{44}{subsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Objetivos}{44}{subsubsection.2.2.3.1}
-\contentsline {subsubsection}{\numberline {2.2.3.2}Comparativos das tecnologias dos sistemas fotovoltaicos}{45}{subsubsection.2.2.3.2}
-\contentsline {subsubsection}{\numberline {2.2.3.3}Sistemas isolados}{46}{subsubsection.2.2.3.3}
-\contentsline {subsubsection}{\numberline {2.2.3.4}Sistemas conectados a rede}{46}{subsubsection.2.2.3.4}
-\contentsline {subsubsection}{\numberline {2.2.3.5}An\'alise do Projeto}{47}{subsubsection.2.2.3.5}
-\contentsline {subsection}{\numberline {2.2.4}Projeto de ilumina\c {c}\~ao}{49}{subsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.4.1}Defini\c {c}\~oes de Termos Luminot\'ecnicos}{49}{subsubsection.2.2.4.1}
-\contentsline {subsubsection}{\numberline {2.2.4.2}Projeto de Ilumina\c {c}\~ao P\'ublica de \'Areas para Pedestres}{52}{subsubsection.2.2.4.2}
-\contentsline {subsubsection}{\numberline {2.2.4.3}Ilumina\c {c}\~ao de Pra\c {c}as e Parques}{52}{subsubsection.2.2.4.3}
-\contentsline {subsubsection}{\numberline {2.2.4.4}N\'iveis de iilumin\^ancia e uniformidade}{53}{subsubsection.2.2.4.4}
-\contentsline {subsubsection}{\numberline {2.2.4.5}Ciclovia e ciclofaixa}{53}{subsubsection.2.2.4.5}
-\contentsline {subsubsection}{\numberline {2.2.4.6}\'Areas de Ilumina\c {c}\~ao}{55}{subsubsection.2.2.4.6}
-\contentsline {subsection}{\numberline {2.2.5}Intera\IeC {\c c}\IeC {\~a}o social e atratividade do parque}{57}{subsection.2.2.5}
-\contentsline {subsubsection}{\numberline {2.2.5.1}Espa\IeC {\c c}o interativo e viv\IeC {\^e}ncia}{58}{subsubsection.2.2.5.1}
-\contentsline {subsubsection}{\numberline {2.2.5.2}Locais permitidos para constru\IeC {\c c}\IeC {\~a}o no Parque Vivencial do Gama}{60}{subsubsection.2.2.5.2}
-\contentsline {subsubsection}{\numberline {2.2.5.3}Sistemas de aulas de gin\IeC {\'a}stica com bicicletas ergom\IeC {\'e}tricas sustent\IeC {\'a}vel}{62}{subsubsection.2.2.5.3}
-\contentsline {subsubsection}{\numberline {2.2.5.4}Produtos}{64}{subsubsection.2.2.5.4}
-\contentsline {subsubsection}{\numberline {2.2.5.5}Aplicativo}{69}{subsubsection.2.2.5.5}
-\contentsline {subsubsection}{\numberline {2.2.5.6}Ecoquiosques e postes com tomadas e acesso \IeC {\`a} WiFi}{72}{subsubsection.2.2.5.6}
-\contentsline {subsubsection}{\numberline {2.2.5.7}WiFi e Postes com USB no parque do Gama}{73}{subsubsection.2.2.5.7}
-\contentsline {subsection}{\numberline {2.2.6}Postes Solares}{75}{subsection.2.2.6}
-\contentsline {subsubsection}{\numberline {2.2.6.1}Estudo comparativo das tecnologias dos postes}{75}{subsubsection.2.2.6.1}
-\contentsline {subsubsection}{\numberline {2.2.6.2}Poste a ser aplicado}{82}{subsubsection.2.2.6.2}
-\contentsline {subsubsection}{\numberline {2.2.6.3}Composi\IeC {\c c}\IeC {\~a}o do Sistema (Kit para ilumina\IeC {\c c}\IeC {\~a}o p\IeC {\'u}blica)}{84}{subsubsection.2.2.6.3}
-\contentsline {subsubsection}{\numberline {2.2.6.4}Balan\IeC {\c c}o energ\IeC {\'e}tico}{91}{subsubsection.2.2.6.4}
-\contentsline {section}{\numberline {2.3}Sistema de Monitoramento}{93}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Escopo de monitoramento}{93}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Projeto de monitoramento de c\IeC {\^a}meras}{94}{subsection.2.3.2}
-\contentsline {subsubsection}{\numberline {2.3.2.1}\IeC {\'A}rea de monitoramento pelas c\IeC {\^a}meras e locais para posicion\IeC {\'a}-las}{94}{subsubsection.2.3.2.1}
-\contentsline {subsubsection}{\numberline {2.3.2.2}Equipamento}{96}{subsubsection.2.3.2.2}
-\contentsline {subsubsection}{\numberline {2.3.2.3}Tipo de cabeamento}{104}{subsubsection.2.3.2.3}
-\contentsline {subsubsection}{\numberline {2.3.2.4}Disco r\IeC {\'\i }gido para CFTV}{105}{subsubsection.2.3.2.4}
-\contentsline {subsubsection}{\numberline {2.3.2.5}Softwares utilizados}{106}{subsubsection.2.3.2.5}
-\contentsline {subsubsection}{\numberline {2.3.2.6}Fonte de alimenta\IeC {\c c}\IeC {\~a}o}{106}{subsubsection.2.3.2.6}
-\contentsline {subsubsection}{\numberline {2.3.2.7}Considera\IeC {\c c}\IeC {\~o}es finais do projeto de monitoramento por c\IeC {\^a}meras}{107}{subsubsection.2.3.2.7}
-\contentsline {subsection}{\numberline {2.3.3}Planejamento de monitoramento por pessoas}{109}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Manuten\IeC {\c c}\IeC {\~a}o}{112}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}Defini\IeC {\c c}\IeC {\~a}o de Escopo}{120}{section.2.4}
-\contentsline {section}{\numberline {2.5}Estrutura Anal\'itica do Projeto}{121}{section.2.5}
+\contentsline {section}{\numberline {2.2}Solu\c {c}\~oes Adotadas}{37}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Capta\c {c}\~ao de \'aguas pluviais}{37}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Plano de Cercamento}{43}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Relat\'orio de Pain\'eis Solares}{46}{subsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.3.1}Comparativos das tecnologias dos sistemas fotovoltaicos}{46}{subsubsection.2.2.3.1}
+\contentsline {subsubsection}{\numberline {2.2.3.2}Sistemas isolados}{47}{subsubsection.2.2.3.2}
+\contentsline {subsubsection}{\numberline {2.2.3.3}Sistemas conectados a rede}{47}{subsubsection.2.2.3.3}
+\contentsline {subsubsection}{\numberline {2.2.3.4}An\'alise do Projeto}{48}{subsubsection.2.2.3.4}
+\contentsline {subsection}{\numberline {2.2.4}Projeto de ilumina\c {c}\~ao}{51}{subsection.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.4.1}Defini\c {c}\~oes de Termos Luminot\'ecnicos}{51}{subsubsection.2.2.4.1}
+\contentsline {subsubsection}{\numberline {2.2.4.2}Projeto de Ilumina\c {c}\~ao P\'ublica de \'Areas para Pedestres}{54}{subsubsection.2.2.4.2}
+\contentsline {subsubsection}{\numberline {2.2.4.3}Ilumina\c {c}\~ao de Pra\c {c}as e Parques}{54}{subsubsection.2.2.4.3}
+\contentsline {subsubsection}{\numberline {2.2.4.4}N\'iveis de iilumin\^ancia e uniformidade}{55}{subsubsection.2.2.4.4}
+\contentsline {subsubsection}{\numberline {2.2.4.5}Ciclovia e ciclofaixa}{55}{subsubsection.2.2.4.5}
+\contentsline {subsubsection}{\numberline {2.2.4.6}\'Areas de Ilumina\c {c}\~ao}{56}{subsubsection.2.2.4.6}
+\contentsline {subsection}{\numberline {2.2.5}Intera\IeC {\c c}\IeC {\~a}o social e atratividade do parque}{60}{subsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5.1}Espa\IeC {\c c}o interativo e viv\IeC {\^e}ncia}{61}{subsubsection.2.2.5.1}
+\contentsline {subsubsection}{\numberline {2.2.5.2}Locais permitidos para constru\IeC {\c c}\IeC {\~a}o no Parque Vivencial do Gama}{63}{subsubsection.2.2.5.2}
+\contentsline {subsubsection}{\numberline {2.2.5.3}Sistemas de aulas de gin\IeC {\'a}stica com bicicletas ergom\IeC {\'e}tricas sustent\IeC {\'a}vel}{65}{subsubsection.2.2.5.3}
+\contentsline {subsubsection}{\numberline {2.2.5.4}Produtos}{67}{subsubsection.2.2.5.4}
+\contentsline {subsubsection}{\numberline {2.2.5.5}Aplicativo}{72}{subsubsection.2.2.5.5}
+\contentsline {subsubsection}{\numberline {2.2.5.6}Ecoquiosques e postes com tomadas e acesso \IeC {\`a} \textit {Wi-Fi}}{75}{subsubsection.2.2.5.6}
+\contentsline {subsubsection}{\numberline {2.2.5.7}\textit {Wi-Fi} e Postes com \textit {USB} no parque do Gama}{76}{subsubsection.2.2.5.7}
+\contentsline {subsection}{\numberline {2.2.6}Postes Solares}{78}{subsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.6.1}Estudo comparativo das tecnologias dos postes}{78}{subsubsection.2.2.6.1}
+\contentsline {subsubsection}{\numberline {2.2.6.2}Poste a ser aplicado}{86}{subsubsection.2.2.6.2}
+\contentsline {subsubsection}{\numberline {2.2.6.3}Composi\IeC {\c c}\IeC {\~a}o do Sistema (Kit para ilumina\IeC {\c c}\IeC {\~a}o p\IeC {\'u}blica)}{88}{subsubsection.2.2.6.3}
+\contentsline {subsubsection}{\numberline {2.2.6.4}Balan\IeC {\c c}o energ\IeC {\'e}tico}{96}{subsubsection.2.2.6.4}
+\contentsline {section}{\numberline {2.3}Sistema de Monitoramento}{97}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Escopo de monitoramento}{97}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Projeto de monitoramento de c\IeC {\^a}meras}{98}{subsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.2.1}\IeC {\'A}rea de monitoramento pelas c\IeC {\^a}meras e locais para posicion\IeC {\'a}-las}{98}{subsubsection.2.3.2.1}
+\contentsline {subsubsection}{\numberline {2.3.2.2}Equipamento}{100}{subsubsection.2.3.2.2}
+\contentsline {subsubsection}{\numberline {2.3.2.3}Tipo de cabeamento}{108}{subsubsection.2.3.2.3}
+\contentsline {subsubsection}{\numberline {2.3.2.4}Disco r\IeC {\'\i }gido para CFTV}{109}{subsubsection.2.3.2.4}
+\contentsline {subsubsection}{\numberline {2.3.2.5}\textit {Softwares} utilizados}{110}{subsubsection.2.3.2.5}
+\contentsline {subsubsection}{\numberline {2.3.2.6}Fonte de alimenta\IeC {\c c}\IeC {\~a}o}{110}{subsubsection.2.3.2.6}
+\contentsline {subsubsection}{\numberline {2.3.2.7}Considera\IeC {\c c}\IeC {\~o}es finais do projeto de monitoramento por c\IeC {\^a}meras}{111}{subsubsection.2.3.2.7}
+\contentsline {subsection}{\numberline {2.3.3}Planejamento de monitoramento por pessoas}{113}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Manuten\IeC {\c c}\IeC {\~a}o}{116}{subsection.2.3.4}
+\contentsline {section}{\numberline {2.4}Defini\IeC {\c c}\IeC {\~a}o de Escopo}{124}{section.2.4}
+\contentsline {section}{\numberline {2.5}Estrutura Anal\'itica do Projeto}{126}{section.2.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{123}{chapter.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{127}{chapter.3}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{125}{section*.122}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{129}{section*.122}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{127}{section*.123}
+\contentsline {part}{\uppercase {Anexos}}{131}{section*.123}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{129}{appendix.anexochapback.1}
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Cronograma do Projeto}}{133}{appendix.anexochapback.1}

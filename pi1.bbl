@@ -7,16 +7,22 @@
 
 \bibitem[Cemig 2015]{CemigMinas}
 \abntrefinfo{Cemig}{CEMIG}{2015}
-{CEMIG. \emph{PROJETOS DE ILUMINA\C{C}\~AO P\’UBLICA}. 2015.
+{CEMIG. \emph{PROJETOS DE ILUMINA\C{C}\~AO P\'UBLICA}. 2015.
   {http://www.cemig.com.br/pt-br/atendimento/documents/nd-3-4p.pdf}.
 Dispon{\'\i}vel em:
-  \url{{http://www.cemig.com.br/pt-br/atendimento/documents/nd-3-4p.pd}.}
+  \url{http://www.cemig.com.br/pt-br/atendimento/documents/nd-3-4p.pdf}.}
 
 \bibitem[CRESESB 2006]{CRESESB}
 \abntrefinfo{CRESESB}{CRESESB}{2006}
 {CRESESB. \emph{Centro de Refer{\^e}ncia para Energia Solar e E{\'o}lica
   S{\'e}rgio de Salvo Brito}. 2006.
 Dispon{\'\i}vel em: \url{http://www.cresesb.cepel.br}.}
+
+\bibitem[CRESESB 2014]{CRESESBIMAGEM}
+\abntrefinfo{CRESESB}{CRESESB}{2014}
+{CRESESB. \emph{Dados Solarim{\'e}tricos de Bras{\'\i}lia}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.cresesb.cepel.br/index.php?section=sundata}.}
 
 \bibitem[Ferreira 2015]{COEX}
 \abntrefinfo{Ferreira}{FERREIRA}{2015}
@@ -32,10 +38,10 @@ Dispon{\'\i}vel em: \url{http://www.cresesb.cepel.br}.}
 
 \bibitem[Grade 2015]{CatalogoCercamento}
 \abntrefinfo{Grade}{GRADE}{2015}
-{GRADE, M. \emph{Cat\’alogo de Cercamento, Gradil Linha Stadium}. 2015.
+{GRADE, M. \emph{Cat\'alogo de Cercamento, Gradil Linha Stadium}. 2015.
   {http://www.metalgrade.com.br/images/stories/stadium.pdf?phpMyAdmin=0b08ee7262dd076a48b50896a4228991}.
 Dispon{\'\i}vel em:
-  \url{{http://www.metalgrade.com.br/images/stories/stadium.pdf?phpMyAdmin=0b08ee7262dd076a48b50896a422899}.}
+  \url{http://www.metalgrade.com.br/images/stories/stadium.pdf?phpMyAdmin=0b08ee7262dd076a48b50896a4228991}.}
 
 \bibitem[Ibram 2013]{Ibram}
 \abntrefinfo{Ibram}{IBRAM}{2013}
@@ -44,55 +50,64 @@ Dispon{\'\i}vel em:
 Dispon{\'\i}vel em:
   \url{http://www.ibram.df.gov.br/noticias/item/2291-parque-vivencial-do-gama-j\%C3\%A1-\%C3\%A9-uma-realidade-para-popula\%C3\%A7\%C3\%A3o-local.html}.}
 
+\bibitem[Johansson e Burnham 1993]{johansson1993renewable}
+\abntrefinfo{Johansson e Burnham}{JOHANSSON; BURNHAM}{1993}
+{JOHANSSON, T.~B.; BURNHAM, L. \emph{Renewable energy: sources for fuels and
+  electricity}. [S.l.]: Island press, 1993.}
+
 \bibitem[LEAL 2000]{LEAL}
 \abntrefinfo{LEAL}{LEAL}{2000}
-{LEAL, A.~C. Ciclo da \’agua na edifica\c{c}\~ao.
-\emph{Techne}, Techne, v.~9, n.~49, p. 45–46, 2000.}
+{LEAL, A.~C. Ciclo da \'agua na edifica\c{c}\~ao.
+\emph{Techne}, Techne, v.~9, n.~49, p. 45--46, 2000.}
 
 \bibitem[MAY 2014]{MAY}
 \abntrefinfo{MAY}{MAY}{2014}
-{MAY, S. \emph{Estudo da viabilidade do aproveitamento de \’agua de chuva
-  para consumo n\~ao pot\’avel em edifica\c{c}\~oes}. S\~ao Paulo: [s.n.],
-  2014.}
+{MAY, S. \emph{Estudo da viabilidade do aproveitamento de \'agua de chuva para
+  consumo n\~ao pot\'avel em edifica\c{c}\~oes}. S\~ao Paulo: [s.n.], 2014.}
 
 \bibitem[SAUDE 2015]{MINISTERIODASAUDE}
 \abntrefinfo{SAUDE}{SAUDE}{2015}
 {SAUDE, M.~D. \emph{Portaria n 1469 de 29 de dezembro de 2000, artigo 16}.
   2015. {http://www.springway.com.br/asau/legi.html}.
-Dispon{\'\i}vel em: \url{{http://www.springway.com.br/asau/legi.htm}.}
+Dispon{\'\i}vel em: \url{http://www.springway.com.br/asau/legi.html}.}
 
 \bibitem[Solar 2015]{PortalSolar}
 \abntrefinfo{Solar}{SOLAR}{2015}
-{SOLAR, P. \emph{C\’alculo Solar}. 2015.
+{SOLAR, P. \emph{C\'alculo Solar}. 2015.
   {http://www.portalsolar.com.br/calculo-solar}.
-Dispon{\'\i}vel em: \url{{http://www.portalsolar.com.br/calculo-sola}.}
+Dispon{\'\i}vel em: \url{http://www.portalsolar.com.br/calculo-solar}.}
 
 \bibitem[SUNLAB 2015]{SUNLABPTS}
-\abntrefinfo{SUNLAB}{SUNLAB}{2015}
+\abntrefinfo{SUNLAB}{SUNLAB}{2015a}
 {SUNLAB. \emph{Postes Solares}. 2015.
   {http://www.sunlab.com.br/Poste_Solar_PTS.htm}.
-Dispon{\'\i}vel em: \url{{http://www.sunlab.com.br/Poste\_Solar\_PTS.ht}.}
+Dispon{\'\i}vel em: \url{http://www.sunlab.com.br/Poste\_Solar\_PTS.html}.}
+
+\bibitem[SUNLAB 2015]{SUNLAB}
+\abntrefinfo{SUNLAB}{SUNLAB}{2015b}
+{SUNLAB. \emph{Sunlab}. 2015. {http://www.sunlab.com.br/index.htm}.
+Dispon{\'\i}vel em: \url{http://www.sunlab.com.br/index.html}.}
 
 \bibitem[TECHINIK 2015]{TECHINIK}
 \abntrefinfo{TECHINIK}{TECHINIK}{2015}
-{TECHINIK, P. \emph{Informa\c{c}\~oes sobre o aproveitamento das \’aguas de
+{TECHINIK, P. \emph{Informa\c{c}\~oes sobre o aproveitamento das \'aguas de
   chuva}. 2015. {http://www.agua-de-chuva.com}.
-Dispon{\'\i}vel em: \url{{http://www.agua-de-chuva.co}.}
+Dispon{\'\i}vel em: \url{http://www.agua-de-chuva.com}.}
 
 \bibitem[THOMAS 2015]{TERRYTHOMAS}
 \abntrefinfo{THOMAS}{THOMAS}{2015}
-{THOMAS, T. \emph{hoosing rainater tanks for the sertão. University of
+{THOMAS, T. \emph{hoosing rainater tanks for the sert{\~a}o. University of
   Warwick, Coventry, UK. S/D}. 2015.
   {http://www.abcmac.org.br/files/simposio/3simp_terrytomas_choosingrainwater.pdf}.
 Dispon{\'\i}vel em:
-  \url{{http://www.abcmac.org.br/files/simposio/3simp\_terrytomas\_choosingrainwater.pd}.}
+  \url{http://www.abcmac.org.br/files/simposio/3simp\_terrytomas\_choosingrainwater.pdf}.}
 
-\bibitem[Unicamp 2015]{CopelParana}
+\bibitem[Unicamp 2015]{COPELPARANA}
 \abntrefinfo{Unicamp}{UNICAMP}{2015}
-{UNICAMP. \emph{MANUAL DE ILUMINA\C{C}\~AO P\’UBLICA}. 2015.
+{UNICAMP. \emph{Manual de ilumina\c{c}\~ao p\'ublica}. 2015.
   {http://www.iar.unicamp.br/lab/luz/ld/Arquitetural/Ilumina%E7%E3o%20P%FAblica/Manuais/manual_de_iluminacao_publica_copel_companhia_paranaense_de_energia.pdf}.
 Dispon{\'\i}vel em:
-  \url{{http://www.iar.unicamp.br/lab/luz/ld/Arquitetural/Ilumina\%E7\%E3o\%20P\%FAblica/Manuais/manual\_de\_iluminacao\_publica\_copel\_companhia\_paranaense\_de\_energia.pd}.}
+  \url{http://www.iar.unicamp.br/lab/luz/ld/Arquitetural/Ilumina\%E7\%E3o\%20P\%FAblica/Manuais/manual\_de\_iluminacao\_publica\_copel\_companhia\_paranaense\_de\_energia.pdf}.}
 
 \bibitem[VICKERS 2001]{VICKERS}
 \abntrefinfo{VICKERS}{VICKERS}{2001}
@@ -104,13 +119,13 @@ Dispon{\'\i}vel em:
 {VIRIDIAN. \emph{Energia Solar Fotovoltaica}. 2015.
   {http://www.viridian.com.br/tecnologia/energia+solar+fotovoltaica/4}.
 Dispon{\'\i}vel em:
-  \url{{http://www.viridian.com.br/tecnologia/energia+solar+fotovoltaica/}.}
+  \url{http://www.viridian.com.br/tecnologia/energia+solar+fotovoltaica/4}.}
 
 \bibitem[WATERFALL 2015]{WATERFALL}
 \abntrefinfo{WATERFALL}{WATERFALL}{2015}
 {WATERFALL, P. \emph{Havesting Rainwater for Landscape Use. University of
   Arizona Cooperative}. 2015.
   {http://ag.arizona.edu/pubs/water/az1052/havest.html}.
-Dispon{\'\i}vel em: \url{{http://ag.arizona.edu/pubs/water/az1052/havest.htm}.}
+Dispon{\'\i}vel em: \url{http://ag.arizona.edu/pubs/water/az1052/havest.html}.}
 
 \end{thebibliography}

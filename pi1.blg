@@ -1,10 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: pi1.aux
-White space in argument---line 188 of file pi1.aux
- : \citation{TERRY
- :                 THOMAS}
-I'm skipping whatever remains of this command
 The style file: abntex2-alf.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -26,45 +22,44 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex2.googlecode.com                           |
 +---------------------------------------------------------+
-You've used 18 entries,
+You've used 21 entries,
             6711 wiz_defined-function locations,
-            1288 strings with 11717 characters,
-and the built_in function-call counts, 27324 in all, are:
-= -- 3530
-> -- 256
-< -- 847
-+ -- 974
-- -- 85
-* -- 1504
-:= -- 3372
-add.period$ -- 73
-call.type$ -- 18
-change.case$ -- 106
-chr.to.int$ -- 21
-cite$ -- 17
-duplicate$ -- 3031
-empty$ -- 1018
-format.name$ -- 391
-if$ -- 5269
-int.to.chr$ -- 0
+            1311 strings with 12704 characters,
+and the built_in function-call counts, 30848 in all, are:
+= -- 3899
+> -- 318
+< -- 938
++ -- 1088
+- -- 105
+* -- 1728
+:= -- 3839
+add.period$ -- 85
+call.type$ -- 21
+change.case$ -- 128
+chr.to.int$ -- 23
+cite$ -- 20
+duplicate$ -- 3386
+empty$ -- 1197
+format.name$ -- 484
+if$ -- 5957
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 300
-newline$ -- 90
-num.names$ -- 85
-pop$ -- 407
+missing$ -- 353
+newline$ -- 104
+num.names$ -- 100
+pop$ -- 477
 preamble$ -- 1
-purify$ -- 54
+purify$ -- 64
 quote$ -- 0
-skip$ -- 3165
+skip$ -- 3532
 stack$ -- 1
-substring$ -- 1266
-swap$ -- 1051
-text.length$ -- 15
+substring$ -- 1370
+swap$ -- 1170
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 117
+while$ -- 139
 width$ -- 0
-write$ -- 260
-(There was 1 error message)
+write$ -- 303

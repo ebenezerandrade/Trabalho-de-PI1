@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.15)  2 JUN 2015 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.4.15)  3 JUN 2015 00:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1687,41 +1687,44 @@ l.8 \end{resumo}
 Underfull \vbox (badness 1325) has occurred while \output is active []
 
  [13]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 80.
+
 [14]
+Overfull \hbox (1.5877pt too wide) detected at line 99
+ \T1/lmss/bx/n/12 124
+ []
+
+
 Overfull \hbox (1.5877pt too wide) detected at line 100
- \T1/lmss/bx/n/12 120
+ \T1/lmss/bx/n/12 126
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 101
- \T1/lmss/bx/n/12 121
+Overfull \hbox (1.5877pt too wide) detected at line 102
+ \T1/lmss/bx/n/12 127
  []
 
 
-Overfull \hbox (1.5877pt too wide) detected at line 103
- \T1/lmss/bx/n/12 123
- []
-
-
-Overfull \hbox (1.5877pt too wide) detected at line 106
- \T1/lmss/bx/n/12 125
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 111.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 111.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 111.
-
-Overfull \hbox (1.5877pt too wide) detected at line 115
+Overfull \hbox (1.5877pt too wide) detected at line 105
  \T1/lmss/bx/n/12 129
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 110.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 110.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 110.
+
+Overfull \hbox (1.5877pt too wide) detected at line 114
+ \T1/lmss/bx/n/12 133
  []
 
 ) [15] [16
 
 ]) (./editaveis/introducao.tex
-<figuras/ParqueVivencialGama.jpg, id=535, 576.65437pt x 524.71031pt>
+<figuras/ParqueVivencialGama.jpg, id=534, 576.65437pt x 524.71031pt>
 File: figuras/ParqueVivencialGama.jpg Graphic file (type jpg)
 
 <use figuras/ParqueVivencialGama.jpg>
@@ -1731,21 +1734,21 @@ Package pdftex.def Info: figuras/ParqueVivencialGama.jpg used on input line 14.
  [17
 
  <./figuras/ParqueVivencialGama.jpg>]
-<figuras/VegatacaoTipica.jpg, id=547, 401.24907pt x 496.85625pt>
+<figuras/VegatacaoTipica.jpg, id=546, 401.24907pt x 496.85625pt>
 File: figuras/VegatacaoTipica.jpg Graphic file (type jpg)
 
 <use figuras/VegatacaoTipica.jpg>
 Package pdftex.def Info: figuras/VegatacaoTipica.jpg used on input line 24.
 (pdftex.def)             Requested size: 160.49678pt x 198.73897pt.
 
-<figuras/Nascentes.jpg, id=548, 529.22719pt x 484.05844pt>
+<figuras/Nascentes.jpg, id=547, 529.22719pt x 484.05844pt>
 File: figuras/Nascentes.jpg Graphic file (type jpg)
 
 <use figuras/Nascentes.jpg>
 Package pdftex.def Info: figuras/Nascentes.jpg used on input line 32.
 (pdftex.def)             Requested size: 211.68712pt x 193.61993pt.
  [18 <./figuras/VegatacaoTipica.jpg> <./figuras/Nascentes.jpg>] <figuras/FISHBO
-NE_complete.png, id=557, 834.11626pt x 681.54625pt>
+NE_complete.png, id=556, 834.11626pt x 681.54625pt>
 File: figuras/FISHBONE_complete.png Graphic file (type png)
 
 <use figuras/FISHBONE_complete.png>
@@ -1765,7 +1768,7 @@ File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 91.
  [21] [22]
-<figuras/EstruturaOrganizacional.png, id=576, 437.38406pt x 224.33812pt>
+<figuras/EstruturaOrganizacional.png, id=575, 437.38406pt x 224.33812pt>
 File: figuras/EstruturaOrganizacional.png Graphic file (type png)
 
 <use figuras/EstruturaOrganizacional.png>
@@ -1815,7 +1818,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--220
 
  []
 
-[25] <figuras/comunicacao.png, id=590, 722.7pt x 487.8225pt>
+[25] <figuras/comunicacao.png, id=589, 722.7pt x 487.8225pt>
 File: figuras/comunicacao.png Graphic file (type png)
 
 <use figuras/comunicacao.png>
@@ -1840,15 +1843,7 @@ ne 238.
 
 ) (./editaveis/desenvolvimento.tex [27] [28
 
-]
-Underfull \vbox (badness 2689) has occurred while \output is active []
-
- [29]
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
+] [29]
 Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
@@ -1868,23 +1863,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
  []
 
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[31]
-Underfull \hbox (badness 10000) in paragraph at lines 47--49
+[30] [31]
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
 [32]
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
@@ -1892,757 +1892,645 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 Underfull \vbox (badness 6961) has occurred while \output is active []
 
  [33]
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
-<figuras/CalculoPlanoInclinado.png, id=630, 506.6428pt x 277.035pt>
+<figuras/CalculoPlanoInclinado.png, id=632, 506.6428pt x 277.035pt>
 File: figuras/CalculoPlanoInclinado.png Graphic file (type png)
 
 <use figuras/CalculoPlanoInclinado.png>
-Package pdftex.def Info: figuras/CalculoPlanoInclinado.png used on input line 8
-6.
+Package pdftex.def Info: figuras/CalculoPlanoInclinado.png used on input line 9
+0.
 (pdftex.def)             Requested size: 354.64755pt x 193.92317pt.
- [34 <./figuras/CalculoPlanoInclinado.png>] [35] [36]
-<figuras/GradesUsadasNaCalha.png, id=651, 282.30469pt x 209.28188pt>
+ [34 <./figuras/CalculoPlanoInclinado.png>] [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+<figuras/GradesUsadasNaCalha.png, id=656, 282.30469pt x 209.28188pt>
 File: figuras/GradesUsadasNaCalha.png Graphic file (type png)
 
 <use figuras/GradesUsadasNaCalha.png>
-Package pdftex.def Info: figuras/GradesUsadasNaCalha.png used on input line 127
+Package pdftex.def Info: figuras/GradesUsadasNaCalha.png used on input line 144
 .
 (pdftex.def)             Requested size: 254.07185pt x 188.35193pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `WATERFALL' on page 37 undefined on input line 129.
-
-
-<figuras/SistemaDeCalhasNaAreaDoTelhado.png, id=652, 243.91125pt x 173.89969pt>
+ [37]
+<figuras/SistemaDeCalhasNaAreaDoTelhado.png, id=665, 243.91125pt x 173.89969pt>
 File: figuras/SistemaDeCalhasNaAreaDoTelhado.png Graphic file (type png)
 <use figuras/SistemaDeCalhasNaAreaDoTelhado.png>
 Package pdftex.def Info: figuras/SistemaDeCalhasNaAreaDoTelhado.png used on inp
-ut line 137.
+ut line 154.
 (pdftex.def)             Requested size: 292.69202pt x 208.67856pt.
 
-
-LaTeX Warning: Citation `WATERFALL' on page 37 undefined on input line 139.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[37 <./figuras/GradesUsadasNaCalha.png>]
-<figuras/TipoDeTanques.png, id=660, 429.85594pt x 204.765pt>
+<figuras/TipoDeTanques.png, id=668, 429.85594pt x 204.765pt>
 File: figuras/TipoDeTanques.png Graphic file (type png)
 
 <use figuras/TipoDeTanques.png>
-Package pdftex.def Info: figuras/TipoDeTanques.png used on input line 147.
-(pdftex.def)             Requested size: 515.82455pt x 245.71675pt.
+Package pdftex.def Info: figuras/TipoDeTanques.png used on input line 164.
+(pdftex.def)             Requested size: 429.85489pt x 204.76448pt.
 
-Overfull \hbox (60.82455pt too wide) in paragraph at lines 147--148
- [][] 
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Citation `TERRYTHOMAS' on page 38 undefined on input line 149.
-
-<figuras/ComparativoDosTanques.png, id=661, 417.81094pt x 127.22531pt>
+ [38 <./figuras/GradesUsadasNaCalha.png> <./figuras/SistemaDeCalhasNaAreaDoTelh
+ado.png>]
+<figuras/ComparativoDosTanques.png, id=676, 417.81094pt x 127.22531pt>
 File: figuras/ComparativoDosTanques.png Graphic file (type png)
 
 <use figuras/ComparativoDosTanques.png>
 Package pdftex.def Info: figuras/ComparativoDosTanques.png used on input line 1
-55.
+72.
 (pdftex.def)             Requested size: 501.37062pt x 152.66959pt.
 
-Overfull \hbox (46.37062pt too wide) in paragraph at lines 155--156
+Overfull \hbox (46.37062pt too wide) in paragraph at lines 172--173
  [][] 
  []
 
 
-LaTeX Warning: Citation `TERRY THOMAS' on page 38 undefined on input line 157.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package caption Warning: \label without proper \caption on input line 146.
+Package caption Warning: \label without proper \caption on input line 163.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `Tipo de Tanques' on page 38 undefined on input line 1
-60.
+LaTeX Warning: Reference `TipoDeTanques' on page 39 undefined on input line 177
+.
 
-[38 <./figuras/SistemaDeCalhasNaAreaDoTelhado.png> <./figuras/TipoDeTanques.png
->] <figuras/SistemaDeCaptacao.png, id=669, 379.4175pt x 198.7425pt>
+
+Package caption Warning: \label without proper \caption on input line 171.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `ComparativoDosTanques' on page 39 undefined on input 
+line 179.
+
+<figuras/SistemaDeCaptacao.png, id=683, 379.4175pt x 198.7425pt>
 File: figuras/SistemaDeCaptacao.png Graphic file (type png)
 
 <use figuras/SistemaDeCaptacao.png>
-Package pdftex.def Info: figuras/SistemaDeCaptacao.png used on input line 165.
+Package pdftex.def Info: figuras/SistemaDeCaptacao.png used on input line 184.
 (pdftex.def)             Requested size: 379.41656pt x 198.742pt.
-
-
-LaTeX Warning: Citation `WATERFALL' on page 39 undefined on input line 167.
-
-<figuras/ConsumoAguaRega.png, id=670, 430.60875pt x 90.3375pt>
+ [39 <./figuras/TipoDeTanques.png> <./figuras/ComparativoDosTanques.png>]
+<figuras/ConsumoAguaRega.png, id=693, 430.60875pt x 90.3375pt>
 File: figuras/ConsumoAguaRega.png Graphic file (type png)
 
 <use figuras/ConsumoAguaRega.png>
-Package pdftex.def Info: figuras/ConsumoAguaRega.png used on input line 175.
+Package pdftex.def Info: figuras/ConsumoAguaRega.png used on input line 194.
 (pdftex.def)             Requested size: 430.60768pt x 90.33727pt.
- [39 <./figuras/ComparativoDosTanques.png> <./figuras/SistemaDeCaptacao.png>]
-<figuras/SistemaDeFiltroUtilizado.png, id=681, 430.60875pt x 307.1475pt>
+
+<figuras/SistemaDeFiltroUtilizado.png, id=698, 430.60875pt x 307.1475pt>
 File: figuras/SistemaDeFiltroUtilizado.png Graphic file (type png)
 
 <use figuras/SistemaDeFiltroUtilizado.png>
 Package pdftex.def Info: figuras/SistemaDeFiltroUtilizado.png used on input lin
-e 185.
+e 204.
 (pdftex.def)             Requested size: 344.48746pt x 245.71832pt.
 
+Underfull \vbox (badness 1292) has occurred while \output is active []
 
-LaTeX Warning: Citation `TECHINIK' on page 40 undefined on input line 187.
-
-<figuras/TipoAguaPropriedadesExigidas.png, id=682, 546.04pt x 416.55624pt>
+ [40 <./figuras/SistemaDeCaptacao.png> <./figuras/ConsumoAguaRega.png>]
+<figuras/TipoAguaPropriedadesExigidas.png, id=706, 546.04pt x 416.55624pt>
 File: figuras/TipoAguaPropriedadesExigidas.png Graphic file (type png)
 
 <use figuras/TipoAguaPropriedadesExigidas.png>
 Package pdftex.def Info: figuras/TipoAguaPropriedadesExigidas.png used on input
- line 195.
+ line 214.
 (pdftex.def)             Requested size: 436.8326pt x 333.24544pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation `MINISTERIODASAUDE' on page 40 undefined on input line 
-199.
-
-[40 <./figuras/ConsumoAguaRega.png> <./figuras/SistemaDeFiltroUtilizado.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [41 <./figuras/TipoAguaPropriedadesExigidas.png>]
+ [41 <./figuras/SistemaDeFiltroUtilizado.png>]
+Underfull \vbox (badness 1460) has occurred while \output is active []
 
-LaTeX Warning: Citation `CatalogoCercamento' on page 42 undefined on input line
- 203.
-
-<figuras/EspecificacoesTecnicasCerca.png, id=694, 490.83376pt x 442.65375pt>
+ [42 <./figuras/TipoAguaPropriedadesExigidas.png>] [43]
+<figuras/EspecificacoesTecnicasCerca.png, id=728, 490.83376pt x 442.65375pt>
 File: figuras/EspecificacoesTecnicasCerca.png Graphic file (type png)
 
 <use figuras/EspecificacoesTecnicasCerca.png>
 Package pdftex.def Info: figuras/EspecificacoesTecnicasCerca.png used on input 
-line 208.
+line 239.
 (pdftex.def)             Requested size: 392.66753pt x 354.12346pt.
 
-
-LaTeX Warning: Citation `CatalogoCercamento' on page 42 undefined on input line
- 210.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[42] <figuras/GradilEscolhido.png, id=699, 194.7275pt x 114.4275pt>
+<figuras/GradilEscolhido.png, id=731, 194.7275pt x 114.4275pt>
 File: figuras/GradilEscolhido.png Graphic file (type png)
 
 <use figuras/GradilEscolhido.png>
-Package pdftex.def Info: figuras/GradilEscolhido.png used on input line 220.
+Package pdftex.def Info: figuras/GradilEscolhido.png used on input line 251.
 (pdftex.def)             Requested size: 175.25311pt x 102.9838pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Citation `CatalogoCercamento' on page 43 undefined on input line
- 222.
-
-[43 <./figuras/EspecificacoesTecnicasCerca.png> <./figuras/GradilEscolhido.png>
-] <figuras/MontagemPaineisPilares.png, id=706, 304.13625pt x 170.6375pt>
+ [44 <./figuras/EspecificacoesTecnicasCerca.png>]
+<figuras/MontagemPaineisPilares.png, id=739, 304.13625pt x 170.6375pt>
 File: figuras/MontagemPaineisPilares.png Graphic file (type png)
 
 <use figuras/MontagemPaineisPilares.png>
 Package pdftex.def Info: figuras/MontagemPaineisPilares.png used on input line 
-230.
+261.
 (pdftex.def)             Requested size: 243.30933pt x 136.51016pt.
 
-
-LaTeX Warning: Citation `CatalogoCercamento' on page 44 undefined on input line
- 232.
-
-<figuras/MontagemSequencialPaineis.png, id=707, 305.14pt x 165.61874pt>
+<figuras/MontagemSequencialPaineis.png, id=742, 305.14pt x 165.61874pt>
 File: figuras/MontagemSequencialPaineis.png Graphic file (type png)
 
 <use figuras/MontagemSequencialPaineis.png>
 Package pdftex.def Info: figuras/MontagemSequencialPaineis.png used on input li
-ne 240.
+ne 271.
 (pdftex.def)             Requested size: 244.11232pt x 132.49516pt.
-
-
-LaTeX Warning: Citation `CatalogoCercamento' on page 44 undefined on input line
- 242.
-
-<figuras/ConcretagemBasesPilares.png, id=708, 269.005pt x 134.5025pt>
+ [45 <./figuras/GradilEscolhido.png> <./figuras/MontagemPaineisPilares.png> <./
+figuras/MontagemSequencialPaineis.png>] <figuras/ConcretagemBasesPilares.png, i
+d=752, 269.005pt x 134.5025pt>
 File: figuras/ConcretagemBasesPilares.png Graphic file (type png)
 
 <use figuras/ConcretagemBasesPilares.png>
 Package pdftex.def Info: figuras/ConcretagemBasesPilares.png used on input line
- 252.
+ 283.
 (pdftex.def)             Requested size: 215.20428pt x 107.60213pt.
-
-
-LaTeX Warning: Citation `CatalogoCercamento' on page 44 undefined on input line
- 254.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[44 <./figuras/MontagemPaineisPilares.png> <./figuras/MontagemSequencialPaineis
-.png>] [45 <./figuras/ConcretagemBasesPilares.png>]
-<figuras/SistemaFotovoltaico.png, id=720, 430.60875pt x 210.7875pt>
+ [46 <./figuras/ConcretagemBasesPilares.png>] <figuras/SistemaFotovoltaico.png,
+ id=760, 430.60875pt x 210.7875pt>
 File: figuras/SistemaFotovoltaico.png Graphic file (type png)
 
 <use figuras/SistemaFotovoltaico.png>
-Package pdftex.def Info: figuras/SistemaFotovoltaico.png used on input line 301
+Package pdftex.def Info: figuras/SistemaFotovoltaico.png used on input line 330
 .
 (pdftex.def)             Requested size: 344.48746pt x 168.63022pt.
-
-
-LaTeX Warning: Citation `Viridian' on page 46 undefined on input line 303.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+ [47]
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
-[46] <figuras/SistemaGeradorSede.png, id=725, 434.62375pt x 201.75375pt>
+<figuras/SistemaGeradorSede.png, id=769, 434.62375pt x 201.75375pt>
 File: figuras/SistemaGeradorSede.png Graphic file (type png)
 
 <use figuras/SistemaGeradorSede.png>
-Package pdftex.def Info: figuras/SistemaGeradorSede.png used on input line 332.
+Package pdftex.def Info: figuras/SistemaGeradorSede.png used on input line 361.
 
 (pdftex.def)             Requested size: 347.69946pt x 161.40321pt.
-
-./editaveis/desenvolvimento.tex:334: You can't use `\long' or `\outer' or `\pro
-tected' with `\let'.
-\kernel@ifnextchar #1#2#3->\let 
-                                \reserved@d =#1\def \reserved@a {#2}\def \re...
-l.334 	\small{Fonte: \protected\cite
-                                    {PortalSolar}}
-? s
-OK, entering \scrollmode...
-
-LaTeX Warning: Citation `PortalSolar' on page 47 undefined on input line 334.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<figuras/SistemaGeradorBanheiro.png, id=726, 440.64626pt x 198.7425pt>
+ [48 <./figuras/SistemaFotovoltaico.png>]
+<figuras/SistemaGeradorBanheiro.png, id=778, 440.64626pt x 198.7425pt>
 File: figuras/SistemaGeradorBanheiro.png Graphic file (type png)
 
 <use figuras/SistemaGeradorBanheiro.png>
 Package pdftex.def Info: figuras/SistemaGeradorBanheiro.png used on input line 
-348.
+377.
 (pdftex.def)             Requested size: 352.51747pt x 158.9942pt.
-
-./editaveis/desenvolvimento.tex:350: You can't use `\long' or `\outer' or `\pro
-tected' with `\let'.
-\kernel@ifnextchar #1#2#3->\let 
-                                \reserved@d =#1\def \reserved@a {#2}\def \re...
-l.350 	\small{Fonte: \protected\cite
-                                    {PortalSolar}}
-I'll pretend you didn't say \long or \outer or \protected here.
-
-
-LaTeX Warning: Citation `PortalSolar' on page 47 undefined on input line 350.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 File: figuras/SistemaGeradorBanheiro.png Graphic file (type png)
+
 <use figuras/SistemaGeradorBanheiro.png>
 Package pdftex.def Info: figuras/SistemaGeradorBanheiro.png used on input line 
-364.
+393.
 (pdftex.def)             Requested size: 352.51747pt x 158.9942pt.
 
-./editaveis/desenvolvimento.tex:366: You can't use `\long' or `\outer' or `\pro
-tected' with `\let'.
-\kernel@ifnextchar #1#2#3->\let 
-                                \reserved@d =#1\def \reserved@a {#2}\def \re...
-l.366 	\small{Fonte: \protected\cite
-                                    {PortalSolar}}
-I'll pretend you didn't say \long or \outer or \protected here.
+Underfull \vbox (badness 1895) has occurred while \output is active []
 
+ [49 <./figuras/SistemaGeradorSede.png> <./figuras/SistemaGeradorBanheiro.png>]
 
-LaTeX Warning: Citation `PortalSolar' on page 47 undefined on input line 366.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[47 <./figuras/SistemaFotovoltaico.png>]
-<figuras/SistemaGeradorQuiosque.png, id=733, 431.6125pt x 197.73875pt>
+<figuras/SistemaGeradorQuiosque.png, id=790, 431.6125pt x 197.73875pt>
 File: figuras/SistemaGeradorQuiosque.png Graphic file (type png)
 
 <use figuras/SistemaGeradorQuiosque.png>
 Package pdftex.def Info: figuras/SistemaGeradorQuiosque.png used on input line 
-380.
+409.
 (pdftex.def)             Requested size: 345.29045pt x 158.19121pt.
-
-./editaveis/desenvolvimento.tex:382: You can't use `\long' or `\outer' or `\pro
-tected' with `\let'.
-\kernel@ifnextchar #1#2#3->\let 
-                                \reserved@d =#1\def \reserved@a {#2}\def \re...
-l.382 	\small{Fonte: \protected\cite
-                                    {PortalSolar}}
-I'll pretend you didn't say \long or \outer or \protected here.
-
-
-LaTeX Warning: Citation `PortalSolar' on page 48 undefined on input line 382.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[48 <./figuras/SistemaGeradorSede.png> <./figuras/SistemaGeradorBanheiro.png>]
-[49 <./figuras/SistemaGeradorQuiosque.png>]
-<figuras/ComparativoDuasFontesLuminosas.png, id=745, 469.755pt x 175.65625pt>
+ [50 <./figuras/SistemaGeradorQuiosque.png>] [51]
+<figuras/ComparativoDuasFontesLuminosas.png, id=802, 469.755pt x 175.65625pt>
 File: figuras/ComparativoDuasFontesLuminosas.png Graphic file (type png)
 
 <use figuras/ComparativoDuasFontesLuminosas.png>
 Package pdftex.def Info: figuras/ComparativoDuasFontesLuminosas.png used on inp
-ut line 413.
+ut line 442.
 (pdftex.def)             Requested size: 375.80452pt x 140.52518pt.
- [50 <./figuras/ComparativoDuasFontesLuminosas.png>]
 
-LaTeX Warning: Citation `CopelParana' on page 51 undefined on input line 420.
 
-<figuras/FormulaTHDI.png, id=751, 216.81pt x 57.21375pt>
+LaTeX Warning: Citation `COPELPARANA' on page 52 undefined on input line 444.
+
+
+LaTeX Warning: Citation `COPELPARANA' on page 52 undefined on input line 449.
+
+<figuras/FormulaTHDI.png, id=803, 216.81pt x 57.21375pt>
 File: figuras/FormulaTHDI.png Graphic file (type png)
 
 <use figuras/FormulaTHDI.png>
-Package pdftex.def Info: figuras/FormulaTHDI.png used on input line 426.
+Package pdftex.def Info: figuras/FormulaTHDI.png used on input line 455.
 (pdftex.def)             Requested size: 173.44823pt x 45.77104pt.
-
-<figuras/FormulaFP.png, id=752, 123.46124pt x 41.15375pt>
+ [52 <./figuras/ComparativoDuasFontesLuminosas.png> <./figuras/FormulaTHDI.png>
+]
+<figuras/FormulaFP.png, id=811, 123.46124pt x 41.15375pt>
 File: figuras/FormulaFP.png Graphic file (type png)
 
 <use figuras/FormulaFP.png>
-Package pdftex.def Info: figuras/FormulaFP.png used on input line 439.
+Package pdftex.def Info: figuras/FormulaFP.png used on input line 468.
 (pdftex.def)             Requested size: 98.7691pt x 32.92303pt.
- [51 <./figuras/FormulaTHDI.png> <./figuras/FormulaFP.png>] <figuras/FormulaX.p
-ng, id=759, 73.27374pt x 47.17625pt>
+
+<figuras/FormulaX.png, id=812, 73.27374pt x 47.17625pt>
 File: figuras/FormulaX.png Graphic file (type png)
 
 <use figuras/FormulaX.png>
-Package pdftex.def Info: figuras/FormulaX.png used on input line 449.
+Package pdftex.def Info: figuras/FormulaX.png used on input line 478.
 (pdftex.def)             Requested size: 58.61905pt x 37.74103pt.
 
-<figuras/FormulaFP2.png, id=760, 105.39375pt x 36.135pt>
+
+LaTeX Warning: Citation `COPELPARANA' on page 53 undefined on input line 483.
+
+[53 <./figuras/FormulaFP.png> <./figuras/FormulaX.png>]
+<figuras/FormulaFP2.png, id=821, 105.39375pt x 36.135pt>
 File: figuras/FormulaFP2.png Graphic file (type png)
 
 <use figuras/FormulaFP2.png>
-Package pdftex.def Info: figuras/FormulaFP2.png used on input line 459.
+Package pdftex.def Info: figuras/FormulaFP2.png used on input line 492.
 (pdftex.def)             Requested size: 84.3151pt x 28.90802pt.
+ [54 <./figuras/FormulaFP2.png>]
+
+LaTeX Warning: Citation `COPELPARANA' on page 55 undefined on input line 524.
 
 
-LaTeX Warning: Citation `CopelParana' on page 52 undefined on input line 465.
+LaTeX Warning: Command \' invalid in math mode on input line 531.
 
 
-LaTeX Warning: Citation `CemigMinas' on page 52 undefined on input line 469.
+LaTeX Warning: Command \' invalid in math mode on input line 531.
 
 
-LaTeX Warning: Citation `CemigMinas' on page 52 undefined on input line 469.
-
-
-LaTeX Warning: Citation `CemigMinas' on page 52 undefined on input line 469.
-
-[52 <./figuras/FormulaX.png> <./figuras/FormulaFP2.png>]
-
-LaTeX Warning: Citation `CemigMinas' on page 53 undefined on input line 473.
-
-[53]
-
-LaTeX Warning: Citation `CopelParana' on page 54 undefined on input line 487.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 494.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 494.
-
-
-Overfull \hbox (37.84406pt too wide) in paragraph at lines 492--504
+Overfull \hbox (37.84406pt too wide) in paragraph at lines 529--541
  [] 
  []
 
-[54] <figuras/PosicionamentoPostes.png, id=778, 386.44376pt x 488.82625pt>
+[55] <figuras/PosicionamentoPostes.png, id=842, 386.44376pt x 488.82625pt>
 File: figuras/PosicionamentoPostes.png Graphic file (type png)
 
 <use figuras/PosicionamentoPostes.png>
-Package pdftex.def Info: figuras/PosicionamentoPostes.png used on input line 51
-4.
+Package pdftex.def Info: figuras/PosicionamentoPostes.png used on input line 55
+1.
 (pdftex.def)             Requested size: 309.15543pt x 391.06152pt.
-
-<figuras/PTS305.png, id=779, 369.38pt x 164.615pt>
-File: figuras/PTS305.png Graphic file (type png)
- <use figuras/PTS305.png>
-Package pdftex.def Info: figuras/PTS305.png used on input line 523.
-(pdftex.def)             Requested size: 295.5044pt x 131.69217pt.
-
-
-LaTeX Warning: Citation `SUNLABPTS' on page 55 undefined on input line 525.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [55 <./figuras/PosicionamentoPostes.png>]
-<figuras/PTS405.png, id=785, 383.4325pt x 191.71625pt>
+ [56]
+<figuras/PTS305.png, id=847, 369.38pt x 164.615pt>
+File: figuras/PTS305.png Graphic file (type png)
+ <use figuras/PTS305.png>
+Package pdftex.def Info: figuras/PTS305.png used on input line 561.
+(pdftex.def)             Requested size: 295.5044pt x 131.69217pt.
+
+[57 <./figuras/PosicionamentoPostes.png> <./figuras/PTS305.png>]
+<figuras/PTS405.png, id=857, 383.4325pt x 191.71625pt>
 File: figuras/PTS405.png Graphic file (type png)
 
 <use figuras/PTS405.png>
-Package pdftex.def Info: figuras/PTS405.png used on input line 533.
+Package pdftex.def Info: figuras/PTS405.png used on input line 571.
 (pdftex.def)             Requested size: 306.74641pt x 153.3732pt.
 
-
-LaTeX Warning: Citation `SUNLABPTS' on page 56 undefined on input line 535.
-
-<figuras/TabelaModelosPoste.png, id=786, 646.415pt x 1692.3225pt>
+<figuras/TabelaModelosPoste.png, id=860, 646.415pt x 1692.3225pt>
 File: figuras/TabelaModelosPoste.png Graphic file (type png)
 
 <use figuras/TabelaModelosPoste.png>
-Package pdftex.def Info: figuras/TabelaModelosPoste.png used on input line 543.
+Package pdftex.def Info: figuras/TabelaModelosPoste.png used on input line 583.
 
-(pdftex.def)             Requested size: 129.2807pt x 338.4585pt.
- [56 <./figuras/PTS305.png> <./figuras/PTS405.png>] [57 <./figuras/TabelaModelo
-sPoste.png>] [58]
-<figuras/TendaModeloGalpao.png, id=802, 429.10312pt x 259.7203pt>
-File: figuras/TendaModeloGalpao.png Graphic file (type png)
-
-<use figuras/TendaModeloGalpao.png>
-Package pdftex.def Info: figuras/TendaModeloGalpao.png used on input line 583.
-(pdftex.def)             Requested size: 343.28296pt x 207.77652pt.
-
-<figuras/VisaoInternaTenda.png, id=803, 434.37282pt x 319.1925pt>
-File: figuras/VisaoInternaTenda.png Graphic file (type png)
-
-<use figuras/VisaoInternaTenda.png>
-Package pdftex.def Info: figuras/VisaoInternaTenda.png used on input line 591.
-(pdftex.def)             Requested size: 347.49872pt x 255.35434pt.
+(pdftex.def)             Requested size: 258.56142pt x 676.917pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [59 <./figuras/TendaModeloGalpao.png>]
-<figuras/DepositoDosEquipamentos.png, id=810, 436.63126pt x 170.88844pt>
+ [58 <./figuras/PTS405.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59 <./figuras/TabelaModelosPoste.png>] [60]
+<figuras/TendaModeloGalpao.png, id=876, 429.10312pt x 259.7203pt>
+File: figuras/TendaModeloGalpao.png Graphic file (type png)
+
+<use figuras/TendaModeloGalpao.png>
+Package pdftex.def Info: figuras/TendaModeloGalpao.png used on input line 623.
+(pdftex.def)             Requested size: 343.28296pt x 207.77652pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+<figuras/VisaoInternaTenda.png, id=881, 434.37282pt x 319.1925pt>
+File: figuras/VisaoInternaTenda.png Graphic file (type png)
+
+<use figuras/VisaoInternaTenda.png>
+Package pdftex.def Info: figuras/VisaoInternaTenda.png used on input line 631.
+(pdftex.def)             Requested size: 347.49872pt x 255.35434pt.
+
+<figuras/DepositoDosEquipamentos.png, id=882, 436.63126pt x 170.88844pt>
 File: figuras/DepositoDosEquipamentos.png Graphic file (type png)
 
 <use figuras/DepositoDosEquipamentos.png>
 Package pdftex.def Info: figuras/DepositoDosEquipamentos.png used on input line
- 599.
+ 639.
 (pdftex.def)             Requested size: 349.30548pt x 136.71092pt.
- [60 <./figuras/VisaoInternaTenda.png> <./figuras/DepositoDosEquipamentos.png>]
 
-<figuras/RegioesDasNascentes.png, id=818, 484.81125pt x 391.4625pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62 <./figuras/TendaModeloGalpao.png> <./figuras/VisaoInternaTenda.png>]
+<figuras/RegioesDasNascentes.png, id=890, 484.81125pt x 391.4625pt>
 File: figuras/RegioesDasNascentes.png Graphic file (type png)
 
 <use figuras/RegioesDasNascentes.png>
-Package pdftex.def Info: figuras/RegioesDasNascentes.png used on input line 617
+Package pdftex.def Info: figuras/RegioesDasNascentes.png used on input line 657
 .
 (pdftex.def)             Requested size: 387.84952pt x 313.17041pt.
 
-<figuras/LocalEspacoEvento.png, id=819, 453.94594pt x 396.7322pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63 <./figuras/DepositoDosEquipamentos.png>]
+<figuras/LocalEspacoEvento.png, id=897, 453.94594pt x 396.7322pt>
 File: figuras/LocalEspacoEvento.png Graphic file (type png)
 
 <use figuras/LocalEspacoEvento.png>
-Package pdftex.def Info: figuras/LocalEspacoEvento.png used on input line 627.
+Package pdftex.def Info: figuras/LocalEspacoEvento.png used on input line 667.
 (pdftex.def)             Requested size: 363.15724pt x 317.38617pt.
- [61 <./figuras/RegioesDasNascentes.png>]
-<figuras/TelaoFuncionamentoEnergiaBicicleta.png, id=825, 450.18187pt x 264.2371
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [64 <./figuras/RegioesDasNascentes.png>]
+<figuras/TelaoFuncionamentoEnergiaBicicleta.png, id=903, 450.18187pt x 264.2371
 8pt>
 File: figuras/TelaoFuncionamentoEnergiaBicicleta.png Graphic file (type png)
  <use figuras/TelaoFuncionamentoEnergiaBicicleta.png>
 Package pdftex.def Info: figuras/TelaoFuncionamentoEnergiaBicicleta.png used on
- input line 643.
+ input line 683.
 (pdftex.def)             Requested size: 360.14598pt x 211.39001pt.
- [62 <./figuras/LocalEspacoEvento.png>]
-<figuras/TelaoFuncionamentoEnergiaBicicleta2.png, id=831, 445.665pt x 274.77657
+ [65 <./figuras/LocalEspacoEvento.png>]
+<figuras/TelaoFuncionamentoEnergiaBicicleta2.png, id=910, 445.665pt x 274.77657
 pt>
 File: figuras/TelaoFuncionamentoEnergiaBicicleta2.png Graphic file (type png)
  <use figuras/TelaoFuncionamentoEnergiaBicicleta2.png>
 Package pdftex.def Info: figuras/TelaoFuncionamentoEnergiaBicicleta2.png used o
-n input line 651.
+n input line 691.
 (pdftex.def)             Requested size: 356.53249pt x 219.82153pt.
 
-<figuras/TelaoFuncionamentoEnergiaBicicleta3.png, id=832, 435.12563pt x 257.461
+<figuras/TelaoFuncionamentoEnergiaBicicleta3.png, id=911, 435.12563pt x 257.461
 87pt>
 File: figuras/TelaoFuncionamentoEnergiaBicicleta3.png Graphic file (type png)
  <use figuras/TelaoFuncionamentoEnergiaBicicleta3.png>
 Package pdftex.def Info: figuras/TelaoFuncionamentoEnergiaBicicleta3.png used o
-n input line 659.
+n input line 699.
 (pdftex.def)             Requested size: 348.10097pt x 205.96976pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [63 <./figuras/TelaoFuncionamentoEnergiaBicicleta.png> <./figuras/TelaoFuncion
+ [66 <./figuras/TelaoFuncionamentoEnergiaBicicleta.png> <./figuras/TelaoFuncion
 amentoEnergiaBicicleta2.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [64 <./figuras/TelaoFuncionamentoEnergiaBicicleta3.png>]
-<figuras/bicycle.png, id=844, 376.40625pt x 283.0575pt>
+ [67 <./figuras/TelaoFuncionamentoEnergiaBicicleta3.png>]
+<figuras/bicycle.png, id=923, 376.40625pt x 283.0575pt>
 File: figuras/bicycle.png Graphic file (type png)
 
 <use figuras/bicycle.png>
-Package pdftex.def Info: figuras/bicycle.png used on input line 679.
+Package pdftex.def Info: figuras/bicycle.png used on input line 719.
 (pdftex.def)             Requested size: 301.1254pt x 226.44629pt.
 
 
-./editaveis/desenvolvimento.tex:706: LaTeX Error: Command \textpm unavailable i
+./editaveis/desenvolvimento.tex:746: LaTeX Error: Command \textpm unavailable i
 n encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.706 ...ssui uma tensão de saída de 230 V AC ±
+l.746 ...ssui uma tensão de saída de 230 V AC ±
                                                    2\%. 2000 watts contínuo...
 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[65 <./figuras/bicycle.png>]
-<figuras/capacitor.png, id=851, 233.37187pt x 347.04657pt>
+? S
+OK, entering \scrollmode...
+[68 <./figuras/bicycle.png>]
+<figuras/capacitor.png, id=929, 233.37187pt x 347.04657pt>
 File: figuras/capacitor.png Graphic file (type png)
 
 <use figuras/capacitor.png>
-Package pdftex.def Info: figuras/capacitor.png used on input line 723.
+Package pdftex.def Info: figuras/capacitor.png used on input line 763.
 (pdftex.def)             Requested size: 186.69774pt x 277.63762pt.
 
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
- [66 <./figuras/capacitor.png>] <interacao/11.png, id=857, 376.40625pt x 250.68
+ [69 <./figuras/capacitor.png>] <interacao/11.png, id=935, 376.40625pt x 250.68
 657pt>
 File: interacao/11.png Graphic file (type png)
 
 <use interacao/11.png>
-Package pdftex.def Info: interacao/11.png used on input line 737.
+Package pdftex.def Info: interacao/11.png used on input line 777.
 (pdftex.def)             Requested size: 301.1254pt x 200.54951pt.
 
 
-./editaveis/desenvolvimento.tex:742: Package inputenc Error: Unicode char \u8:�
+./editaveis/desenvolvimento.tex:782: Package inputenc Error: Unicode char \u8:�
 �� not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.742 Os Distribuidores Bus Board são usados ​
-                                                 ​para conectar-se rapidam...
+l.782 ...idores \textit{Bus Board} são usados ​
+                                                  ​para conectar-se rapida...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./editaveis/desenvolvimento.tex:742: Package inputenc Error: Unicode char \u8:�
+./editaveis/desenvolvimento.tex:782: Package inputenc Error: Unicode char \u8:�
 �� not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.742 ...stribuidores Bus Board são usados ​​
+l.782 ...res \textit{Bus Board} são usados ​​
                                                   para conectar-se rapidamen...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[67 <./interacao/11.png>] <interacao/12.png, id=862, 153.57375pt x 180.675pt>
+[70 <./interacao/11.png>] <interacao/12.png, id=940, 153.57375pt x 180.675pt>
 File: interacao/12.png Graphic file (type png)
 
 <use interacao/12.png>
-Package pdftex.def Info: interacao/12.png used on input line 773.
+Package pdftex.def Info: interacao/12.png used on input line 813.
 (pdftex.def)             Requested size: 122.85915pt x 144.54018pt.
- <interacao/13.png, id=863, 162.6075pt x 133.24782pt>
+ <interacao/13.png, id=941, 162.6075pt x 133.24782pt>
 File: interacao/13.png Graphic file (type png)
 
 <use interacao/13.png>
-Package pdftex.def Info: interacao/13.png used on input line 780.
+Package pdftex.def Info: interacao/13.png used on input line 821.
 (pdftex.def)             Requested size: 130.08617pt x 106.59839pt.
- <interacao/14.png, id=864, 91.84312pt x 91.84312pt>
+ <interacao/14.png, id=942, 91.84312pt x 91.84312pt>
 File: interacao/14.png Graphic file (type png)
 
 <use interacao/14.png>
-Package pdftex.def Info: interacao/14.png used on input line 789.
+Package pdftex.def Info: interacao/14.png used on input line 831.
 (pdftex.def)             Requested size: 73.47458pt x 73.47458pt.
- <interacao/15.png, id=865, 99.37125pt x 99.37125pt>
+ <interacao/15.png, id=943, 99.37125pt x 99.37125pt>
 File: interacao/15.png Graphic file (type png)
 
 <use interacao/15.png>
-Package pdftex.def Info: interacao/15.png used on input line 796.
+Package pdftex.def Info: interacao/15.png used on input line 839.
 (pdftex.def)             Requested size: 79.4971pt x 79.4971pt.
-
-Underfull \vbox (badness 2521) has occurred while \output is active []
-
- [68 <./interacao/12.png> <./interacao/13.png> <./interacao/14.png>]
-<interacao/16.png, id=870, 204.765pt x 140.77594pt>
+ [71 <./interacao/12.png> <./interacao/13.png> <./interacao/14.png>] <interacao
+/16.png, id=949, 204.765pt x 140.77594pt>
 File: interacao/16.png Graphic file (type png)
- <use interacao/16.png>
-Package pdftex.def Info: interacao/16.png used on input line 814.
-(pdftex.def)             Requested size: 163.8122pt x 112.62088pt.
 
-[69 <./interacao/15.png> <./interacao/16.png>]
-<interacao/17.png, id=875, 127.97812pt x 225.09094pt>
+<use interacao/16.png>
+Package pdftex.def Info: interacao/16.png used on input line 858.
+(pdftex.def)             Requested size: 163.8122pt x 112.62088pt.
+ [72 <./interacao/15.png> <./interacao/16.png>]
+<interacao/17.png, id=954, 127.97812pt x 225.09094pt>
 File: interacao/17.png Graphic file (type png)
  <use interacao/17.png>
-Package pdftex.def Info: interacao/17.png used on input line 834.
+Package pdftex.def Info: interacao/17.png used on input line 878.
 (pdftex.def)             Requested size: 102.38261pt x 180.07298pt.
 
-<interacao/18.png, id=876, 127.97812pt x 226.59656pt>
+<interacao/18.png, id=955, 127.97812pt x 226.59656pt>
 File: interacao/18.png Graphic file (type png)
  <use interacao/18.png>
-Package pdftex.def Info: interacao/18.png used on input line 841.
+Package pdftex.def Info: interacao/18.png used on input line 885.
 (pdftex.def)             Requested size: 102.38261pt x 181.27748pt.
 
-<interacao/19.png, id=877, 127.97812pt x 226.59656pt>
+<interacao/19.png, id=956, 127.97812pt x 226.59656pt>
 File: interacao/19.png Graphic file (type png)
  <use interacao/19.png>
-Package pdftex.def Info: interacao/19.png used on input line 848.
+Package pdftex.def Info: interacao/19.png used on input line 892.
 (pdftex.def)             Requested size: 102.38261pt x 181.27748pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70 <./interacao/17.png> <./interacao/18.png>]
-<interacao/20.png, id=882, 127.97812pt x 226.59656pt>
+ [73 <./interacao/17.png> <./interacao/18.png>]
+<interacao/20.png, id=961, 127.97812pt x 226.59656pt>
 File: interacao/20.png Graphic file (type png)
  <use interacao/20.png>
-Package pdftex.def Info: interacao/20.png used on input line 855.
+Package pdftex.def Info: interacao/20.png used on input line 899.
 (pdftex.def)             Requested size: 102.38261pt x 181.27748pt.
 
-<interacao/21.png, id=883, 130.98938pt x 226.59656pt>
+<interacao/21.png, id=962, 130.98938pt x 226.59656pt>
 File: interacao/21.png Graphic file (type png)
  <use interacao/21.png>
-Package pdftex.def Info: interacao/21.png used on input line 862.
+Package pdftex.def Info: interacao/21.png used on input line 906.
 (pdftex.def)             Requested size: 104.79163pt x 181.27748pt.
 
-<interacao/22.png, id=884, 131.74219pt x 228.10219pt>
+<interacao/22.png, id=963, 131.74219pt x 228.10219pt>
 File: interacao/22.png Graphic file (type png)
  <use interacao/22.png>
-Package pdftex.def Info: interacao/22.png used on input line 868.
+Package pdftex.def Info: interacao/22.png used on input line 912.
 (pdftex.def)             Requested size: 105.39388pt x 182.48198pt.
 
-<interacao/23.png, id=885, 131.74219pt x 231.86626pt>
+<interacao/23.png, id=964, 131.74219pt x 231.86626pt>
 File: interacao/23.png Graphic file (type png)
  <use interacao/23.png>
-Package pdftex.def Info: interacao/23.png used on input line 874.
+Package pdftex.def Info: interacao/23.png used on input line 918.
 (pdftex.def)             Requested size: 105.39388pt x 185.49324pt.
 
-[71 <./interacao/19.png> <./interacao/20.png> <./interacao/21.png>] [72 <./inte
-racao/22.png> <./interacao/23.png>]
-<interacao/24.png, id=896, 429.85594pt x 257.46187pt>
+[74 <./interacao/19.png> <./interacao/20.png> <./interacao/21.png>]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 922.
+ [75 <./interacao/22.png> <./interacao/23.png>]
+<interacao/24.png, id=974, 429.85594pt x 257.46187pt>
 File: interacao/24.png Graphic file (type png)
  <use interacao/24.png>
-Package pdftex.def Info: interacao/24.png used on input line 887.
+Package pdftex.def Info: interacao/24.png used on input line 931.
 (pdftex.def)             Requested size: 343.88521pt x 205.96976pt.
 
-[73 <./interacao/24.png>] <interacao/25.png, id=901, 405.01312pt x 205.5178pt>
+[76 <./interacao/24.png>] <interacao/25.png, id=979, 405.01312pt x 205.5178pt>
 File: interacao/25.png Graphic file (type png)
 
 <use interacao/25.png>
-Package pdftex.def Info: interacao/25.png used on input line 907.
+Package pdftex.def Info: interacao/25.png used on input line 951.
 (pdftex.def)             Requested size: 324.01093pt x 164.41446pt.
- <interacao/26.png, id=902, 417.81094pt x 248.42813pt>
+ <interacao/26.png, id=980, 417.81094pt x 248.42813pt>
 File: interacao/26.png Graphic file (type png)
 
 <use interacao/26.png>
-Package pdftex.def Info: interacao/26.png used on input line 915.
+Package pdftex.def Info: interacao/26.png used on input line 959.
 (pdftex.def)             Requested size: 334.2492pt x 198.74277pt.
- <interacao/27.png, id=903, 354.57469pt x 188.20313pt>
+ <interacao/27.png, id=981, 354.57469pt x 188.20313pt>
 File: interacao/27.png Graphic file (type png)
 
 <use interacao/27.png>
-Package pdftex.def Info: interacao/27.png used on input line 923.
+Package pdftex.def Info: interacao/27.png used on input line 967.
 (pdftex.def)             Requested size: 283.66013pt x 150.56268pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [74 <./interacao/25.png> <./interacao/26.png>]
-<postes/1.png, id=908, 207.02344pt x 274.02374pt>
+ [77 <./interacao/25.png> <./interacao/26.png>]
+<postes/1.png, id=987, 207.02344pt x 274.02374pt>
 File: postes/1.png Graphic file (type png)
  <use postes/1.png>
-Package pdftex.def Info: postes/1.png used on input line 943.
+Package pdftex.def Info: postes/1.png used on input line 987.
 (pdftex.def)             Requested size: 165.61896pt x 219.21928pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [75 <./interacao/27.png>] <postes/2.png, id=913, 157.33781pt x 234.8775pt>
+ [78 <./interacao/27.png>] <postes/2.png, id=992, 157.33781pt x 234.8775pt>
 File: postes/2.png Graphic file (type png)
 
 <use postes/2.png>
-Package pdftex.def Info: postes/2.png used on input line 958.
+Package pdftex.def Info: postes/2.png used on input line 1002.
 (pdftex.def)             Requested size: 125.8704pt x 187.90225pt.
- [76 <./postes/1.png> <./postes/2.png>]
-<postes/3.png, id=918, 158.09062pt x 225.84375pt>
+ [79 <./postes/1.png> <./postes/2.png>]
+<postes/3.png, id=999, 158.09062pt x 225.84375pt>
 File: postes/3.png Graphic file (type png)
  <use postes/3.png>
-Package pdftex.def Info: postes/3.png used on input line 997.
+Package pdftex.def Info: postes/3.png used on input line 1041.
 (pdftex.def)             Requested size: 126.47266pt x 180.67523pt.
- [77]
-<postes/4.png, id=925, 177.66376pt x 225.84375pt>
+ [80]
+<postes/4.png, id=1006, 177.66376pt x 225.84375pt>
 File: postes/4.png Graphic file (type png)
  <use postes/4.png>
-Package pdftex.def Info: postes/4.png used on input line 1005.
+Package pdftex.def Info: postes/4.png used on input line 1049.
 (pdftex.def)             Requested size: 142.13118pt x 180.67523pt.
 
-<postes/tabelaLZP.png, id=926, 382.42876pt x 95.6072pt>
+<postes/tabelaLZP.png, id=1007, 382.42876pt x 95.6072pt>
 File: postes/tabelaLZP.png Graphic file (type png)
 
 <use postes/tabelaLZP.png>
-Package pdftex.def Info: postes/tabelaLZP.png used on input line 1018.
+Package pdftex.def Info: postes/tabelaLZP.png used on input line 1062.
 (pdftex.def)             Requested size: 305.9434pt x 76.48584pt.
 
 Underfull \vbox (badness 3128) has occurred while \output is active []
 
- [78 <./postes/3.png> <./postes/4.png>]
+ [81 <./postes/3.png> <./postes/4.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 1028.
- [79 <./postes/tabelaLZP.png>]
-<postes/tabelaLY.png, id=938, 382.42876pt x 127.97812pt>
+(Font)              <10.95> on input line 1072.
+ [82 <./postes/tabelaLZP.png>]
+<postes/tabelaLY.png, id=1022, 382.42876pt x 127.97812pt>
 File: postes/tabelaLY.png Graphic file (type png)
 
 <use postes/tabelaLY.png>
-Package pdftex.def Info: postes/tabelaLY.png used on input line 1070.
+Package pdftex.def Info: postes/tabelaLY.png used on input line 1114.
 (pdftex.def)             Requested size: 305.9434pt x 102.38261pt.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[80 <./postes/tabelaLY.png>] [81]
-Overfull \hbox (1.97426pt too wide) in paragraph at lines 1150--1151
+ [83 <./postes/tabelaLY.png>] [84] [85]
+Overfull \hbox (1.97426pt too wide) in paragraph at lines 1194--1195
 []\T1/lmr/m/n/12 Manuten��o Cor-re-tiva: De-pende da es-co-lha da tec-no-lo-gia
  do acu-mu-la-dor.Trocas
  []
 
-[82] [83] <postes/5.png, id=957, 273.27094pt x 201.75375pt>
+[86] <postes/5.png, id=1041, 273.27094pt x 201.75375pt>
 File: postes/5.png Graphic file (type png)
  <use postes/5.png>
-Package pdftex.def Info: postes/5.png used on input line 1185.
+Package pdftex.def Info: postes/5.png used on input line 1229.
 (pdftex.def)             Requested size: 218.61702pt x 161.40321pt.
 
-[84 <./postes/5.png>] <postes/6.png, id=962, 319.94531pt x 464.4853pt>
+[87 <./postes/5.png>] <postes/6.png, id=1046, 319.94531pt x 464.4853pt>
 File: postes/6.png Graphic file (type png)
 
 <use postes/6.png>
-Package pdftex.def Info: postes/6.png used on input line 1218.
+Package pdftex.def Info: postes/6.png used on input line 1262.
 (pdftex.def)             Requested size: 255.95659pt x 371.58875pt.
- [85 <./postes/6.png>]
+ [88]
 
-./editaveis/desenvolvimento.tex:1230: LaTeX Error: Command \textdegree unavaila
+./editaveis/desenvolvimento.tex:1274: LaTeX Error: Command \textdegree unavaila
 ble in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1230 ...ões, restricões essas devido a Lei N°
+l.1274 ...ões, restricões essas devido a Lei N°
                                                    12.651/12 do Código Flor...
 
 Your command was ignored.
@@ -2650,53 +2538,54 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./editaveis/desenvolvimento.tex:1232: LaTeX Error: Command \textdegree unavaila
+./editaveis/desenvolvimento.tex:1276: LaTeX Error: Command \textdegree unavaila
 ble in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1232 ... luminária se expande em cerca de 120°
+l.1276 ... luminária se expande em cerca de 120°
                                                   , e a altura do poste para...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[89 <./postes/6.png>]
 
-./editaveis/desenvolvimento.tex:1237: Package inputenc Error: Unicode char \u8:
+./editaveis/desenvolvimento.tex:1281: Package inputenc Error: Unicode char \u8:
 Ǿ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1237 ...instalação em braços desde 33,7 mm Ǿ
+l.1281 ...instalação em braços desde 33,7 mm Ǿ
                                                    até 61 mm Ǿ.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./editaveis/desenvolvimento.tex:1237: Package inputenc Error: Unicode char \u8:
+./editaveis/desenvolvimento.tex:1281: Package inputenc Error: Unicode char \u8:
 Ǿ not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1237 ...m braços desde 33,7 mm Ǿ até 61 mm Ǿ
+l.1281 ...m braços desde 33,7 mm Ǿ até 61 mm Ǿ
                                                   .
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./editaveis/desenvolvimento.tex:1243: Argument of \caption@ydblarg has an extra
+./editaveis/desenvolvimento.tex:1287: Argument of \caption@ydblarg has an extra
  }.
 <inserted text> 
                 \par 
-l.1243 ...luminária ILC. \\ Fonte: sunlab.com.br}
+l.1287 ...luminária ILC. \\ Fonte: sunlab.com.br}
                                                   
 I've run across a `}' that doesn't seem to match anything.
 For example, `\def\a#1{...}' and `\a}' would produce
@@ -2708,89 +2597,131 @@ your `}' was spurious, just type `2' and it will go away.
 Runaway argument?
 {\@caption \@captype }{\def \reserved@a *{\nobreak \@xcentercr }\reserved@a \ET
 C.
-./editaveis/desenvolvimento.tex:1243: Paragraph ended before \caption@ydblarg w
+./editaveis/desenvolvimento.tex:1287: Paragraph ended before \caption@ydblarg w
 as complete.
 <to be read again> 
                    \par 
-l.1243 ...luminária ILC. \\ Fonte: sunlab.com.br}
+l.1287 ...luminária ILC. \\ Fonte: sunlab.com.br}
                                                   
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<postes/9.png, id=973, 182.93344pt x 137.01187pt>
+<postes/9.png, id=1062, 182.93344pt x 137.01187pt>
 File: postes/9.png Graphic file (type png)
  <use postes/9.png>
-Package pdftex.def Info: postes/9.png used on input line 1258.
+Package pdftex.def Info: postes/9.png used on input line 1302.
 (pdftex.def)             Requested size: 146.34694pt x 109.60963pt.
- [86]
-Overfull \hbox (0.63062pt too wide) in paragraph at lines 1269--1270
-[]\T1/lmr/m/n/12 � ar-ti-cu-lado, me-t�-lico, com en-caixe para pos-tes ci-l�n-
-dri-cos de di-�-me-tros desde 2,5^^Qat�
- []
-
-<postes/10.png, id=979, 324.46219pt x 343.2825pt>
-File: postes/10.png Graphic file (type png)
- <use postes/10.png>
-Package pdftex.def Info: postes/10.png used on input line 1274.
-(pdftex.def)             Requested size: 259.57008pt x 274.62636pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [87 <./postes/9.png>] <postes/11.png, id=986, 315.42844pt x 343.2825pt>
-File: postes/11.png Graphic file (type png)
+ [90]
+<postes/10.png, id=1068, 324.46219pt x 343.2825pt>
+File: postes/10.png Graphic file (type png)
+ <use postes/10.png>
+Package pdftex.def Info: postes/10.png used on input line 1318.
+(pdftex.def)             Requested size: 259.57008pt x 274.62636pt.
 
-<use postes/11.png>
-Package pdftex.def Info: postes/11.png used on input line 1282.
+<postes/11.png, id=1069, 315.42844pt x 343.2825pt>
+File: postes/11.png Graphic file (type png)
+ <use postes/11.png>
+Package pdftex.def Info: postes/11.png used on input line 1326.
 (pdftex.def)             Requested size: 252.34308pt x 274.62636pt.
- [88 <./postes/10.png> <./postes/11.png>]
-<postes/12.png, id=991, 427.5975pt x 343.2825pt>
+ [91 <./postes/9.png> <./postes/10.png>]
+<postes/12.png, id=1076, 427.5975pt x 343.2825pt>
 File: postes/12.png Graphic file (type png)
  <use postes/12.png>
-Package pdftex.def Info: postes/12.png used on input line 1296.
+Package pdftex.def Info: postes/12.png used on input line 1340.
 (pdftex.def)             Requested size: 342.07846pt x 274.62636pt.
- [89 <./postes/12.png>]
 
-./editaveis/desenvolvimento.tex:1321: LaTeX Error: Command \textdiv unavailable
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [92 <./postes/11.png>]
+
+./editaveis/desenvolvimento.tex:1365: LaTeX Error: Command \textdiv unavailable
  in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1321  300 A/dia ÷
+l.1365  300 A/dia ÷
                      100 Ah = 3 Unidades
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[93 <./postes/12.png>]
 
-./editaveis/desenvolvimento.tex:1335: LaTeX Error: Command \textdegree unavaila
+./editaveis/desenvolvimento.tex:1379: LaTeX Error: Command \textdegree unavaila
 ble in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1335 ...nclinadas e podem ser rotadas até 180°
+l.1379 ...nclinadas e podem ser rotadas até 180°
                                                   .
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<postes/13.png, id=1000, 301.8778pt x 190.46156pt>
+<postes/13.png, id=1088, 301.8778pt x 190.46156pt>
 File: postes/13.png Graphic file (type png)
  <use postes/13.png>
-Package pdftex.def Info: postes/13.png used on input line 1349.
+Package pdftex.def Info: postes/13.png used on input line 1393.
 (pdftex.def)             Requested size: 241.50256pt x 152.36943pt.
- [90]
-./editaveis/desenvolvimento.tex:1384: Undefined control sequence.
+
+
+./editaveis/desenvolvimento.tex:1398: Package inputenc Error: Unicode char \u8:
+�\check@icr\expandafter not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1398 ...ilizada é a bateria \textit{“YELLOW�}
+                                                  ��, cujo código é 93528,...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./editaveis/desenvolvimento.tex:1398: Package inputenc Error: Keyboard characte
+r used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1398 ...lizada é a bateria \textit{“YELLOW�}�
+                                                  �, cujo código é 93528, ...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+./editaveis/desenvolvimento.tex:1398: Package inputenc Error: Keyboard characte
+r used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1398 ...izada é a bateria \textit{“YELLOW�}��
+                                                  , cujo código é 93528, e...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[94 <./postes/13.png>]
+./editaveis/desenvolvimento.tex:1428: Undefined control sequence.
 \@sharp ->\multirow 
                     {}{}{\textit {Temperatura de trabalho}}
-l.1384 ...w{}{}{\textit{Temperatura de trabalho}}}
+l.1428 ...w{}{}{\textit{Temperatura de trabalho}}}
                                                    & \multicolumn{4}{l|}{Mí...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2799,617 +2730,597 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Overfull \hbox (36.76563pt too wide) in paragraph at lines 1401--1408
+ [95]
+[96]
+Overfull \hbox (36.76563pt too wide) in paragraph at lines 1445--1452
  [] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[91 <./postes/13.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 6125) has occurred while \output is active []
-
- [92]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [93]
-<monitoramento/1.png, id=1019, 150.5625pt x 112.92188pt>
+[97] <monitoramento/1.png, id=1107, 150.5625pt x 112.92188pt>
 File: monitoramento/1.png Graphic file (type png)
 
 <use monitoramento/1.png>
-Package pdftex.def Info: monitoramento/1.png used on input line 1448.
+Package pdftex.def Info: monitoramento/1.png used on input line 1492.
 (pdftex.def)             Requested size: 120.45015pt x 90.3376pt.
-
-<monitoramento/2.png, id=1020, 100.87688pt x 210.7875pt>
+ [98 <./monitoramento/1.png>]
+<monitoramento/2.png, id=1112, 100.87688pt x 210.7875pt>
 File: monitoramento/2.png Graphic file (type png)
 
 <use monitoramento/2.png>
-Package pdftex.def Info: monitoramento/2.png used on input line 1458.
+Package pdftex.def Info: monitoramento/2.png used on input line 1502.
 (pdftex.def)             Requested size: 80.7016pt x 168.63022pt.
 
-<monitoramento/3.png, id=1021, 88.07906pt x 55.70813pt>
+<monitoramento/3.png, id=1113, 88.07906pt x 55.70813pt>
 File: monitoramento/3.png Graphic file (type png)
 
 <use monitoramento/3.png>
-Package pdftex.def Info: monitoramento/3.png used on input line 1467.
+Package pdftex.def Info: monitoramento/3.png used on input line 1511.
 (pdftex.def)             Requested size: 70.46332pt x 44.56654pt.
- [94 <./monitoramento/1.png> <./monitoramento/2.png>]
-<monitoramento/4.png, id=1026, 88.07906pt x 82.80937pt>
+
+<monitoramento/4.png, id=1114, 88.07906pt x 82.80937pt>
 File: monitoramento/4.png Graphic file (type png)
 
 <use monitoramento/4.png>
-Package pdftex.def Info: monitoramento/4.png used on input line 1476.
+Package pdftex.def Info: monitoramento/4.png used on input line 1520.
 (pdftex.def)             Requested size: 70.46332pt x 66.24757pt.
 
-<monitoramento/5.png, id=1027, 115.93312pt x 151.3153pt>
+<monitoramento/5.png, id=1115, 115.93312pt x 151.3153pt>
 File: monitoramento/5.png Graphic file (type png)
 
 <use monitoramento/5.png>
-Package pdftex.def Info: monitoramento/5.png used on input line 1485.
+Package pdftex.def Info: monitoramento/5.png used on input line 1529.
 (pdftex.def)             Requested size: 92.74661pt x 121.0524pt.
-
-<monitoramento/6.png, id=1028, 290.58563pt x 317.68687pt>
+ [99 <./monitoramento/2.png> <./monitoramento/3.png> <./monitoramento/4.png>]
+<monitoramento/6.png, id=1120, 290.58563pt x 317.68687pt>
 File: monitoramento/6.png Graphic file (type png)
 
 <use monitoramento/6.png>
-Package pdftex.def Info: monitoramento/6.png used on input line 1497.
+Package pdftex.def Info: monitoramento/6.png used on input line 1541.
 (pdftex.def)             Requested size: 232.46881pt x 254.14983pt.
-
-Underfull \vbox (badness 2846) has occurred while \output is active []
-
- [95 <./monitoramento/3.png> <./monitoramento/4.png> <./monitoramento/5.png>] [
-96 <./monitoramento/6.png>] <monitoramento/7.png, id=1038, 170.13562pt x 261.22
-594pt>
+ [100 <./monitoramento/5.png> <./monitoramento/6.png>] <monitoramento/7.png, id
+=1126, 170.13562pt x 261.22594pt>
 File: monitoramento/7.png Graphic file (type png)
 
 <use monitoramento/7.png>
-Package pdftex.def Info: monitoramento/7.png used on input line 1515.
+Package pdftex.def Info: monitoramento/7.png used on input line 1559.
 (pdftex.def)             Requested size: 136.10867pt x 208.98102pt.
-
-<monitoramento/8.png, id=1039, 216.81pt x 272.51813pt>
+ [101 <./monitoramento/7.png>]
+<monitoramento/8.png, id=1132, 216.81pt x 272.51813pt>
 File: monitoramento/8.png Graphic file (type png)
 
 <use monitoramento/8.png>
-Package pdftex.def Info: monitoramento/8.png used on input line 1525.
+Package pdftex.def Info: monitoramento/8.png used on input line 1569.
 (pdftex.def)             Requested size: 173.44823pt x 218.01479pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [97 <./monitoramento/7.png>] <monitoramento/9.png, id=1044, 306.39468pt x 293.
-59688pt>
+<monitoramento/9.png, id=1133, 306.39468pt x 293.59688pt>
 File: monitoramento/9.png Graphic file (type png)
 
 <use monitoramento/9.png>
-Package pdftex.def Info: monitoramento/9.png used on input line 1535.
+Package pdftex.def Info: monitoramento/9.png used on input line 1579.
 (pdftex.def)             Requested size: 245.11607pt x 234.8778pt.
 
-<monitoramento/10.png, id=1045, 307.1475pt x 289.08pt>
+<monitoramento/10.png, id=1134, 307.1475pt x 289.08pt>
 File: monitoramento/10.png Graphic file (type png)
 
 <use monitoramento/10.png>
-Package pdftex.def Info: monitoramento/10.png used on input line 1543.
+Package pdftex.def Info: monitoramento/10.png used on input line 1587.
 (pdftex.def)             Requested size: 245.71832pt x 231.2643pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2269) has occurred while \output is active []
 
- [98 <./monitoramento/8.png> <./monitoramento/9.png>]
-<monitoramento/11.png, id=1050, 304.88907pt x 88.07906pt>
+ [102 <./monitoramento/8.png> <./monitoramento/9.png>]
+<monitoramento/11.png, id=1139, 304.88907pt x 88.07906pt>
 File: monitoramento/11.png Graphic file (type png)
 
 <use monitoramento/11.png>
-Package pdftex.def Info: monitoramento/11.png used on input line 1551.
+Package pdftex.def Info: monitoramento/11.png used on input line 1595.
 (pdftex.def)             Requested size: 243.91158pt x 70.46332pt.
 
-<monitoramento/12.png, id=1051, 305.64188pt x 308.65312pt>
+<monitoramento/12.png, id=1140, 305.64188pt x 308.65312pt>
 File: monitoramento/12.png Graphic file (type png)
 
 <use monitoramento/12.png>
-Package pdftex.def Info: monitoramento/12.png used on input line 1559.
+Package pdftex.def Info: monitoramento/12.png used on input line 1603.
 (pdftex.def)             Requested size: 244.51381pt x 246.92282pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [99 <./monitoramento/10.png> <./monitoramento/11.png>]
-<monitoramento/13.png, id=1056, 314.67563pt x 350.05782pt>
+ [103 <./monitoramento/10.png> <./monitoramento/11.png>]
+<monitoramento/13.png, id=1145, 314.67563pt x 350.05782pt>
 File: monitoramento/13.png Graphic file (type png)
 
 <use monitoramento/13.png>
-Package pdftex.def Info: monitoramento/13.png used on input line 1567.
+Package pdftex.def Info: monitoramento/13.png used on input line 1611.
 (pdftex.def)             Requested size: 251.74083pt x 280.04662pt.
- [100 <./monitoramento/12.png> <./monitoramento/13.png>] <monitoramento/14.png,
- id=1061, 402.75468pt x 106.89937pt>
+ [104 <./monitoramento/12.png> <./monitoramento/13.png>] <monitoramento/14.png,
+ id=1150, 402.75468pt x 106.89937pt>
 File: monitoramento/14.png Graphic file (type png)
 
 <use monitoramento/14.png>
-Package pdftex.def Info: monitoramento/14.png used on input line 1586.
+Package pdftex.def Info: monitoramento/14.png used on input line 1630.
 (pdftex.def)             Requested size: 322.20418pt x 85.51959pt.
 
-<monitoramento/15.png, id=1062, 322.95656pt x 313.17pt>
+<monitoramento/15.png, id=1151, 322.95656pt x 313.17pt>
 File: monitoramento/15.png Graphic file (type png)
 
 <use monitoramento/15.png>
-Package pdftex.def Info: monitoramento/15.png used on input line 1599.
+Package pdftex.def Info: monitoramento/15.png used on input line 1643.
 (pdftex.def)             Requested size: 258.36559pt x 250.53633pt.
 
-<monitoramento/16.png, id=1063, 315.42844pt x 325.215pt>
+<monitoramento/16.png, id=1152, 315.42844pt x 325.215pt>
 File: monitoramento/16.png Graphic file (type png)
 
 <use monitoramento/16.png>
-Package pdftex.def Info: monitoramento/16.png used on input line 1607.
+Package pdftex.def Info: monitoramento/16.png used on input line 1651.
 (pdftex.def)             Requested size: 252.34308pt x 260.17235pt.
- [101 <./monitoramento/14.png> <./monitoramento/15.png>] <monitoramento/17.png,
- id=1069, 313.9228pt x 44.41594pt>
+ [105 <./monitoramento/14.png> <./monitoramento/15.png>] <monitoramento/17.png,
+ id=1157, 313.9228pt x 44.41594pt>
 File: monitoramento/17.png Graphic file (type png)
 
 <use monitoramento/17.png>
-Package pdftex.def Info: monitoramento/17.png used on input line 1615.
+Package pdftex.def Info: monitoramento/17.png used on input line 1659.
 (pdftex.def)             Requested size: 251.13857pt x 35.53278pt.
 
-<monitoramento/18.png, id=1070, 313.9228pt x 316.18124pt>
+<monitoramento/18.png, id=1158, 313.9228pt x 316.18124pt>
 File: monitoramento/18.png Graphic file (type png)
 
 <use monitoramento/18.png>
-Package pdftex.def Info: monitoramento/18.png used on input line 1623.
+Package pdftex.def Info: monitoramento/18.png used on input line 1667.
 (pdftex.def)             Requested size: 251.13857pt x 252.94533pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [102 <./monitoramento/16.png> <./monitoramento/17.png>]
-<monitoramento/19.png, id=1075, 315.42844pt x 319.94531pt>
+ [106 <./monitoramento/16.png> <./monitoramento/17.png>]
+<monitoramento/19.png, id=1163, 315.42844pt x 319.94531pt>
 File: monitoramento/19.png Graphic file (type png)
 
 <use monitoramento/19.png>
-Package pdftex.def Info: monitoramento/19.png used on input line 1631.
+Package pdftex.def Info: monitoramento/19.png used on input line 1675.
 (pdftex.def)             Requested size: 252.34308pt x 255.95659pt.
 
-<monitoramento/20.png, id=1076, 315.42844pt x 23.33719pt>
+<monitoramento/20.png, id=1164, 315.42844pt x 23.33719pt>
 File: monitoramento/20.png Graphic file (type png)
 
 <use monitoramento/20.png>
-Package pdftex.def Info: monitoramento/20.png used on input line 1640.
+Package pdftex.def Info: monitoramento/20.png used on input line 1684.
 (pdftex.def)             Requested size: 252.34308pt x 18.66975pt.
- [103 <./monitoramento/18.png> <./monitoramento/19.png> <./monitoramento/20.png
->] [104]
-<monitoramento/21.png, id=1085, 525.46312pt x 318.43968pt>
+ [107 <./monitoramento/18.png> <./monitoramento/19.png> <./monitoramento/20.png
+>] [108]
+<monitoramento/21.png, id=1174, 525.46312pt x 318.43968pt>
 File: monitoramento/21.png Graphic file (type png)
 
 <use monitoramento/21.png>
-Package pdftex.def Info: monitoramento/21.png used on input line 1676.
+Package pdftex.def Info: monitoramento/21.png used on input line 1720.
 (pdftex.def)             Requested size: 420.37106pt x 254.75209pt.
 
-<monitoramento/22.png, id=1086, 525.46312pt x 201.00093pt>
+<monitoramento/22.png, id=1175, 525.46312pt x 201.00093pt>
 File: monitoramento/22.png Graphic file (type png)
 
 <use monitoramento/22.png>
-Package pdftex.def Info: monitoramento/22.png used on input line 1684.
+Package pdftex.def Info: monitoramento/22.png used on input line 1728.
 (pdftex.def)             Requested size: 420.37106pt x 160.80095pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105 <./monitoramento/21.png>]
-<monitoramento/23.png, id=1091, 243.15843pt x 200.24812pt>
+ [109 <./monitoramento/21.png>]
+<monitoramento/23.png, id=1180, 243.15843pt x 200.24812pt>
 File: monitoramento/23.png Graphic file (type png)
 
 <use monitoramento/23.png>
-Package pdftex.def Info: monitoramento/23.png used on input line 1704.
+Package pdftex.def Info: monitoramento/23.png used on input line 1748.
 (pdftex.def)             Requested size: 194.52701pt x 160.19872pt.
- [106 <./monitoramento/22.png> <./monitoramento/23.png>] <monitoramento/25.png,
- id=1096, 437.38406pt x 130.98938pt>
+ [110 <./monitoramento/22.png> <./monitoramento/23.png>] <monitoramento/25.png,
+ id=1185, 437.38406pt x 130.98938pt>
 File: monitoramento/25.png Graphic file (type png)
 
 <use monitoramento/25.png>
-Package pdftex.def Info: monitoramento/25.png used on input line 1717.
+Package pdftex.def Info: monitoramento/25.png used on input line 1761.
 (pdftex.def)             Requested size: 349.90771pt x 104.79163pt.
 
-<monitoramento/26.png, id=1097, 175.40532pt x 357.58594pt>
+<monitoramento/26.png, id=1186, 175.40532pt x 357.58594pt>
 File: monitoramento/26.png Graphic file (type png)
 
 <use monitoramento/26.png>
-Package pdftex.def Info: monitoramento/26.png used on input line 1729.
+Package pdftex.def Info: monitoramento/26.png used on input line 1775.
 (pdftex.def)             Requested size: 140.32443pt x 286.06912pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107 <./monitoramento/25.png>]
+ [111 <./monitoramento/25.png>]
 
-./editaveis/desenvolvimento.tex:1735: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1781: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1735 	{\bf
+l.1781 	{\bf
             (Z):} Zarconado
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1736: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1782: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1736 	{\bf
+l.1782 	{\bf
             (G.El):} Galvanizado Eletroliticamente
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1737: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1783: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1737 	{\bf
+l.1783 	{\bf
             (G.El + P):} Galvanizado Eletroliticamente e pintado com Esmalte...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1738: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1784: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1738 	{\bf
+l.1784 	{\bf
             (G.F.):} Galvanizado a Fogo.
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1739: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1785: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1739 	{\bf
+l.1785 	{\bf
             (G.F.+P):} Galvanizado a Fogo e pintado com esmalte sintético o...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1741: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1787: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1741 	{\bf
+l.1787 	{\bf
              Embalagem:} Galvanizados – a granel  /  Pintados – protetor...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1742: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1788: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1742 	{\bf
+l.1788 	{\bf
              Especificação Técnica:} (medidas em m/m)
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1749: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1795: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1749 ...icolumn{5}{|l|}{{\bf DIMENSÕES GERAIS}}
+l.1795 ...icolumn{5}{|l|}{{\bf DIMENSÕES GERAIS}}
                                                    & \multicolumn{5}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1749: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1795: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1749 ...} & \multicolumn{5}{l|}{{\bf FLANGEADO}}
+l.1795 ...} & \multicolumn{5}{l|}{{\bf FLANGEADO}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1749: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1795: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1749 ...} & \multicolumn{1}{l|}{{\bf ENGASTADO}}
+l.1795 ...} & \multicolumn{1}{l|}{{\bf ENGASTADO}}
                                                    \\ \hline
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 \multicolumn{1}{|l|}{{\bf TIPO}}
+l.1796 \multicolumn{1}{|l|}{{\bf TIPO}}
                                         & \multicolumn{1}{l|}{{\bf h}} & \mu...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...bf TIPO}} & \multicolumn{1}{l|}{{\bf h}}
+l.1796 ...bf TIPO}} & \multicolumn{1}{l|}{{\bf h}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...{{\bf h}} & \multicolumn{1}{l|}{{\bf H}}
+l.1796 ...{{\bf h}} & \multicolumn{1}{l|}{{\bf H}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...bf H}} & \multicolumn{1}{l|}{{\bf ØD1}}
+l.1796 ...bf H}} & \multicolumn{1}{l|}{{\bf ØD1}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...f ØD1}} & \multicolumn{1}{l|}{{\bf Kg}}
+l.1796 ...f ØD1}} & \multicolumn{1}{l|}{{\bf Kg}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...\bf Kg}} & \multicolumn{1}{l|}{{\bf df}}
+l.1796 ...\bf Kg}} & \multicolumn{1}{l|}{{\bf df}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...\bf df}} & \multicolumn{1}{l|}{{\bf dc}}
+l.1796 ...\bf df}} & \multicolumn{1}{l|}{{\bf dc}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...\bf dc}} & \multicolumn{1}{l|}{{\bf hc}}
+l.1796 ...\bf dc}} & \multicolumn{1}{l|}{{\bf hc}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...\bf hc}} & \multicolumn{1}{l|}{{\bf d1}}
+l.1796 ...\bf hc}} & \multicolumn{1}{l|}{{\bf d1}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...bf d1}} & \multicolumn{1}{l|}{{\bf hc1}}
+l.1796 ...bf d1}} & \multicolumn{1}{l|}{{\bf hc1}}
                                                    & \multicolumn{1}{l|}{{\b...
 
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1750: Class memoir Error: Font command \bf is n
+./editaveis/desenvolvimento.tex:1796: Class memoir Error: Font command \bf is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1750 ...\bf hc1}} & \multicolumn{1}{l|}{{\bf e}}
+l.1796 ...\bf hc1}} & \multicolumn{1}{l|}{{\bf e}}
                                                    \\ \hline
 Use \textbf, or \bfseries{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1751: Class memoir Error: Font command \it is n
+./editaveis/desenvolvimento.tex:1797: Class memoir Error: Font command \it is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1751 \multicolumn{1}{|l|}{{\it PO-113/30}}
+l.1797 \multicolumn{1}{|l|}{{\it PO-113/30}}
                                              & \multicolumn{1}{l|}{3.000} & ...
 
 Use \textit, or \itshape{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1752: Class memoir Error: Font command \it is n
+./editaveis/desenvolvimento.tex:1798: Class memoir Error: Font command \it is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1752 \multicolumn{1}{|l|}{{\it PO-113B/30}}
+l.1798 \multicolumn{1}{|l|}{{\it PO-113B/30}}
                                               & \multicolumn{1}{l|}{3.000} &...
 
 Use \textit, or \itshape{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1753: Class memoir Error: Font command \it is n
+./editaveis/desenvolvimento.tex:1799: Class memoir Error: Font command \it is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1753 \multicolumn{1}{|l|}{{\it PO-113/40}}
+l.1799 \multicolumn{1}{|l|}{{\it PO-113/40}}
                                              & \multicolumn{1}{l|}{4.000} & ...
 
 Use \textit, or \itshape{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1754: Class memoir Error: Font command \it is n
+./editaveis/desenvolvimento.tex:1800: Class memoir Error: Font command \it is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1754 \multicolumn{1}{|l|}{{\it PO-113B/40}}
+l.1800 \multicolumn{1}{|l|}{{\it PO-113B/40}}
                                               & \multicolumn{1}{l|}{4.000} &...
 
 Use \textit, or \itshape{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1755: Class memoir Error: Font command \it is n
+./editaveis/desenvolvimento.tex:1801: Class memoir Error: Font command \it is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1755 \multicolumn{1}{|l|}{{\it PO-113/45}}
+l.1801 \multicolumn{1}{|l|}{{\it PO-113/45}}
                                              & \multicolumn{1}{l|}{4.500} & ...
 
 Use \textit, or \itshape{...}, or the oldfontcommands option
 
 
-./editaveis/desenvolvimento.tex:1756: Class memoir Error: Font command \it is n
+./editaveis/desenvolvimento.tex:1802: Class memoir Error: Font command \it is n
 ot supported.
 
 See the memoir class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1756 \multicolumn{1}{|l|}{{\it PO-113B/45}}
+l.1802 \multicolumn{1}{|l|}{{\it PO-113B/45}}
                                               & \multicolumn{1}{l|}{4.500} &...
 
 Use \textit, or \itshape{...}, or the oldfontcommands option
 
 
-Overfull \hbox (12.00006pt too wide) in paragraph at lines 1747--1758
+Overfull \hbox (12.00006pt too wide) in paragraph at lines 1793--1804
  [] 
  []
 
-[108 <./monitoramento/26.png>] [109]
-<monitoramento/27.png, id=1111, 341.02406pt x 370.38374pt>
+[112 <./monitoramento/26.png>] [113]
+<monitoramento/27.png, id=1200, 341.02406pt x 370.38374pt>
 File: monitoramento/27.png Graphic file (type png)
 
 <use monitoramento/27.png>
-Package pdftex.def Info: monitoramento/27.png used on input line 1791.
+Package pdftex.def Info: monitoramento/27.png used on input line 1837.
 (pdftex.def)             Requested size: 272.81961pt x 296.30739pt.
 
-<monitoramento/28.png, id=1112, 294.34969pt x 207.02344pt>
+<monitoramento/28.png, id=1201, 294.34969pt x 207.02344pt>
 File: monitoramento/28.png Graphic file (type png)
 
 <use monitoramento/28.png>
-Package pdftex.def Info: monitoramento/28.png used on input line 1798.
+Package pdftex.def Info: monitoramento/28.png used on input line 1844.
 (pdftex.def)             Requested size: 235.48006pt x 165.61896pt.
 
-<monitoramento/29.png, id=1113, 356.0803pt x 234.1247pt>
+<monitoramento/29.png, id=1202, 356.0803pt x 234.1247pt>
 File: monitoramento/29.png Graphic file (type png)
 
 <use monitoramento/29.png>
-Package pdftex.def Info: monitoramento/29.png used on input line 1805.
+Package pdftex.def Info: monitoramento/29.png used on input line 1851.
 (pdftex.def)             Requested size: 284.86462pt x 187.3pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4954) has occurred while \output is active []
 
- [110 <./monitoramento/27.png> <./monitoramento/28.png>] [111 <./monitoramento/
+ [114 <./monitoramento/27.png> <./monitoramento/28.png>] [115 <./monitoramento/
 29.png>]
-[112]
+[116]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [113]
+ [117]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [114]
+ [118]
 
-./editaveis/desenvolvimento.tex:1869: LaTeX Error: Command \textdegree unavaila
+./editaveis/desenvolvimento.tex:1915: LaTeX Error: Command \textdegree unavaila
 ble in encoding T1.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1869 ...�ão ao trabalho a realizar o inciso 2°
+l.1915 ...�ão ao trabalho a realizar o inciso 2°
                                                    do artigo 18 traz o dever...
 
 Your command was ignored.
@@ -3419,64 +3330,65 @@ or  <return>  to continue without it.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [115]
+ [119]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [116]
+ [120]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [117]
+ [121]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [118]
+ [122]
 
-./editaveis/desenvolvimento.tex:1907: Package inputenc Error: Unicode char \u8:
+./editaveis/desenvolvimento.tex:1953: Package inputenc Error: Unicode char \u8:
 Ω not set up for use with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1907 ...ramento não deverá ser superior a 5 Ω
+l.1953 ...ramento não deverá ser superior a 5 Ω
                                                    e a seção transversal d...
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<figuras/figuraxdesign.png, id=1185, 420.82219pt x 327.47343pt>
+<figuras/figuraxdesign.png, id=1274, 420.82219pt x 327.47343pt>
 File: figuras/figuraxdesign.png Graphic file (type png)
 
 <use figuras/figuraxdesign.png>
-Package pdftex.def Info: figuras/figuraxdesign.png used on input line 1914.
+Package pdftex.def Info: figuras/figuraxdesign.png used on input line 1960.
 (pdftex.def)             Requested size: 336.6582pt x 261.97911pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [119]
-[120 <./figuras/figuraxdesign.png>]
-<figuras/EAP-GERAL.png, id=1196, 650.43pt x 508.14844pt>
+ [123]
+[124 <./figuras/figuraxdesign.png>]
+<figuras/EAP-GERAL.png, id=1284, 650.43pt x 508.14844pt>
 File: figuras/EAP-GERAL.png Graphic file (type png)
 
 <use figuras/EAP-GERAL.png>
-Package pdftex.def Info: figuras/EAP-GERAL.png used on input line 1937.
+Package pdftex.def Info: figuras/EAP-GERAL.png used on input line 1983.
 (pdftex.def)             Requested size: 585.38159pt x 457.32936pt.
 
-Overfull \hbox (2.32936pt too wide) in paragraph at lines 1937--1938
+Overfull \hbox (2.32936pt too wide) in paragraph at lines 1983--1984
  [][] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) (./editaveis/conclusao.tex [121] [122 <./figuras/EAP-GERAL.png>]) (./pi1.bbl
+ [125])
+(./editaveis/conclusao.tex [126 <./figuras/EAP-GERAL.png>]) (./pi1.bbl
 (./pi1.brf)
 \tf@brf=\write5
 \openout5 = `pi1.brf'.
 
- [123
+ [127
 
-] [124
+] [128
 
 ]
 
@@ -3484,33 +3396,11 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
 
 bibitemlist
-Runaway argument?
- \abntrefinfo {Cemig}{CEMIG}{2015} {CEMIG. \emph {PROJETOS DE ILUMINA\ETC.
-./pi1.bbl:14: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
+./pi1.bbl:14: Undefined control sequence.
+<argument> PROJETOS DE ILUMINA\C 
+                                 {C}\~AO P\'UBLICA
 l.14 
      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
- \abntrefinfo {Grade}{GRADE}{2015} {GRADE, M. \emph {Cat\’alogo de \ETC.
-./pi1.bbl:39: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.39 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./pi1.bbl:51: Undefined control sequence.
-<argument> ...LEAL}{2000} {LEAL, A.~C. Ciclo da \�
-                                                  ��agua na edifica\c {c}\~a...
-l.51 
-     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3518,35 +3408,99 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./pi1.bbl:51: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+Underfull \hbox (badness 1122) in paragraph at lines 14--14
+[]\T1/lmr/m/n/12 CEMIG. \T1/lmr/m/it/12 PRO-JE-TOS DE ILU-MI-NA-C�O P�-BLICA\T1
+/lmr/m/n/12 . 2015. 
+ []
 
-See the inputenc package documentation for explanation.
+
+Overfull \hbox (131.12352pt too wide) in paragraph at lines 45--45
+\T1/lmr/m/n/12 http://www.metalgrade.com.br/images/stories/stadium.pdf?phpMyAdm
+in=0b08ee7262dd076a48b50896a4228991. 
+ []
+
+./pi1.bbl:85: Missing $ inserted.
+<inserted text> 
+                $
+l.85 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./pi1.bbl:85: Extra }, or forgotten $.
+<argument> ...w.sunlab.com.br/Poste_Solar_PTS.htm}
+                                                  . Dispon{\'\i }vel em: \ur...
+l.85 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 85.
+
+
+./pi1.bbl:85: LaTeX Error: Command $ invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 
+l.85 
      
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-
-./pi1.bbl:51: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.51 
+./pi1.bbl:85: Missing } inserted.
+<inserted text> 
+                }
+l.85 
      
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-./pi1.bbl:57: Undefined control sequence.
-<argument> ... viabilidade do aproveitamento de \�
-                                                  ��agua de chuva para consu...
-l.57 
+./pi1.bbl:85: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:85: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:85: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:85: Undefined control sequence.
+\Url@FormatString ...ndafter \UrlLeft \Url@String 
+                                                  \UrlRight \m@th $
+l.85 
      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3554,168 +3508,444 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+./pi1.bbl:85: Extra }, or forgotten $.
+<recently read> }
+                 
+l.85 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
-./pi1.bbl:57: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+./pi1.bbl:85: Missing $ inserted.
+<inserted text> 
+                $
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-See the inputenc package documentation for explanation.
+./pi1.bbl:85: Missing } inserted.
+<inserted text> 
+                }
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:85: Missing } inserted.
+<inserted text> 
+                }
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:85: Missing } inserted.
+<inserted text> 
+                }
+l.85 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:85: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.85 
+     
+Things are pretty mixed up, but I think the worst is over.
+
+./pi1.bbl:85: Too many }'s.
+<argument> ...lab.com.br/Poste\_Solar\_PTS.html}.}
+                                                   
+l.85 
+     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Overfull \hbox (34.96686pt too wide) in paragraph at lines 85--85
+[]\T1/lmr/m/n/12 SUNLAB. \T1/lmr/m/it/12 Pos-tes So-la-res\T1/lmr/m/n/12 . 2015
+. http://www.sunlab.com.br/Poste$[]\OML/lmm/m/it/12 olar[]TS:htm:Dispon\OT1/lmr
+/m/n/12 �\OML/lmm/m/it/12 velem \OT1/lmr/m/n/12 :
+ []
+
+
+./pi1.bbl:90: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 
+l.90 
      
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-./pi1.bbl:57: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
+Underfull \hbox (badness 10000) detected at line 90
+[][]
+ []
 
-See the inputenc package documentation for explanation.
+[129]
+
+./pi1.bbl:96: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.57 
-     
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-./pi1.bbl:57: Undefined control sequence.
-<argument> ...ua de chuva para consumo n\~ao pot\�
-                                                  ��avel em edifica\c {c}\~oes
-l.57 
-     
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-./pi1.bbl:57: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 
-     
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-./pi1.bbl:57: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.57 
-     
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-Runaway argument?
- \abntrefinfo {SAUDE}{SAUDE}{2015} {SAUDE, M.~D. \emph {Portaria n 14\ETC.
-./pi1.bbl:63: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.63 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
- \abntrefinfo {Solar}{SOLAR}{2015} {SOLAR, P. \emph {C\’alculo Sola\ETC.
-./pi1.bbl:69: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.69 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
- \abntrefinfo {SUNLAB}{SUNLAB}{2015} {SUNLAB. \emph {Postes Solares}.\ETC.
-./pi1.bbl:75: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.75 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
- \abntrefinfo {TECHINIK}{TECHINIK}{2015} {TECHINIK, P. \emph {Informa\ETC.
-./pi1.bbl:81: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.81 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
- \abntrefinfo {THOMAS}{THOMAS}{2015} {THOMAS, T. \emph {hoosing raina\ETC.
-./pi1.bbl:89: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.89 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-Runaway argument?
- \abntrefinfo {Unicamp}{UNICAMP}{2015} {UNICAMP. \emph {MANUAL DE ILU\ETC.
-./pi1.bbl:96: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
 l.96 
      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 96
+[][]
+ []
+
+
+Overfull \hbox (31.47243pt too wide) in paragraph at lines 96--96
+[]\T1/lmr/m/n/12 TECHINIK, P. \T1/lmr/m/it/12 In-for-ma-��es so-bre o apro-vei-
+ta-mento das �guas de chuva\T1/lmr/m/n/12 . 2015. http://www.agua-
+ []
+
+
+./pi1.bbl:104: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 
+      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 104
+[][]
+ []
+
+./pi1.bbl:104: Missing $ inserted.
+<inserted text> 
+                $
+l.104 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./pi1.bbl:104: Extra }, or forgotten $.
+<argument> ...mp_terrytomas_choosingrainwater.pdf}
+                                                  . Dispon{\'\i }vel em: \ur...
+l.104 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 104.
+
+
+./pi1.bbl:104: LaTeX Error: Command $ invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 
+      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./pi1.bbl:104: Missing } inserted.
+<inserted text> 
+                }
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Undefined control sequence.
+\Url@FormatString ...ndafter \UrlLeft \Url@String 
+                                                  \UrlRight \m@th $
+l.104 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./pi1.bbl:104: Extra }, or forgotten $.
+<recently read> }
+                 
+l.104 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./pi1.bbl:104: Missing $ inserted.
+<inserted text> 
+                $
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Missing } inserted.
+<inserted text> 
+                }
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Missing } inserted.
+<inserted text> 
+                }
+l.104 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./pi1.bbl:104: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.104 
+      
+Things are pretty mixed up, but I think the worst is over.
+
+./pi1.bbl:104: Extra \endgroup.
+\Hy@endcolorlink ->\endgroup 
+                             
+l.104 
+      
+Things are pretty mixed up, but I think the worst is over.
+
+./pi1.bbl:104: Extra \endgroup.
+\hyper@linkurl ...ce@end \close@pdflink \endgroup 
+                                                  
+l.104 
+      
+Things are pretty mixed up, but I think the worst is over.
+
+./pi1.bbl:104: Too many }'s.
+<argument> ...terrytomas\_choosingrainwater.pdf}.}
+                                                   
+l.104 
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Overfull \hbox (109.39764pt too wide) in paragraph at lines 104--104
+\T1/lmr/m/it/12 S/D\T1/lmr/m/n/12 . 2015. http://www.abcmac.org.br/files/simpos
+io/3simp$[]\OML/lmm/m/it/12 errytomas[]hoosingrainwater:pdf:Dispon\OT1/lmr/m/n/
+12 �\OML/lmm/m/it/12 velem \OT1/lmr/m/n/12 :
+ []
 
 Runaway argument?
- \abntrefinfo {viridian}{VIRIDIAN}{2015} {VIRIDIAN. \emph {Energia So\ETC.
-./pi1.bbl:108: Paragraph ended before \BR@@lbibitem was complete.
+ \abntrefinfo {Unicamp}{UNICAMP}{2015} {UNICAMP. \emph {Manual de ilu\ETC.
+./pi1.bbl:111: Paragraph ended before \BR@@lbibitem was complete.
 <to be read again> 
                    \par 
-l.108 
+l.111 
       
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-Runaway argument?
- \abntrefinfo {WATERFALL}{WATERFALL}{2015} {WATERFALL, P. \emph {Have\ETC.
-./pi1.bbl:115: Paragraph ended before \BR@@lbibitem was complete.
-<to be read again> 
-                   \par 
-l.115 
+
+./pi1.bbl:116: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 
       
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-) (./editaveis/apendices.tex) (./editaveis/anexos.tex [125] [126
 
-]
+Underfull \hbox (badness 10000) detected at line 116
+[][]
+ []
+
+
+./pi1.bbl:123: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123 
+      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 123
+[][]
+ []
+
+
+Overfull \hbox (136.5236pt too wide) in paragraph at lines 123--123
+[]\T1/lmr/m/n/12 VIRIDIAN. \T1/lmr/m/it/12 Ener-gia So-lar Fo-to-vol-taica\T1/l
+mr/m/n/12 . 2015. http://www.viridian.com.br/tecnologia/energia+solar+fotovolta
+ica/4.
+ []
+
+
+Overfull \hbox (1.9362pt too wide) in paragraph at lines 123--123
+\T1/lmr/m/n/12 Dis-po-n�-vel em: [][]$<[]http : / / www . viridian . com . br /
+ tecnologia / energia + solar + fotovoltaica / 4>[]$[][].
+ []
+
+
+./pi1.bbl:130: LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 
+      
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) detected at line 130
+[][]
+ []
+
+
+./pi1.bbl:131: LaTeX Error: \begin{document} ended by \end{bibitemlist}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \end{thebibliography}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./pi1.bbl:131: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.131 \end{thebibliography}
+                           
+Things are pretty mixed up, but I think the worst is over.
+
+
+./pi1.bbl:131: LaTeX Error: \begin{document} ended by \end{thebibliography}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.131 \end{thebibliography}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./pi1.bbl:131: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.131 \end{thebibliography}
+                           
+Things are pretty mixed up, but I think the worst is over.
+
+)
+./pi1.tex:55: Too many }'s.
+\bibliography ...}\fi } \@input@ {\jobname .bbl} }
+                                                   
+l.55 \bibliography{bibliografiaPI}
+                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+(./editaveis/apendices.tex) (./editaveis/anexos.tex [130]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 4.
 
-[127
+[131
 
-] [128]
-<figuras/CronogramaProjeto.png, id=1246, 723.70375pt x 543.02875pt>
+
+] [132]
+<figuras/CronogramaProjeto.png, id=1371, 723.70375pt x 543.02875pt>
 File: figuras/CronogramaProjeto.png Graphic file (type png)
 
 <use figuras/CronogramaProjeto.png>
@@ -3725,7 +3955,7 @@ Package pdftex.def Info: figuras/CronogramaProjeto.png used on input line 10.
 No file pi1.ind.
 
 AED: lastpage setting LastPage
-[129
+[133
 
  <./figuras/CronogramaProjeto.png>]
 \tf@lof=\write6
@@ -3742,9 +3972,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
  (./pi1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
-Package rerunfilecheck Info: File `pi1.brf' has not changed.
-(rerunfilecheck)             Checksum: D998AC334D71126F9E897E14DAA132CF;2001.
 
+
+Package rerunfilecheck Warning: File `pi1.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `pi1.brf':
+(rerunfilecheck)             Before: C0F75015010888F850B4B8ED6E088502;2302
+(rerunfilecheck)             After:  0C3796AAD680215720BDF82D3F7AF5FD;2302.
 
 LaTeX Warning: There were undefined references.
 
@@ -3754,17 +3989,17 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  ) 
 Here is how much of TeX's memory you used:
- 25372 strings out of 493117
- 452973 string characters out of 6135433
- 532039 words of memory out of 5000000
- 27897 multiletter control sequences out of 15000+600000
- 117692 words of font info for 74 fonts, out of 8000000 for 9000
+ 25443 strings out of 493117
+ 454241 string characters out of 6135433
+ 530998 words of memory out of 5000000
+ 27949 multiletter control sequences out of 15000+600000
+ 123311 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,38p,10413b,1067s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/20
-14/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2014/texmf-d
-ist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/texlive/2014/texmf-dist/fonts/type
+ 41i,18n,38p,10413b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
+texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2014/t
+exmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2014/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2014/texmf-dist/fonts/type
 1/public/lm/lmbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/l
 m/lmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lmmi10.p
 fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/l
@@ -3778,11 +4013,13 @@ r/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2014
 /texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/
-type1/public/lm/lmsy10.pfb>
-Output written on pi1.pdf (131 pages, 13931646 bytes).
+type1/public/lm/lmsso10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
+lic/lm/lmsso12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lm
+sy10.pfb>
+Output written on pi1.pdf (135 pages, 14016217 bytes).
 PDF statistics:
- 1715 PDF objects out of 1728 (max. 8388607)
- 1404 compressed objects within 15 object streams
- 411 named destinations out of 1000 (max. 500000)
- 1382 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1846 PDF objects out of 2073 (max. 8388607)
+ 1528 compressed objects within 16 object streams
+ 426 named destinations out of 1000 (max. 500000)
+ 1374 words of extra memory for PDF output out of 10000 (max. 10000000)
 
