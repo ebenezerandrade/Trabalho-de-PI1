@@ -38,7 +38,8 @@
 \contentsline {subsection}{\numberline {1.6.4}Gerenciamento do Tempo}{26}{subsection.1.6.4}
 \contentsline {subsection}{\numberline {1.6.5}Desenvolvimento de Projeto/ Metodologia}{27}{subsection.1.6.5}
 \contentsline {subsubsection}{\numberline {1.6.5.1}Vis\IeC {\~a}o Completa do Processo}{28}{subsubsection.1.6.5.1}
-\contentsline {section}{\numberline {1.7}Defini\IeC {\c c}\IeC {\~a}o de Escopo do Projeto}{29}{section.1.7}
+\contentsline {subsubsection}{\numberline {1.6.5.2}Iniciar Projeto}{29}{subsubsection.1.6.5.2}
+\contentsline {section}{\numberline {1.7}Defini\IeC {\c c}\IeC {\~a}o de Escopo do Projeto}{30}{section.1.7}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Desenvolvimento}}{31}{chapter.2}
 \contentsline {section}{\numberline {2.1}Solu\c {c}\~oes Propostas}{31}{section.2.1}
@@ -103,12 +104,12 @@
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Conclus\IeC {\~o}es}}{127}{chapter.3}
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{129}{section*.123}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{129}{section*.124}
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{131}{section*.124}
+\contentsline {part}{\uppercase {Anexos}}{131}{section*.125}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
